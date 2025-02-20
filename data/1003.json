@@ -1,80 +1,76 @@
 {
-    "id": 1003,
-    "name": "Exercise 3",
-    "category": "cardio",
-    "subcategory": null,
-    "muscles_worked": {
-        "primary": [
-            "arms",
-            "shoulders"
-        ],
-        "secondary": [
-            "back"
-        ]
-    },
-    "difficulty": "intermediate",
-    "equipment": [],
-    "instructions": [
-        {
-            "step": 1,
-            "description": "Step 1 for Exercise 3."
-        },
-        {
-            "step": 2,
-            "description": "Step 2 for Exercise 3."
-        },
-        {
-            "step": 3,
-            "description": "Step 3 for Exercise 3."
-        }
+  "id": 1001,
+  "name": "Exercise 1",
+  "category": "cardio",
+  "subcategory": "free weights",
+  "muscles_worked": {
+    "primary": [
+      "arms",
+      "shoulders"
     ],
-    "metrics": {
-        "reps": null,
-        "sets": null,
-        "duration": "30s",
-        "calories_burned_per_minute": 11
+    "secondary": []
+  },
+  "difficulty": "beginner",
+  "equipment": [
+    "dumbbells"
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Step 1 for Exercise 1."
     },
-    "progressions": {
-        "easier": [
-            1002
-        ],
-        "harder": [
-            1004
-        ]
+    {
+      "step": 2,
+      "description": "Step 2 for Exercise 1."
     },
-    "video_urls": [],
-    "thumbnail_urls": [
-        "https://example.com/exercise3.jpg"
-    ],
-    "metadata": {
-        "created_by": "user3",
-        "review_status": "pending",
-        "date_created": "2025-02-19",
-        "last_updated": "2025-02-22",
-        "last_edited_by": "user4",
-        "edit_history": [
-            {
-                "version": 3,
-                "edited_by": "user4",
-                "date_edited": "2025-02-22",
-                "review_status": "pending"
-            }
-        ]
-    },
-    "_comments": {
-        "exercise_info": "Exercise 3 targets different muscle groups.",
-        "form_tips": [
-            "Keep your back straight.",
-            "Engage your core.",
-            "Maintain controlled movement."
-        ],
-        "modifications": [
-            "Use a chair for assistance.",
-            "Add weights for intensity."
-        ],
-        "safety_tips": [
-            "Warm up before exercising.",
-            "Avoid excessive strain."
-        ]
+    {
+      "step": 3,
+      "description": "Step 3 for Exercise 1."
     }
+  ],
+  "metrics": {
+    "reps": null,
+    "sets": null,
+    "duration": "30s",
+    "calories_burned_per_minute": 9
+  },
+  "progressions": {
+    "easier": [],
+    "harder": []
+  },
+  "video_urls": [
+    "https://example.com/exercise1.mp4"
+  ],
+  "thumbnail_urls": [],
+  "metadata": {
+    "created_by": "user1",
+    "review_status": "approved",
+    "date_created": "2025-02-19",
+    "last_updated": "2025-02-22",
+    "last_edited_by": "user2",
+    "edit_history": [
+      {
+        "version": 1,
+        "edited_by": "user2",
+        "date_edited": "2025-02-22",
+        "review_status": "approved"
+      }
+    ]
+  },
+  "_comments": {
+    "exercise_info": "Exercise 1 targets different muscle groups.",
+    "form_tips": [
+      "Keep your back straight.",
+      "Engage your core.",
+      "Maintain controlled movement."
+    ],
+    "modifications": [
+      "Use a chair for assistance.",
+      "Add weights for intensity."
+    ],
+    "safety_tips": [
+      "Warm up before exercising.",
+      "Avoid excessive strain."
+    ]
+  }
 }
