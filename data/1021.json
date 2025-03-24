@@ -1,0 +1,39 @@
+{
+  "name": "exercise test commit",
+  "category": "strength",
+  "subcategory": "w",
+  "muscles_worked": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "chest"
+    ]
+  },
+  "equipment": "",
+  "instructions": [
+    {
+      "step": 1,
+      "description": "ewew"
+    }
+  ],
+  "metrics": {
+    "reps": null,
+    "sets": null,
+    "duration": null,
+    "calories_burned_per_minute": null
+  },
+  "video_urls": [],
+  "thumbnail_urls": [],
+  "metadata": {
+    "created_by": "community",
+    "review_status": "pending",
+    "current_version": 1,
+    "date_created": "2025-03-24",
+    "last_updated": "2025-03-24"
+  },
+  "_comments": {
+    "exercise_info": ""
+  },
+  "id": 1021
+}
