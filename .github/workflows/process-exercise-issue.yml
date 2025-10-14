@@ -17,21 +17,32 @@ jobs:
       
       - name: Extract JSON from issue
         id: extract
-        run: |
-          # Extract JSON from issue body
-          ISSUE_BODY="${{ github.event.issue.body }}"
-          
-          # Extract JSON between ```json and ```
-          JSON_DATA=$(echo "$ISSUE_BODY" | sed -n '/```json/,/```/p' | sed '1d;$d')
-          
-          # Generate filename
-          TIMESTAMP=$(date +%s)
-          FILENAME="exercise_${TIMESTAMP}.json"
-          
-          # Save to file
-          echo "$JSON_DATA" > "data/$FILENAME"
-          
-          echo "filename=$FILENAME" >> $GITHUB_OUTPUT
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issueBody = context.payload.issue.body;
+            
+            // Extract JSON between ```json and ```
+            const jsonMatch = issueBody.match(/```json\s*\n([\s\S]*?)\n```/);
+            
+            if (!jsonMatch) {
+              core.setFailed('Could not find JSON in issue body');
+              return;
+            }
+            
+            const jsonData = jsonMatch[1];
+            
+            // Generate filename
+            const timestamp = Date.now();
+            const filename = `exercise_${timestamp}.json`;
+            
+            // Write file to repository
+            const fs = require('fs');
+            fs.writeFileSync(`data/${filename}`, jsonData);
+            
+            core.setOutput('filename', filename);
+            
+            return filename;
       
       - name: Commit exercise file
         run: |
