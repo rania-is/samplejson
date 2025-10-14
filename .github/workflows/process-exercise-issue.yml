@@ -1,0 +1,60 @@
+name: Process Exercise Submission
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  process-submission:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'exercise-submission')
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Extract JSON from issue
+        id: extract
+        run: |
+          # Extract JSON from issue body
+          ISSUE_BODY="${{ github.event.issue.body }}"
+          
+          # Extract JSON between ```json and ```
+          JSON_DATA=$(echo "$ISSUE_BODY" | sed -n '/```json/,/```/p' | sed '1d;$d')
+          
+          # Generate filename
+          TIMESTAMP=$(date +%s)
+          FILENAME="exercise_${TIMESTAMP}.json"
+          
+          # Save to file
+          echo "$JSON_DATA" > "data/$FILENAME"
+          
+          echo "filename=$FILENAME" >> $GITHUB_OUTPUT
+      
+      - name: Commit exercise file
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*.json
+          git commit -m "Add exercise from issue #${{ github.event.issue.number }}"
+          git push
+      
+      - name: Close issue with success message
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ **Exercise successfully added to the database!**\n\nYour exercise has been processed and committed to the repository. It will appear on the website once the index is regenerated (usually within a minute).\n\nThank you for your contribution! 🎉'
+            });
+            
+            github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed'
+            });
