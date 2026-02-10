@@ -1,74 +1,77 @@
 {
-  "id": "EX-5",
-  "name": "Barbell Back Squat",
-  "categories": ["Strength and resistance"],
+  "id": "EX-21",
+  "name": "Bodyweight Walking Lunge",
+  "categories": ["Endurance", "Cardiovascular conditioning"],
   "exerciseEffects": [
-    "increased muscle strength",
-    "increased bone strength",
-    "improved posture",
-    "increased heart rate"
+    "improved muscular endurance",
+    "increased heart rate",
+    "enhanced balance and coordination",
+    "improved lower-body stamina"
   ],
-  "bodyParts": ["quadriceps", "glutes", "hamstrings", "lower back", "core"],
-  "equipment": ["barbell", "weight plates", "squat rack"],
-  "location": ["indoor"],
+  "bodyParts": ["quadriceps", "glutes", "hamstrings", "calves", "core"],
+  "equipment": [],
+  "location": ["indoor", "outdoor"],
 
   "instructions": [
     {
       "stepNumber": 1,
-      "description": "Set a barbell in a squat rack at upper-chest height. Step under the bar and place it across your upper back (trapezius), gripping it slightly wider than shoulder-width."
+      "description": "Stand upright with feet hip-width apart, arms relaxed at your sides or hands on hips."
     },
     {
       "stepNumber": 2,
-      "description": "Unrack the bar by standing tall, then step back with feet about shoulder-width apart and toes slightly turned out."
+      "description": "Step forward with your right leg, lowering your body until both knees are bent at approximately 90 degrees."
     },
     {
       "stepNumber": 3,
-      "description": "Brace your core and keep your chest up. Initiate the movement by pushing hips back slightly and bending knees."
+      "description": "Keep your torso upright, core engaged, and front knee aligned over the toes."
     },
     {
       "stepNumber": 4,
-      "description": "Lower your body until thighs are at least parallel to the floor while keeping heels grounded and knees tracking over toes."
+      "description": "Push through the front heel to bring the back leg forward into the next lunge step."
     },
     {
       "stepNumber": 5,
-      "description": "Drive through your heels and mid-foot to stand back up, extending hips and knees simultaneously."
+      "description": "Continue alternating steps in a smooth, continuous motion for the desired distance or time."
     }
   ],
 
   "performanceMetrics": [
     {
-      "type": "Weight / resistance / load",
-      "unit": "kg",
-      "notes": "Select a load that allows proper depth and spinal alignment."
+      "type": "Duration",
+      "unit": "minutes",
+      "notes": "Sustained movement for longer durations improves endurance."
+    },
+    {
+      "type": "Distance",
+      "unit": "meters",
+      "notes": "Track total distance covered to measure progression."
     },
     {
       "type": "Number of repetitions",
-      "unit": "reps",
-      "notes": "Lower reps for maximal strength; higher reps for hypertrophy."
-    },
-    {
-      "type": "Duration",
-      "unit": "seconds",
-      "notes": "Time under tension increases with slower eccentric phases."
+      "unit": "steps",
+      "notes": "Higher step counts emphasize muscular endurance."
     },
     {
       "type": "Heart rate",
       "unit": "bpm",
-      "notes": "Heart rate rises significantly during multi-rep or high-load sets."
+      "notes": "Maintain a moderate to elevated heart rate throughout the set."
     },
     {
       "type": "Breathing rate",
       "unit": "breaths/min",
-      "notes": "Controlled breathing between reps; brace before descent."
+      "notes": "Aim for rhythmic, controlled breathing during continuous movement."
     }
   ],
 
   "variations": [
+    "Weighted walking lunges",
+    "Reverse walking lunges",
+    "Walking lunges with overhead reach"
   ],
 
   "mediaContent": {
     "imageURLs": [
-      "image_1.png",
+      "image_1.png"
     ]
   },
 
@@ -84,9 +87,9 @@
   },
 
   "commentsNotes": [
-    "Keep spine neutral and avoid rounding the lower back.",
-    "Knees should track in line with toes throughout the movement.",
-    "Use a spotter or safety bars when lifting heavy loads.",
-    "Warm up with lighter sets before working sets."
+    "Keep steps controlled rather than rushing to reduce joint strain.",
+    "Maintain upright posture to avoid excessive forward lean.",
+    "Shorten stride if knee discomfort occurs.",
+    "Can be integrated into circuits or long-distance conditioning workouts."
   ]
 }
