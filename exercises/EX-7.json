@@ -1,0 +1,47 @@
+{
+  "id": "EX-7",
+  "name": "pushupnumber2",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "improved_body_balance"
+  ],
+  "bodyParts": [
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "step 1"
+    },
+    {
+      "stepNumber": 2,
+      "description": "step 2"
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-02-12",
+    "lastUpdated": "2026-02-12",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
