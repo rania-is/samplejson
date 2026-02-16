@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T15:23:18.850Z",
+  "updatedAt": "2026-02-16T16:19:51.392Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -77,6 +77,23 @@
       ],
       "imageFile": null,
       "imageFolder": "EX-plank_with_shoulder_taps-01KHKGRPQC317B2WVNCWF6VHPZ",
+      "lastUpdated": "2026-02-16"
+    },
+    {
+      "id": "EX-pushups-01KHKKYREJB909CX0BS6JGNK4E",
+      "name": "pushups",
+      "categories": [
+        "endurance"
+      ],
+      "bodyParts": [
+        "abdominals"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": null,
+      "imageFolder": "EX-pushups-01KHKKYREJB909CX0BS6JGNK4E",
       "lastUpdated": "2026-02-16"
     }
   ]
