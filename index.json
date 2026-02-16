@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T15:14:16.302Z",
+  "updatedAt": "2026-02-16T15:18:30.586Z",
   "exercises": [
     {
       "id": "EX-1",
@@ -217,6 +217,25 @@
       ],
       "imageFile": "image_1.png",
       "imageFolder": "EX-single_leg_romanian_deadlift-01KHKFV2ZXRPBMSH8C5W0EKNCE",
+      "lastUpdated": "2026-02-16"
+    },
+    {
+      "id": "EX-seated_diaphragmatic_breathing-01KHKGBKP7463JVDFABCFV0B6K",
+      "name": "Seated Diaphragmatic Breathing",
+      "categories": [
+        "relaxation_and_breathing"
+      ],
+      "bodyParts": [
+        "core"
+      ],
+      "equipment": [
+        "none"
+      ],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-seated_diaphragmatic_breathing-01KHKGBKP7463JVDFABCFV0B6K",
       "lastUpdated": "2026-02-16"
     }
   ]
