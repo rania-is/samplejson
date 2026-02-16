@@ -1,0 +1,65 @@
+{
+  "id": "EX-pushups-01KHKKYREJB909CX0BS6JGNK4E",
+  "name": "pushups",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_body_balance",
+    "improved_posture",
+    "increased_bone_strength",
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "abdominals"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "a"
+    },
+    {
+      "stepNumber": 2,
+      "description": "2"
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [
+    {
+      "level": "easier",
+      "description": "",
+      "track": "community",
+      "id": ""
+    }
+  ],
+  "relationships": [
+    {
+      "type": "variation_of",
+      "target": {
+        "track": "validated",
+        "id": "EX-pushup4-01KH8VF8M7GXVFV4A1EED85VMT"
+      }
+    }
+  ],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-02-16",
+    "lastUpdated": "2026-02-16",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
