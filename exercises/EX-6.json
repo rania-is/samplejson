@@ -1,17 +1,27 @@
 {
   "id": "EX-6",
   "name": "Bodyweight Walking Lunge",
-  "categories": ["Endurance"],
+  "categories": [
+    "Endurance"
+  ],
   "exerciseEffects": [
     "improved muscular endurance",
     "increased heart rate",
     "enhanced balance and coordination",
     "improved lower-body stamina"
   ],
-  "bodyParts": ["quadriceps", "glutes", "hamstrings", "calves", "core"],
+  "bodyParts": [
+    "quadriceps",
+    "glutes",
+    "hamstrings",
+    "calves",
+    "core"
+  ],
   "equipment": [],
-  "location": ["indoor", "outdoor"],
-
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
   "instructions": [
     {
       "stepNumber": 1,
@@ -34,7 +44,6 @@
       "description": "Continue alternating steps in a smooth, continuous motion for the desired distance or time."
     }
   ],
-
   "performanceMetrics": [
     {
       "type": "Duration",
@@ -62,27 +71,26 @@
       "notes": "Aim for rhythmic, controlled breathing during continuous movement."
     }
   ],
-
-  "variations": [
-  ],
-
+  "variations": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
     ]
   },
-
   "metadata": {
     "createdBy": "ai_generated",
-    "reviewStatus": "community",
-    "reviewedBy": [],
-    "dateReviewed": null,
-    "reviewNotes": "",
+    "reviewStatus": "rejected",
+    "reviewedBy": [
+      "rania-is"
+    ],
+    "dateReviewed": "2026-02-16",
+    "reviewNotes": "reject",
     "dateCreated": "2026-02-10",
-    "lastUpdated": "2026-02-10",
-    "lastEditedBy": "ai_generated"
+    "lastUpdated": "2026-02-16",
+    "lastEditedBy": "rania-is",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
   },
-
   "commentsNotes": [
     "Keep steps controlled rather than rushing to reduce joint strain.",
     "Maintain upright posture to avoid excessive forward lean.",
