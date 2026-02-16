@@ -1,0 +1,63 @@
+{
+  "id": "EX-shoulder_taps-01KHKNBJEK01434T477DG4Y3SZ",
+  "name": "Shoulder Taps",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "shoulders"
+  ],
+  "equipment": [
+    "none"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to heels."
+    },
+    {
+      "stepNumber": 2,
+      "description": "While engaging your core, lift your right hand off the floor and tap your left shoulder."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Return your right hand to the floor and repeat the movement with your left hand tapping your right shoulder."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue alternating shoulder taps for the desired number of repetitions."
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "co-created with AI",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-02-16",
+    "lastUpdated": "2026-02-16",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Ensure your hips stay level and avoid rotating your torso while performing the shoulder taps.",
+    "Engage your core muscles throughout the exercise to maintain stability and control.",
+    "If you experience any discomfort in your wrists, consider performing the exercise on your fists or using push-up handles for wrist support.",
+    "Focus on controlled movements to prevent any jerking or excessive swaying of the body."
+  ]
+}
