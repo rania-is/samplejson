@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T15:09:17.109Z",
+  "updatedAt": "2026-02-16T15:10:59.848Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -55,25 +55,6 @@
       ],
       "imageFile": "image_1.png",
       "lastUpdated": "2026-02-13"
-    },
-    {
-      "id": "EX-single_leg_romanian_deadlift-01KHKFV2ZXRPBMSH8C5W0EKNCE",
-      "name": "Single Leg Romanian Deadlift",
-      "categories": [
-        "strength_and_resistance"
-      ],
-      "bodyParts": [
-        "hamstrings"
-      ],
-      "equipment": [
-        "none"
-      ],
-      "location": [
-        "indoor",
-        "outdoor"
-      ],
-      "imageFile": "image_1.png",
-      "lastUpdated": "2026-02-16"
     }
   ]
 }
