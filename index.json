@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T15:17:39.357Z",
+  "updatedAt": "2026-02-16T15:18:31.643Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -58,25 +58,6 @@
       "imageFile": "image_1.png",
       "imageFolder": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
       "lastUpdated": "2026-02-13"
-    },
-    {
-      "id": "EX-seated_diaphragmatic_breathing-01KHKGBKP7463JVDFABCFV0B6K",
-      "name": "Seated Diaphragmatic Breathing",
-      "categories": [
-        "relaxation_and_breathing"
-      ],
-      "bodyParts": [
-        "core"
-      ],
-      "equipment": [
-        "none"
-      ],
-      "location": [
-        "indoor"
-      ],
-      "imageFile": "image_1.png",
-      "imageFolder": "EX-seated_diaphragmatic_breathing-01KHKGBKP7463JVDFABCFV0B6K",
-      "lastUpdated": "2026-02-16"
     }
   ]
 }
