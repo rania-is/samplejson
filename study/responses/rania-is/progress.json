@@ -1,11 +1,12 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 4,
-  "completed": 3,
+  "completed": 4,
   "completedExerciseIds": [
     "EX-barbell_glute_bridge-01KHK9NT1FNJAWSK2WSJMK6JEC",
     "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-    "EX-plank_rotation-01KHKBVEDN7XYEWQS0X2HE3BFV"
+    "EX-plank_rotation-01KHKBVEDN7XYEWQS0X2HE3BFV",
+    "EX-single_leg_romanian_deadlift-01KHKFV2ZXRPBMSH8C5W0EKNCE"
   ],
-  "lastUpdated": "2026-02-17T07:21:27.310Z"
+  "lastUpdated": "2026-02-17T07:22:06.352Z"
 }
