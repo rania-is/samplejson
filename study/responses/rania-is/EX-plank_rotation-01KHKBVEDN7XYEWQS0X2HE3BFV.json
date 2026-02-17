@@ -2,15 +2,15 @@
   "studyId": "OED-LLM-QUALITY-001",
   "reviewer": "rania-is",
   "exerciseId": "EX-plank_rotation-01KHKBVEDN7XYEWQS0X2HE3BFV",
-  "submittedAt": "2026-02-17T07:01:44.392Z",
+  "submittedAt": "2026-02-17T07:05:17.162Z",
   "ratings": {
-    "q1_overallQuality": 1,
-    "q2_appropriateness": 1,
-    "q3_clarity": 1,
-    "q4_completeness": 1,
-    "q5_performanceMetrics": 1,
-    "q6_feasibility": 1,
-    "q7_useInPractice": 1
+    "q1_overallQuality": 7,
+    "q2_appropriateness": 7,
+    "q3_clarity": 7,
+    "q4_completeness": 7,
+    "q5_performanceMetrics": 7,
+    "q6_feasibility": 7,
+    "q7_useInPractice": 7
   },
   "safety": {
     "q8_hasConcern": false,
@@ -19,7 +19,7 @@
     "q10_comment": ""
   },
   "detectability": {
-    "q11_guessAi": true,
+    "q11_guessAi": false,
     "q12_confidence": 4
   },
   "decision": "accept",
