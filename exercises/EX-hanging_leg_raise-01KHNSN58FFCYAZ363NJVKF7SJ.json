@@ -1,0 +1,73 @@
+{
+  "id": "EX-hanging_leg_raise-01KHNSN58FFCYAZ363NJVKF7SJ",
+  "name": "Hanging Leg Raise",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "improved_body_balance",
+    "improved_posture",
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "hamstrings",
+    "core"
+  ],
+  "equipment": [
+    "pull up bar"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Hang from the pull-up bar with an overhand grip, arms fully extended."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Engage your core muscles and slowly lift your legs up in front of you, keeping them straight."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pause briefly at the top, then slowly lower your legs back down to the starting position."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Repeat for the desired number of repetitions."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": null,
+      "notes": null
+    }
+  ],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "co-created with AI",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-02-17",
+    "lastUpdated": "2026-02-17",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Ensure a controlled movement throughout the exercise.",
+    "Avoid swinging or using momentum to lift the legs.",
+    "Engage your core to support your lower back and prevent arching.",
+    "If you feel any discomfort or strain, stop the exercise immediately and consult a fitness professional."
+  ]
+}

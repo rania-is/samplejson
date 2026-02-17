@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T15:23:18.850Z",
+  "updatedAt": "2026-02-17T12:38:56.663Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -78,6 +78,26 @@
       "imageFile": null,
       "imageFolder": "EX-plank_with_shoulder_taps-01KHKGRPQC317B2WVNCWF6VHPZ",
       "lastUpdated": "2026-02-16"
+    },
+    {
+      "id": "EX-hanging_leg_raise-01KHNSN58FFCYAZ363NJVKF7SJ",
+      "name": "Hanging Leg Raise",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "hamstrings",
+        "core"
+      ],
+      "equipment": [
+        "pull up bar"
+      ],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-hanging_leg_raise-01KHNSN58FFCYAZ363NJVKF7SJ",
+      "lastUpdated": "2026-02-17"
     }
   ]
 }
