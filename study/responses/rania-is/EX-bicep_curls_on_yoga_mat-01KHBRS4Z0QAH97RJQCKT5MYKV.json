@@ -2,15 +2,15 @@
   "studyId": "OED-LLM-QUALITY-001",
   "reviewer": "rania-is",
   "exerciseId": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-  "submittedAt": "2026-02-17T07:01:14.805Z",
+  "submittedAt": "2026-02-17T07:04:59.057Z",
   "ratings": {
-    "q1_overallQuality": 5,
-    "q2_appropriateness": 3,
-    "q3_clarity": 3,
-    "q4_completeness": 3,
-    "q5_performanceMetrics": 3,
-    "q6_feasibility": 3,
-    "q7_useInPractice": 7
+    "q1_overallQuality": 2,
+    "q2_appropriateness": 2,
+    "q3_clarity": 2,
+    "q4_completeness": 2,
+    "q5_performanceMetrics": 2,
+    "q6_feasibility": 2,
+    "q7_useInPractice": 2
   },
   "safety": {
     "q8_hasConcern": false,
@@ -22,89 +22,6 @@
     "q11_guessAi": false,
     "q12_confidence": 4
   },
-  "decision": "edit_accept",
-  "editedExercise": {
-    "id": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-    "name": "Bicep Curls on Yoga Mat",
-    "categories": [
-      "strength_and_resistance"
-    ],
-    "exerciseEffects": [
-      "increased_muscle_strength"
-    ],
-    "bodyParts": [
-      "biceps"
-    ],
-    "equipment": [
-      "yoga mat"
-    ],
-    "location": [
-      "indoor"
-    ],
-    "instructions": [
-      {
-        "stepNumber": 1,
-        "description": "Stand on the yoga mat with feet hip-width apart, holding a dumbbell in each hand with palms facing forward."
-      },
-      {
-        "stepNumber": 2,
-        "description": "Keeping your elbows close to your sides, exhale and slowly curl the weights towards your shoulders."
-      },
-      {
-        "stepNumber": 3,
-        "description": "Pause at the top of the movement, then inhale and slowly lower the weights back to the starting position."
-      },
-      {
-        "stepNumber": 4,
-        "description": "Repeat for the desired number of repetitions."
-      }
-    ],
-    "performanceMetrics": [
-      {
-        "type": "repetitions",
-        "unit": null,
-        "notes": null
-      }
-    ],
-    "variations": [
-      {
-        "level": "easier",
-        "description": "Use lighter weights or perform the exercise seated on a chair.",
-        "track": "",
-        "id": ""
-      }
-    ],
-    "relationships": [],
-    "relationshipSuggestions": [],
-    "mediaContent": {
-      "imageURLs": [
-        "image_1.png"
-      ]
-    },
-    "metadata": {
-      "createdBy": "community",
-      "reviewStatus": "validated",
-      "reviewedBy": [
-        "rania-is"
-      ],
-      "dateReviewed": "2026-02-16",
-      "reviewNotes": "good",
-      "dateCreated": "2026-02-13",
-      "lastUpdated": "2026-02-16",
-      "lastEditedBy": "rania-is",
-      "dedupStatus": "unknown",
-      "duplicateOf": null
-    },
-    "commentsNotes": [
-      "Ensure proper form by keeping your back straight and core engaged.",
-      "Avoid swinging the weights or using momentum to lift them."
-    ],
-    "track": "validated",
-    "branch": "main",
-    "fileNumber": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-    "resolvedImageUrls": [
-      "https://raw.githubusercontent.com/rania-is/samplejson/main/images/EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV/image_1.png"
-    ],
-    "githubUrl": "https://github.com/rania-is/samplejson/blob/main/exercises/EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV.json"
-  }
+  "decision": "accept",
+  "editedExercise": null
 }
