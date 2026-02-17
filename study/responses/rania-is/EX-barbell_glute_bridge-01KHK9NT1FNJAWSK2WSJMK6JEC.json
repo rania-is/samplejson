@@ -1,0 +1,29 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "rania-is",
+  "exerciseId": "EX-barbell_glute_bridge-01KHK9NT1FNJAWSK2WSJMK6JEC",
+  "submittedAt": "2026-02-17T07:00:31.429Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_appropriateness": 4,
+    "q3_clarity": 4,
+    "q4_completeness": 4,
+    "q5_performanceMetrics": 4,
+    "q6_feasibility": 4,
+    "q7_useInPractice": 1
+  },
+  "safety": {
+    "q8_hasConcern": true,
+    "q9_issueTypes": [
+      "Inappropriate or missing performance metrics"
+    ],
+    "q9_otherText": null,
+    "q10_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 4
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
