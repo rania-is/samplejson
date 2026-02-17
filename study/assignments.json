@@ -1,0 +1,16 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "version": 1,
+  "description": "Expert evaluation of AI generated versus professionally authored exercises",
+  "createdAt": "2026-02-10",
+  "reviewers": [
+    {
+      "githubUsername": "rania-is",
+      "assignedExercises": [
+        "EX-barbell_glute_bridge-01KHK9NT1FNJAWSK2WSJMK6JEC",
+        "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV".
+        "EX-plank_rotation-01KHKBVEDN7XYEWQS0X2HE3BFV"
+      ]
+    }
+  ]
+}
