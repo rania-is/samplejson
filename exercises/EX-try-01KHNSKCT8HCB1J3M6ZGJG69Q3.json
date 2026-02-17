@@ -1,0 +1,47 @@
+{
+  "id": "EX-try-01KHNSKCT8HCB1J3M6ZGJG69Q3",
+  "name": "try",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "improved_posture"
+  ],
+  "bodyParts": [
+    "biceps"
+  ],
+  "equipment": [],
+  "location": [
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "2"
+    },
+    {
+      "stepNumber": 2,
+      "description": "3"
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-02-17",
+    "lastUpdated": "2026-02-17",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

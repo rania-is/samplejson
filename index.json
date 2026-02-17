@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T15:23:18.850Z",
+  "updatedAt": "2026-02-17T12:36:21.205Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -78,6 +78,23 @@
       "imageFile": null,
       "imageFolder": "EX-plank_with_shoulder_taps-01KHKGRPQC317B2WVNCWF6VHPZ",
       "lastUpdated": "2026-02-16"
+    },
+    {
+      "id": "EX-try-01KHNSKCT8HCB1J3M6ZGJG69Q3",
+      "name": "try",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "biceps"
+      ],
+      "equipment": [],
+      "location": [
+        "outdoor"
+      ],
+      "imageFile": null,
+      "imageFolder": "EX-try-01KHNSKCT8HCB1J3M6ZGJG69Q3",
+      "lastUpdated": "2026-02-17"
     }
   ]
 }
