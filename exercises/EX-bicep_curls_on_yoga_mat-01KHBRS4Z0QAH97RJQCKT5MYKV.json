@@ -32,6 +32,10 @@
     {
       "stepNumber": 4,
       "description": "Repeat for the desired number of repetitions."
+    },
+    {
+      "stepNumber": 5,
+      "description": "step 5"
     }
   ],
   "performanceMetrics": [
@@ -41,16 +45,14 @@
       "notes": null
     }
   ],
-  "variations": [
+  "variations": [],
+  "variationSuggestions": [
     {
-      "level": "easier",
-      "description": "Use lighter weights or perform the exercise seated on a chair.",
-      "track": "",
-      "id": ""
+      "exerciseName": "",
+      "variationDescription": "Use lighter weights or perform the exercise seated on a chair."
     }
   ],
   "relationships": [],
-  "relationshipSuggestions": [],
   "mediaContent": {
     "imageURLs": [
       "image_1.png"
@@ -58,14 +60,14 @@
   },
   "metadata": {
     "createdBy": "community",
-    "reviewStatus": "validated",
+    "reviewStatus": "edited and validated",
     "reviewedBy": [
       "rania-is"
     ],
-    "dateReviewed": "2026-02-16",
-    "reviewNotes": "good",
+    "dateReviewed": "2026-02-18",
+    "reviewNotes": null,
     "dateCreated": "2026-02-13",
-    "lastUpdated": "2026-02-16",
+    "lastUpdated": "2026-02-18",
     "lastEditedBy": "rania-is",
     "dedupStatus": "unknown",
     "duplicateOf": null
