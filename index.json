@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T14:44:12.154Z",
+  "updatedAt": "2026-02-18T14:44:49.866Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -59,25 +59,6 @@
       "imageFile": null,
       "imageFolder": "EX-plank_with_shoulder_taps-01KHKGRPQC317B2WVNCWF6VHPZ",
       "lastUpdated": "2026-02-16"
-    },
-    {
-      "id": "EX-chair_squats-01KHRK81TYW2EE2ST5RM1XKF6K",
-      "name": "Chair Squats",
-      "categories": [
-        "strength_and_resistance"
-      ],
-      "bodyParts": [
-        "full body"
-      ],
-      "equipment": [
-        "none"
-      ],
-      "location": [
-        "indoor"
-      ],
-      "imageFile": "image_1.png",
-      "imageFolder": "EX-chair_squats-01KHRK81TYW2EE2ST5RM1XKF6K",
-      "lastUpdated": "2026-02-18"
     }
   ]
 }
