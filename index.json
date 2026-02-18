@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T15:18:30.586Z",
+  "updatedAt": "2026-02-18T10:44:02.684Z",
   "exercises": [
     {
       "id": "EX-1",
@@ -143,25 +143,6 @@
       "lastUpdated": "2026-02-16"
     },
     {
-      "id": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-      "name": "Bicep Curls on Yoga Mat",
-      "categories": [
-        "strength_and_resistance"
-      ],
-      "bodyParts": [
-        "biceps"
-      ],
-      "equipment": [
-        "yoga mat"
-      ],
-      "location": [
-        "indoor"
-      ],
-      "imageFile": "image_1.png",
-      "imageFolder": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-      "lastUpdated": "2026-02-16"
-    },
-    {
       "id": "EX-plank_rotation-01KHKBVEDN7XYEWQS0X2HE3BFV",
       "name": "Plank Rotation",
       "categories": [
@@ -237,6 +218,25 @@
       "imageFile": "image_1.png",
       "imageFolder": "EX-seated_diaphragmatic_breathing-01KHKGBKP7463JVDFABCFV0B6K",
       "lastUpdated": "2026-02-16"
+    },
+    {
+      "id": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
+      "name": "Bicep Curls on Yoga Mat",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "biceps"
+      ],
+      "equipment": [
+        "yoga mat"
+      ],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
+      "lastUpdated": "2026-02-18"
     }
   ]
 }
