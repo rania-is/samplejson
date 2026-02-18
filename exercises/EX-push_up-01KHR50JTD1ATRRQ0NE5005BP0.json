@@ -1,0 +1,60 @@
+{
+  "id": "EX-push_up-01KHR50JTD1ATRRQ0NE5005BP0",
+  "name": "push up",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "stretch_muscle"
+  ],
+  "bodyParts": [
+    "full body",
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "step1 "
+    },
+    {
+      "stepNumber": 2,
+      "description": "step 2"
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "rep",
+      "notes": null
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-4",
+      "variationDescription": "Easier variation"
+    }
+  ],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-02-18",
+    "lastUpdated": "2026-02-18",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
