@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T15:23:18.850Z",
+  "updatedAt": "2026-02-18T10:44:03.640Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -39,25 +39,6 @@
       "imageFile": "image_1.png",
       "imageFolder": "EX-8",
       "lastUpdated": "2026-02-12"
-    },
-    {
-      "id": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-      "name": "Bicep Curls on Yoga Mat",
-      "categories": [
-        "strength_and_resistance"
-      ],
-      "bodyParts": [
-        "biceps"
-      ],
-      "equipment": [
-        "yoga mat"
-      ],
-      "location": [
-        "indoor"
-      ],
-      "imageFile": "image_1.png",
-      "imageFolder": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-      "lastUpdated": "2026-02-13"
     },
     {
       "id": "EX-plank_with_shoulder_taps-01KHKGRPQC317B2WVNCWF6VHPZ",
