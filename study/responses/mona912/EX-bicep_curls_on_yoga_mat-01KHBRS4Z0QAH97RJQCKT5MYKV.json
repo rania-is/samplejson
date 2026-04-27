@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "mona912",
+  "exerciseId": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
+  "submittedAt": "2026-04-27T15:35:40.190Z",
+  "ratings": {
+    "q1_overallQuality": 3,
+    "q2_instructionClarity": 3,
+    "q3_biomechanics": 3,
+    "q4_safety": 3,
+    "q5_classification": 3,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 3
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 3
+  },
+  "decision": "reject",
+  "editedExercise": null
+}
