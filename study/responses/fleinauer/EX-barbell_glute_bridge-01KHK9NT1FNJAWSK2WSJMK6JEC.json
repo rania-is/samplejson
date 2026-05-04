@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "fleinauer",
+  "exerciseId": "EX-barbell_glute_bridge-01KHK9NT1FNJAWSK2WSJMK6JEC",
+  "submittedAt": "2026-05-04T12:08:10.087Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 5,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
