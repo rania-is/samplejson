@@ -1,0 +1,45 @@
+{
+  "id": "EX-a-01KRB0A5QZGXKKS2V4A8HXBZNS",
+  "name": "A",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [],
+  "bodyParts": [
+    "hamstrings"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "A"
+    },
+    {
+      "stepNumber": 2,
+      "description": "A"
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-05-11",
+    "lastUpdated": "2026-05-11",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
