@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T14:44:49.866Z",
+  "updatedAt": "2026-05-11T07:51:53.605Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -59,6 +59,23 @@
       "imageFile": null,
       "imageFolder": "EX-plank_with_shoulder_taps-01KHKGRPQC317B2WVNCWF6VHPZ",
       "lastUpdated": "2026-02-16"
+    },
+    {
+      "id": "EX-a-01KRB0A5QZGXKKS2V4A8HXBZNS",
+      "name": "A",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "hamstrings"
+      ],
+      "equipment": [],
+      "location": [
+        "indoor"
+      ],
+      "imageFile": null,
+      "imageFolder": "EX-a-01KRB0A5QZGXKKS2V4A8HXBZNS",
+      "lastUpdated": "2026-05-11"
     }
   ]
 }
