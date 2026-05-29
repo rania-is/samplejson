@@ -2,14 +2,14 @@
   "studyId": "OED-LLM-QUALITY-001",
   "reviewer": "gboppre",
   "exerciseId": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
-  "submittedAt": "2026-05-29T08:46:32.367Z",
+  "submittedAt": "2026-05-29T08:49:14.568Z",
   "ratings": {
-    "q1_overallQuality": 4,
-    "q2_instructionClarity": 4,
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 5,
     "q3_biomechanics": 6,
-    "q4_safety": 6,
-    "q5_classification": 3,
-    "q6_useInPractice": 4,
+    "q4_safety": 5,
+    "q5_classification": 5,
+    "q6_useInPractice": 5,
     "q7_imageQuality": 6
   },
   "safety": {
@@ -19,25 +19,32 @@
   },
   "detectability": {
     "q11_guessAi": true,
-    "q12_confidence": 6
+    "q12_confidence": 5
   },
   "decision": "edit_accept",
   "editedExercise": {
-    "id": "",
-    "name": "Biceps Curls Standing",
-    "categories": [],
-    "exerciseEffects": [],
+    "id": "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV",
+    "name": "Bicep Curls on Yoga Mat",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
     "bodyParts": [
       "biceps"
     ],
     "equipment": [
+      "yoga mat",
       "dumbbell"
     ],
-    "location": [],
+    "location": [
+      "indoor"
+    ],
     "instructions": [
       {
         "stepNumber": 1,
-        "description": "Stand upright with your feet hip-width apart, holding a dumbbell in each hand at your sides with your palms facing forward."
+        "description": "Stand on the yoga mat with feet hip-width apart, holding a dumbbell in each hand with palms facing forward."
       },
       {
         "stepNumber": 2,
@@ -67,7 +74,9 @@
     "variationSuggestions": [],
     "relationships": [],
     "mediaContent": {
-      "imageURLs": []
+      "imageURLs": [
+        "image_1.png"
+      ]
     },
     "metadata": {
       "createdBy": "community",
@@ -81,6 +90,9 @@
       "dedupStatus": "unknown",
       "duplicateOf": null
     },
-    "commentsNotes": []
+    "commentsNotes": [
+      "Ensure proper form by keeping your back straight and core engaged.",
+      "Avoid swinging the weights or using momentum to lift them."
+    ]
   }
 }
