@@ -1,9 +1,10 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 2,
-  "completed": 1,
+  "completed": 2,
   "completedExerciseIds": [
-    "EX-barbell_glute_bridge-01KHK9NT1FNJAWSK2WSJMK6JEC"
+    "EX-barbell_glute_bridge-01KHK9NT1FNJAWSK2WSJMK6JEC",
+    "EX-bicep_curls_on_yoga_mat-01KHBRS4Z0QAH97RJQCKT5MYKV"
   ],
-  "lastUpdated": "2026-05-27T15:30:05.847Z"
+  "lastUpdated": "2026-05-29T08:46:32.367Z"
 }
