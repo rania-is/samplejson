@@ -1,0 +1,78 @@
+{
+  "id": "EX-lower_back_extensions-01KX2X5K71V1F5SVK306YFXVM2",
+  "name": "Lower Back Extensions",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "improved_posture",
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "lower back"
+  ],
+  "equipment": [
+    "none"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie face down on a mat with your arms extended overhead."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Engage your core muscles and slowly lift your chest and legs off the ground."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Hold the lifted position for a few seconds, then lower back down."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Repeat for 10-15 repetitions."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Ensure a smooth and controlled movement throughout the exercise."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Avoid straining your lower back by not overextending during the lift."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Consult with a fitness professional if you have any existing lower back issues."
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "co-created with AI",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-07-09",
+    "lastUpdated": "2026-07-09",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Maintain proper form to avoid strain on the lower back.",
+    "Start with a small range of motion and gradually increase as you build strength.",
+    "Listen to your body and stop if you feel any discomfort.",
+    "Engage your core muscles throughout the exercise for added support."
+  ]
+}
