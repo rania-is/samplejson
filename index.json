@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T14:44:49.866Z",
+  "updatedAt": "2026-07-09T07:45:40.939Z",
   "exercises": [
     {
       "id": "EX-7",
@@ -59,6 +59,26 @@
       "imageFile": null,
       "imageFolder": "EX-plank_with_shoulder_taps-01KHKGRPQC317B2WVNCWF6VHPZ",
       "lastUpdated": "2026-02-16"
+    },
+    {
+      "id": "EX-lower_back_extensions-01KX2X5K71V1F5SVK306YFXVM2",
+      "name": "Lower Back Extensions",
+      "categories": [
+        "strength_and_resistance"
+      ],
+      "bodyParts": [
+        "lower back"
+      ],
+      "equipment": [
+        "none"
+      ],
+      "location": [
+        "indoor",
+        "outdoor"
+      ],
+      "imageFile": "image_1.png",
+      "imageFolder": "EX-lower_back_extensions-01KX2X5K71V1F5SVK306YFXVM2",
+      "lastUpdated": "2026-07-09"
     }
   ]
 }
