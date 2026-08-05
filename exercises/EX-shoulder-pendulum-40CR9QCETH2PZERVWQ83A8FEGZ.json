@@ -1,0 +1,79 @@
+{
+  "id": "EX-shoulder-pendulum-40CR9QCETH2PZERVWQ83A8FEGZ",
+  "name": "Shoulder Pendulum",
+  "categories": [
+    "flexibility_and_mobility",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_joint_mobility",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "shoulders"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Support one hand on a chair and hinge slightly forward."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Let the other arm hang relaxed."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Use small body shifts to create gentle arm circles."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Reverse direction and then change arms."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "range_of_motion",
+      "unit": "degrees",
+      "notes": "Record range only when measured consistently; do not force end range."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Shoulder Pendulum — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use small relaxed circles without adding weight."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "EX-pelvic-mobility-01KZ3V3DYY2J67YNXR955N44JZ",
+  "name": "Pelvic Mobility",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility"
+  ],
+  "bodyParts": [
+    "hips"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand upright, with your feet hip-width apart and your hands on your hips."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lift your heels off the floor one at a time, alternating sides."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Keep the balls of your feet on the floor at all times."
+    },
+    {
+      "stepNumber": 4,
+      "description": "When performing the exercise, make sure that your upper body is as still as possible."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Perform the movement slowly and smoothly."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

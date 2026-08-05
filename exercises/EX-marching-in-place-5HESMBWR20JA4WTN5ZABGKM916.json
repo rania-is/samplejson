@@ -1,0 +1,86 @@
+{
+  "id": "EX-marching-in-place-5HESMBWR20JA4WTN5ZABGKM916",
+  "name": "Marching in Place",
+  "categories": [
+    "endurance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "hips",
+    "quadriceps",
+    "calves",
+    "core"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand tall with support nearby if needed."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lift one knee, lower it, then alternate sides."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Coordinate a comfortable arm swing."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Maintain a pace that allows steady breathing."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "cadence",
+      "unit": "steps_per_minute",
+      "notes": "Record average movement or step cadence."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Marching in Place — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use chair support if needed."
+  ]
+}

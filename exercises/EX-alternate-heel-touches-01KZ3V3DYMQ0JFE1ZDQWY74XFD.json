@@ -1,0 +1,65 @@
+{
+  "id": "EX-alternate-heel-touches-01KZ3V3DYMQ0JFE1ZDQWY74XFD",
+  "name": "Alternate Heel Touches",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "hip_flexors"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on your back on the floor or exercise mat and bend your legs so your feet are planted with the soles of your feet on the floor or mat."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Exhale and bring yourself up so that your shoulder blades are hovering just above the floor or mat."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Stay lifted and extend your arms by your sides, slowly move from side to side as you tap your ankles with the corresponding hand."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Keep your shoulder blades off the mat for the whole exercise."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

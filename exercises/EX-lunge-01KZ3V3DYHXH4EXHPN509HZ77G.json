@@ -1,0 +1,63 @@
+{
+  "id": "EX-lunge-01KZ3V3DYHXH4EXHPN509HZ77G",
+  "name": "Lunge",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "hips",
+    "quadriceps",
+    "glutes",
+    "hamstrings"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Place your feet about hip-width apart and stand up straight."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Step forward far enough to maintain comfortable, controlled alignment of the front knee and foot."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Then exhale and push through the heel of the front foot to return to the starting position."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

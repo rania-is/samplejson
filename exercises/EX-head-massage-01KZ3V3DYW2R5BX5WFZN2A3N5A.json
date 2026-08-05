@@ -1,0 +1,72 @@
+{
+  "id": "EX-head-massage-01KZ3V3DYW2R5BX5WFZN2A3N5A",
+  "name": "Head Massage",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation"
+  ],
+  "bodyParts": [
+    "neck"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Get into a comfortable position."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Place your fingers on your forehead."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Start by massaging the skin at your hairline in a circular motion."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Use your fingertips and knead with light pressure."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Then slowly work your way down the top of your head to the nape of your neck."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Think about your temples and the area around your ears."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

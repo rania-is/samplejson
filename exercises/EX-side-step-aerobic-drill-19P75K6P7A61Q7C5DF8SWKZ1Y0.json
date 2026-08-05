@@ -1,0 +1,85 @@
+{
+  "id": "EX-side-step-aerobic-drill-19P75K6P7A61Q7C5DF8SWKZ1Y0",
+  "name": "Side-Step Aerobic Drill",
+  "categories": [
+    "endurance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "outer_hips",
+    "glutes",
+    "calves"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand with knees soft and feet parallel."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Step to one side and bring the other foot toward it."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Continue laterally for several steps, then reverse direction."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Keep the torso facing forward and avoid crossing the feet."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "cadence",
+      "unit": "steps_per_minute",
+      "notes": "Record average movement or step cadence."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Side-Step Aerobic Drill — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Keep steps controlled and the path clear."
+  ]
+}

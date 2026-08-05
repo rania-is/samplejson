@@ -1,0 +1,78 @@
+{
+  "id": "EX-adductor-rock-back-148VRJ2BHJD0CJMF58WDWQ4B5C",
+  "name": "Adductor Rock-Back",
+  "categories": [
+    "flexibility_and_mobility"
+  ],
+  "exerciseEffects": [
+    "improved_joint_mobility",
+    "stretch_muscle"
+  ],
+  "bodyParts": [
+    "inner_thighs",
+    "hips",
+    "lower_back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Begin on hands and knees and extend one leg to the side."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keep the extended foot supported and trunk controlled."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Shift the hips backward until a mild inner-thigh stretch is felt."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Move forward again and repeat before changing sides."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "range_of_motion",
+      "unit": "degrees",
+      "notes": "Record range only when measured consistently; do not force end range."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Adductor Rock-Back — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Rock back slowly without bouncing."
+  ]
+}

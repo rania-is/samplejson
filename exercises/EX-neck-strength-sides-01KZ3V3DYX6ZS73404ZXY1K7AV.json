@@ -1,0 +1,69 @@
+{
+  "id": "EX-neck-strength-sides-01KZ3V3DYX6ZS73404ZXY1K7AV",
+  "name": "Neck Strength Sides",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "neck"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit upright and place the palm of your left hand against the left side of your head."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Push your hand against the side of your head."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Keep your head still by resisting the movement."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Hold the tension for at least 5 seconds."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Change sides."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time the position or isometric effort is maintained with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

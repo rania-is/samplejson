@@ -1,0 +1,63 @@
+{
+  "id": "EX-single-leg-deadlift-01KZ3V3DYJQ0B83JNMDWZ8R58W",
+  "name": "Single-Leg Deadlift",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "glutes",
+    "hamstrings",
+    "lower_back",
+    "core"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Set up in a standing position with your hands at your side and thumbs facing outward."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keep a slight bend in the plant leg and hinge forward from the hip while keeping the chest tall and thumbs pointing up."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Hinge to 90 degrees (if possible) and allow the hamstrings to stretch while keeping the head neutral."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

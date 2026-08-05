@@ -1,0 +1,73 @@
+{
+  "id": "EX-walking-knee-to-chest-01KZ3V3DYJQ0B83JNMDWZ8R58Q",
+  "name": "Walking Knee to Chest",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility"
+  ],
+  "bodyParts": [
+    "hips",
+    "glutes",
+    "lower_back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start standing with your legs shoulder-width apart."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keep the heel of your planted leg on the ground and keep that leg straight."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Brace the glute on the side of your planted leg to keep your pelvis from tilting."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Pull one knee tightly to your chest while keeping the other leg extended straight."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Don’t bend the leg on your planted leg, come onto your toes or slouch your spine forward."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "EX-supine-360-degree-breathing-2EMA45DDDCCKCWCQEMS21DMBN3",
+  "name": "Supine 360-Degree Breathing",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_breath_control",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "diaphragm",
+    "core",
+    "lower_back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on the back with knees bent and hands around the lower ribs."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Inhale gently and feel expansion toward the front, sides, and back."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Exhale slowly while keeping the jaw and shoulders relaxed."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue with smooth quiet breaths."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "breathing_rate",
+      "unit": "breaths_per_minute",
+      "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Supine 360-Degree Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use head or knee support for comfort."
+  ]
+}

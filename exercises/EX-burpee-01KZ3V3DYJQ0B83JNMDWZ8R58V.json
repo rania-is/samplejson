@@ -1,0 +1,68 @@
+{
+  "id": "EX-burpee-01KZ3V3DYJQ0B83JNMDWZ8R58V",
+  "name": "Burpee",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "full_body"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Squat down with your feet straight forward, your heels on the ground and your knees tracking over your toes."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Jump back to a plank position, and land with your abs braced and without arching your back."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Drop into the pushup while keeping your tailbone tucked under and squeezing your shoulder blades together and down to your back pockets."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Finish the pushup and jump back to the squat position with your heels on the ground, knees straight forward and feet straight."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Jump upward and drop down to repeat."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

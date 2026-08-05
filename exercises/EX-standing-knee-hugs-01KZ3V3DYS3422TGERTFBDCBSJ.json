@@ -1,0 +1,65 @@
+{
+  "id": "EX-standing-knee-hugs-01KZ3V3DYS3422TGERTFBDCBSJ",
+  "name": "Standing Knee Hugs",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility"
+  ],
+  "bodyParts": [
+    "hips",
+    "glutes",
+    "lower_back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand tall with your arms by your sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Bring one knee up as high as it will go and pull it towards your chest with both arms."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Hold this position for a few breaths before returning your leg to the ground and repeating on the other side."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

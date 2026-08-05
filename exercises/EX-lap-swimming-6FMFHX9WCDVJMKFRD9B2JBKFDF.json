@@ -1,0 +1,87 @@
+{
+  "id": "EX-lap-swimming-6FMFHX9WCDVJMKFRD9B2JBKFDF",
+  "name": "Lap Swimming",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance",
+    "improved_breath_control"
+  ],
+  "bodyParts": [
+    "full_body",
+    "shoulders",
+    "upper_back",
+    "core"
+  ],
+  "equipment": [
+    "swimming_pool"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Enter the pool safely and begin with an easy stroke."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Maintain a relaxed rhythm and exhale into the water as appropriate."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Turn or rest before technique deteriorates."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Finish with easy movement before exiting."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "distance",
+      "unit": "meters",
+      "notes": "Record distance completed while maintaining the intended movement quality."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Lap Swimming — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Choose a stroke and pace suited to current skill."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "EX-wall-push-running-01KZ3V3DYKP7H891JXAGSWKWPR",
+  "name": "Wall Push Running",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance"
+  ],
+  "bodyParts": [
+    "full_body"
+  ],
+  "equipment": [
+    "wall"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand roughly a meter away from a wall or flat surface that you can lean against."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lean forward until your palms are flat against the wall, but leave your feet where they were."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Now start to walk and then jog in place, while you are propped up against the wall with your hands."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Focus on bringing your knees up higher and slowly start to increase your pace as you feel more comfortable."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration completed at an individually appropriate intensity."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

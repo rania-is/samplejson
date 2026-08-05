@@ -1,0 +1,68 @@
+{
+  "id": "EX-plank-with-hip-dip-01KZ3V3DYPMJ0VD30AKHABF5P2",
+  "name": "Plank with Hip Dip",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "chest",
+    "triceps"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start in a low plank position with your body in a straight line, your elbows bent and under your shoulders, and your feet hip-width apart."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Rotate your hips to the right and dip your body almost to the floor."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Return to the starting position and repeat on the left side."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Keep alternating sides."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,88 @@
+{
+  "id": "EX-walk-jog-intervals-245GCM5CMJVBXQNTF1XPE740WX",
+  "name": "Walk-Jog Intervals",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance"
+  ],
+  "bodyParts": [
+    "full_body",
+    "calves",
+    "quadriceps",
+    "glutes"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start with comfortable walking."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Jog for a short manageable interval using relaxed steps."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Return to walking until breathing settles."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue alternating without forcing pace."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "distance",
+      "unit": "meters",
+      "notes": "Record distance completed while maintaining the intended movement quality."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-easy-jogging-0WZJGZ7DS2DE9WQWKX4STCMSTY",
+      "variationDescription": "Easy Jogging provides a meaningfully different loading, support, or stability option compared with Walk-Jog Intervals."
+    },
+    {
+      "id": "",
+      "variationDescription": "Walk-Jog Intervals — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Adjust work and recovery periods to current capacity."
+  ]
+}

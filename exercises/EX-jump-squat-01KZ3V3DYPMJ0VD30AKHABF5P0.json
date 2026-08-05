@@ -1,0 +1,69 @@
+{
+  "id": "EX-jump-squat-01KZ3V3DYPMJ0VD30AKHABF5P0",
+  "name": "Jump Squat",
+  "categories": [
+    "endurance",
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_cardiorespiratory_endurance"
+  ],
+  "bodyParts": [
+    "quadriceps",
+    "glutes",
+    "hips"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand with your feet shoulder-width apart and the toes pointing slightly outward."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Bend your knees pressing your hips back as if you were going to sit back on a chair."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pushing through the heels, jump straight up."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Land with your knees slightly bent and go back into the squat position."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration completed at an individually appropriate intensity."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "EX-standing-hip-circles-01KZ3V3DYKP7H891JXAGSWKWPP",
+  "name": "Standing Hip Circles",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility"
+  ],
+  "bodyParts": [
+    "hips"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand in one spot with your feet shoulder-width apart."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Place your hands on your hips and slowly start to move your hips around in circles."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Don't move anything apart from your hips, and try to make your movements large enough."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Change direction after a few repetitions."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

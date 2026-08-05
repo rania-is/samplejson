@@ -1,0 +1,91 @@
+{
+  "id": "EX-kettlebell-deadlift-4HP7EKDAN24FZJ46MM76E5Q53K",
+  "name": "Kettlebell Deadlift",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_grip_strength"
+  ],
+  "bodyParts": [
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "forearms"
+  ],
+  "equipment": [
+    "kettlebell"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand over a kettlebell placed between the feet."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Hinge at the hips and bend the knees enough to grasp the handle."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Brace gently and stand by pressing through the feet."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Return the kettlebell to the floor with a controlled hip hinge."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Kettlebell Deadlift — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Kettlebell Deadlift — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Raise the kettlebell on blocks if reaching the floor is uncomfortable."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "EX-progressive-muscle-relaxation-scan-5XARCT0GY18M59VV7BYPRETPJR",
+  "name": "Progressive Muscle Relaxation Scan",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation",
+    "improved_breath_control"
+  ],
+  "bodyParts": [
+    "full_body"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie or sit comfortably and notice the natural breath."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Gently tense one muscle group for a brief moment."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Release the tension and notice the contrast."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue through several muscle groups without maximal effort."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Progressive Muscle Relaxation Scan — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use gentle tension rather than maximal contraction."
+  ]
+}

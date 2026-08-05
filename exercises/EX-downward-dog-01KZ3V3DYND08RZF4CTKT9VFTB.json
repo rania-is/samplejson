@@ -1,0 +1,79 @@
+{
+  "id": "EX-downward-dog-01KZ3V3DYND08RZF4CTKT9VFTB",
+  "name": "Downward Dog",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "upper_back",
+    "hamstrings",
+    "calves"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Reach and place your hands flat on the floor, so your hands and knees are on the floor."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Raise your hips high and lift your knees off the mat while keeping your arms straight."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Help straighten your back by squeezing your shoulder blades together."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Keep your head down, looking at the floor."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-single-leg-downward-dog-01KZ3V3DYR43D2FTV12ZVQHG1A",
+      "variationDescription": "Raises one leg while maintaining the downward-dog position."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

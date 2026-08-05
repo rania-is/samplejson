@@ -1,0 +1,85 @@
+{
+  "id": "EX-stability-ball-hamstring-curl-6Y6XH8AVPY7S3RJ5EZPGZ9KM72",
+  "name": "Stability-Ball Hamstring Curl",
+  "categories": [
+    "strength_and_resistance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "hamstrings",
+    "glutes",
+    "core"
+  ],
+  "equipment": [
+    "stability_ball"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on the back with heels on a stability ball."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lift the hips to a comfortable bridge position."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Bend the knees to roll the ball toward the body."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Extend the legs slowly while keeping the hips controlled."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Stability-Ball Hamstring Curl — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Stability-Ball Hamstring Curl — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use a clear floor area and slow the movement."
+  ]
+}

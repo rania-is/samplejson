@@ -1,0 +1,89 @@
+{
+  "id": "EX-cable-wood-chop-3S8F3TJ192TNXJDEPKFC030YHR",
+  "name": "Cable Wood Chop",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "hips"
+  ],
+  "equipment": [
+    "cable_machine"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand side-on to a cable set above shoulder height."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Hold the handle with both hands and set the feet firmly."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pull diagonally across the body using coordinated trunk and hip rotation."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Return slowly and repeat before changing sides."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Cable Wood Chop — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Cable Wood Chop — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Rotate through a comfortable range with controlled hips and trunk."
+  ]
+}

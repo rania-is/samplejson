@@ -1,0 +1,79 @@
+{
+  "id": "EX-fantasy-trip-01KZ3V3DYW2R5BX5WFZN2A3N54",
+  "name": "Fantasy Trip",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation"
+  ],
+  "bodyParts": [],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit comfortably."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Choose a position you feel comfortable in."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Close your eyes and come with me on a walk by the sea."
+    },
+    {
+      "stepNumber": 4,
+      "description": "It is a balmy morning in summer and you have decided to take a walk on the beach."
+    },
+    {
+      "stepNumber": 5,
+      "description": "You kick off your shoes and feel the warm sand under the soles of your feet."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Every time the waves wash the water up to the beach, the water touches your feet."
+    },
+    {
+      "stepNumber": 7,
+      "description": "The water is pleasantly cool and you feel refreshed by the sea."
+    },
+    {
+      "stepNumber": 8,
+      "description": "You enjoy the smell of the salt water and the light breeze."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

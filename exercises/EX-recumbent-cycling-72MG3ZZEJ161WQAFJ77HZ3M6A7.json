@@ -1,0 +1,88 @@
+{
+  "id": "EX-recumbent-cycling-72MG3ZZEJ161WQAFJ77HZ3M6A7",
+  "name": "Recumbent Cycling",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance"
+  ],
+  "bodyParts": [
+    "quadriceps",
+    "glutes",
+    "hamstrings"
+  ],
+  "equipment": [
+    "recumbent_bike"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Adjust the seat so the knees remain slightly bent at full reach."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Sit back against the support and place feet in the pedals."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pedal smoothly at a manageable resistance."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Slow the pedals gradually before stopping."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "cadence",
+      "unit": "steps_per_minute",
+      "notes": "Record average movement or step cadence."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-stationary-cycling-3PW53NXNXBBED2HFFH7SA8PJ09",
+      "variationDescription": "Stationary Cycling provides a meaningfully different loading, support, or stability option compared with Recumbent Cycling."
+    },
+    {
+      "id": "",
+      "variationDescription": "Recumbent Cycling — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use the back support and adjust the seat reach."
+  ]
+}

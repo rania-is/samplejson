@@ -1,0 +1,59 @@
+{
+  "id": "EX-stretch-breathe-01KZ3V3DYND08RZF4CTKT9VFTE",
+  "name": "Stretch && Breathe",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation",
+    "improved_breath_control"
+  ],
+  "bodyParts": [],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "While sitting or standing, raise your arms above your head and interlace your fingers."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Stretch your arms up as far as they will go, and take some deep breaths."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Return your arms to your sides, and repeat as many times as you like."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "EX-lat-pulldown-60Y3WQ802BGA7R7H1MPEMAGSN9",
+  "name": "Lat Pulldown",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_grip_strength"
+  ],
+  "bodyParts": [
+    "upper_back",
+    "biceps",
+    "forearms"
+  ],
+  "equipment": [
+    "cable_machine"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit with thighs secured and grasp the bar comfortably."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Begin with arms overhead and trunk upright."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pull the bar toward the upper chest while bringing elbows down."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Control the return until the arms are extended."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Lat Pulldown — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Lat Pulldown — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Pull toward the upper chest without forcing the shoulders."
+  ]
+}

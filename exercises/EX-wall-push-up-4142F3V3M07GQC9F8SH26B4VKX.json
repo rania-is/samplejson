@@ -1,0 +1,90 @@
+{
+  "id": "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
+  "name": "Wall Push-Up",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_muscular_endurance"
+  ],
+  "bodyParts": [
+    "chest",
+    "triceps",
+    "shoulders",
+    "core"
+  ],
+  "equipment": [
+    "wall"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Place both hands on a wall at chest height."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Walk the feet back until the body forms a comfortable incline."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Bend the elbows and bring the chest toward the wall as one unit."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Press the wall away and return without locking the elbows forcefully."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+      "variationDescription": "Incline Push-Up meaningfully changes the difficulty, loading, support, or movement demands compared with Wall Push-Up."
+    },
+    {
+      "id": "",
+      "variationDescription": "Wall Push-Up — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Wall Push-Up — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "A practical low-load pushing option."
+  ]
+}

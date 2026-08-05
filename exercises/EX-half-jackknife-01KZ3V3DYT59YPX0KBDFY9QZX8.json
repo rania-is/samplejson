@@ -1,0 +1,61 @@
+{
+  "id": "EX-half-jackknife-01KZ3V3DYT59YPX0KBDFY9QZX8",
+  "name": "Half Jackknife",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "hip_flexors"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie down on the floor with your arms extended above your head."
+    },
+    {
+      "stepNumber": 2,
+      "description": "As you breathe out, raise your shoulders and one leg up, reaching your arms around the raised leg."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Lower yourslef back down and then repeat with the other leg."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

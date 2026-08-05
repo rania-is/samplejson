@@ -1,0 +1,77 @@
+{
+  "id": "EX-shoulder-circles-01KZ3V3DYW2R5BX5WFZN2A3N55",
+  "name": "Shoulder Circles",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination",
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit or stand upright."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keep your back straight."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Tense your abdomen."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Let your arms hang loosely by your sides."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Let both shoulders circle backwards at the same time."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Circle as big and round as possible."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

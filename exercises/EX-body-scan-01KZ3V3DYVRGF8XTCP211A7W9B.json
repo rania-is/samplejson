@@ -1,0 +1,62 @@
+{
+  "id": "EX-body-scan-01KZ3V3DYVRGF8XTCP211A7W9B",
+  "name": "Body Scan",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation"
+  ],
+  "bodyParts": [],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Breathe in and out deeply."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Close your eyes and slowly come to rest."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Gradually become aware of your whole body."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Start from your feet and gradually ascend up to the head with each breath."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "EX-breathing-exercise-01KZ3V3DYVRGF8XTCP211A7W98",
+  "name": "Breathing Exercise",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "relaxation",
+    "improved_breath_control"
+  ],
+  "bodyParts": [
+    "diaphragm"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Breathe in through the nose and slowly and with concentration breathe out again through the nose."
+    },
+    {
+      "stepNumber": 2,
+      "description": "While exhaling, slowly say a two-syllable word in your mind, for example 'calm'."
+    },
+    {
+      "stepNumber": 3,
+      "description": "You can adjust your inhaling and exhaling to the rhythm of the word."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "minutes",
+      "notes": "Record the duration of the comfortable, controlled practice."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

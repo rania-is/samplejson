@@ -1,0 +1,70 @@
+{
+  "id": "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
+  "name": "Wall Hip Flexor Mobilisation",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility"
+  ],
+  "bodyParts": [
+    "hip_flexors",
+    "hips"
+  ],
+  "equipment": [
+    "wall"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Kneel on one leg in front of a wall with your front foot against the wall."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Use your arm to bend the knee of your back leg as much as is comfortable."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Use your abs to pull your ribs down, and keep your tailbone tucked under to keep your trunk controlled."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Contract the glute on your trailing-leg side in order to further stretch your hip flexors."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

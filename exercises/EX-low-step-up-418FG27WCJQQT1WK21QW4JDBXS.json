@@ -1,0 +1,87 @@
+{
+  "id": "EX-low-step-up-418FG27WCJQQT1WK21QW4JDBXS",
+  "name": "Low Step-Up",
+  "categories": [
+    "strength_and_resistance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_single_leg_control"
+  ],
+  "bodyParts": [
+    "quadriceps",
+    "glutes",
+    "calves",
+    "hips"
+  ],
+  "equipment": [
+    "step"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Face a stable step and place one whole foot on it."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lean slightly forward and press through the elevated foot."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Stand on the step without pushing strongly from the trailing foot."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Lower under control and repeat before changing sides."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Low Step-Up — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Low Step-Up — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Select a stable step height that permits controlled ascent and descent."
+  ]
+}

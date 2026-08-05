@@ -1,0 +1,65 @@
+{
+  "id": "EX-ankle-alphabets-01KZ3V3DYX6ZS73404ZXY1K7AM",
+  "name": "Ankle Alphabets",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "ankles",
+    "feet"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit or stand in a relaxed position."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Raise one leg slightly off the floor, and begin to move your ankle around."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Try to draw each letter of the alphabet in the air with your foot, keeping the rest of your leg still."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Switch sides and repeat with the other foot."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

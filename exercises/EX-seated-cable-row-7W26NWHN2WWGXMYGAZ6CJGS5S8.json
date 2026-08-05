@@ -1,0 +1,89 @@
+{
+  "id": "EX-seated-cable-row-7W26NWHN2WWGXMYGAZ6CJGS5S8",
+  "name": "Seated Cable Row",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_grip_strength"
+  ],
+  "bodyParts": [
+    "upper_back",
+    "biceps",
+    "forearms"
+  ],
+  "equipment": [
+    "cable_machine"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit with feet supported and grasp the cable handle."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Begin tall with arms extended and shoulders relaxed."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pull the handle toward the lower ribs while drawing the elbows back."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Return the handle slowly without collapsing the trunk."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Seated Cable Row — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Seated Cable Row — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Avoid leaning far backward to complete the pull."
+  ]
+}

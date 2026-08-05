@@ -1,0 +1,89 @@
+{
+  "id": "EX-dumbbell-bench-press-3J2GPJPQMF8JKD4DS1N2KYT2M9",
+  "name": "Dumbbell Bench Press",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "chest",
+    "triceps",
+    "shoulders"
+  ],
+  "equipment": [
+    "dumbbells",
+    "bench"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on a bench with feet supported and dumbbells near the chest."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Set the shoulders comfortably against the bench."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Press the dumbbells upward without colliding them."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Lower them under control until the upper arms reach a comfortable depth."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Dumbbell Bench Press — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Dumbbell Bench Press — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use a spotter or lighter loads when appropriate."
+  ]
+}

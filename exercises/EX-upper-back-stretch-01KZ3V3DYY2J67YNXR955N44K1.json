@@ -1,0 +1,71 @@
+{
+  "id": "EX-upper-back-stretch-01KZ3V3DYY2J67YNXR955N44K1",
+  "name": "Upper Back Stretch",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle"
+  ],
+  "bodyParts": [
+    "upper_back",
+    "shoulders"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Interlace your hands in front of your chest and tilt your chin downwards."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Arch your back and push your interlaced hands out in front of you."
+    },
+    {
+      "stepNumber": 3,
+      "description": "With your hands outstretched, pull your shoulder blades apart and push your arms outwards until you feel a stretch in your upper back."
+    },
+    {
+      "stepNumber": 4,
+      "description": "While breathing in, gently return to a normal position and then repeat."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the comfortable hold duration without forcing the range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

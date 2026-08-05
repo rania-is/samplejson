@@ -1,0 +1,62 @@
+{
+  "id": "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
+  "name": "Butterfly Pose",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle"
+  ],
+  "bodyParts": [
+    "hips",
+    "inner_thighs"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit down on the mat, bend your knees, press the soles of your feet together, and drop your knees out to the sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lengthen your torso, grasp your big toes and stay in this pose for 1 minute to 2 minutes."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the comfortable hold duration without forcing the range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

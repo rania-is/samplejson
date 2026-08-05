@@ -1,0 +1,85 @@
+{
+  "id": "EX-wall-shoulder-slide-441N8NQ14SD4X0X0WXTMNR1F7H",
+  "name": "Wall Shoulder Slide",
+  "categories": [
+    "flexibility_and_mobility"
+  ],
+  "exerciseEffects": [
+    "improved_joint_mobility",
+    "improved_posture"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "upper_back",
+    "chest"
+  ],
+  "equipment": [
+    "wall"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand with the back near a wall and elbows bent."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keep the ribs relaxed and slide the arms upward."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Stop before the shoulders shrug or discomfort appears."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Slide the arms back down under control."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "range_of_motion",
+      "unit": "degrees",
+      "notes": "Record range only when measured consistently; do not force end range."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Wall Shoulder Slide — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Only slide as high as comfortable."
+  ]
+}

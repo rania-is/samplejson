@@ -1,0 +1,69 @@
+{
+  "id": "EX-upward-plank-01KZ3V3DYS3422TGERTFBDCBSG",
+  "name": "Upward Plank",
+  "categories": [
+    "strength_and_resistance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_balance",
+    "improved_coordination",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "chest",
+    "triceps",
+    "glutes",
+    "hamstrings"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit on the floor with your legs in front and your arms on the floor behind you, fingers facing towards you."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Use your glutes to lift your butt off the floor until your body is in a straight line."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Hold this position, before slowly lowering back down."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time the position or isometric effort is maintained with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "EX-stair-climbing-at-easy-pace-7PCJ9DTZCD8X10C05TDDS40Q66",
+  "name": "Stair Climbing at Easy Pace",
+  "categories": [
+    "endurance",
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance",
+    "improved_muscular_endurance"
+  ],
+  "bodyParts": [
+    "quadriceps",
+    "glutes",
+    "calves"
+  ],
+  "equipment": [
+    "stairs"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand near the handrail and face the stairs."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Climb at a steady pace, placing the whole foot when possible."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Use the rail lightly and keep breathing controlled."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Descend carefully or use an alternative route if descent is unsuitable."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "cadence",
+      "unit": "steps_per_minute",
+      "notes": "Record average stair-climbing cadence."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Stair Climbing at Easy Pace — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Stair Climbing at Easy Pace — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use the handrail and a steady pace."
+  ]
+}

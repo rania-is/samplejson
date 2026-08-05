@@ -1,0 +1,62 @@
+{
+  "id": "EX-seated-flutter-kicks-01KZ3V3DYX6ZS73404ZXY1K7AG",
+  "name": "Seated Flutter Kicks",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "hip_flexors"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit in your chair with your legs extneded out in front of you."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Lift one foot off the ground and pause for a moment before returning it to the ground while switching feet."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Repeat on both sides."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

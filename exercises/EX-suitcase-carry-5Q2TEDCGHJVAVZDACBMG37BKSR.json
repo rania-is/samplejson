@@ -1,0 +1,92 @@
+{
+  "id": "EX-suitcase-carry-5Q2TEDCGHJVAVZDACBMG37BKSR",
+  "name": "Suitcase Carry",
+  "categories": [
+    "strength_and_resistance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_core_stability",
+    "improved_grip_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "forearms",
+    "shoulders",
+    "hips"
+  ],
+  "equipment": [
+    "kettlebell"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Hold a kettlebell in one hand beside the body."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Stand tall without leaning and begin walking."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Take controlled steps while keeping the shoulders level."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Set the load down safely, then repeat on the other side."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "distance",
+      "unit": "meters",
+      "notes": "Record distance completed while maintaining the intended movement quality."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Suitcase Carry — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Suitcase Carry — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Avoid leaning toward or away from the load."
+  ]
+}

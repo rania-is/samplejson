@@ -1,0 +1,68 @@
+{
+  "id": "EX-prone-t-raise-01KZ3V3DYJQ0B83JNMDWZ8R58R",
+  "name": "Prone T Raise",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility"
+  ],
+  "bodyParts": [
+    "shoulders",
+    "upper_back"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on the floor on your stomach with your arms outstretched in a T position."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keep your chin tucked and head in line with the rest of your spine."
+    },
+    {
+      "stepNumber": 3,
+      "description": "With your thumbs up, squeeze your shoulder blades together as you move your hands outward."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Don’t jut your chin out, shrug your shoulders, allow your shoulders to roll forward, or arch your lower back."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count controlled movement repetitions through a comfortable range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

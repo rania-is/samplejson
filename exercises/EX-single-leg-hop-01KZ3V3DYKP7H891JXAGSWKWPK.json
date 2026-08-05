@@ -1,0 +1,65 @@
+{
+  "id": "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
+  "name": "Single-Leg Hop",
+  "categories": [
+    "strength_and_resistance",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_balance",
+    "improved_coordination"
+  ],
+  "bodyParts": [
+    "ankles",
+    "feet",
+    "core"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Shift your weight to one leg and lift the unsupported leg off the floor."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Descend quickly to a quarter squat position and extend your arms behind your torso."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Drive upwards and land softly by absorbing the impact with the hips and knees."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

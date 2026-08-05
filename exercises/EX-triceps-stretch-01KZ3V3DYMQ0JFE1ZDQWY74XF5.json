@@ -1,0 +1,66 @@
+{
+  "id": "EX-triceps-stretch-01KZ3V3DYMQ0JFE1ZDQWY74XF5",
+  "name": "Triceps Stretch",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle"
+  ],
+  "bodyParts": [
+    "triceps",
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Extend one arm up in the air and then bend the elbow, with your hand coming to rest behind your head or back."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Take your other hand and gently pull on the elbow of your bent arm until you feel the stretch in your tricep."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Hold this for a bit, then shake out and switch arms."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the comfortable hold duration without forcing the range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

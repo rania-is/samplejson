@@ -1,0 +1,66 @@
+{
+  "id": "EX-reverse-crunch-01KZ3V3DYT59YPX0KBDFY9QZXA",
+  "name": "Reverse Crunch",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "core",
+    "hip_flexors"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie on your back with your arms at your sides and your knees bent."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Raise your bent legs until your calves are parallel with the floor."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Use your abs to lift your hips and bring your knees towards your chest."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Lower your legs in a controlled manner back to the starting position and repeat."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

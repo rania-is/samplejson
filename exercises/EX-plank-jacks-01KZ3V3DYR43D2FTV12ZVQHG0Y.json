@@ -1,0 +1,64 @@
+{
+  "id": "EX-plank-jacks-01KZ3V3DYR43D2FTV12ZVQHG0Y",
+  "name": "Plank Jacks",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "chest",
+    "triceps"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start in a high plank position with your feet together."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keeping your upper body still and your hips high, jump your feet out as wide as possible and land softly."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Jump back in to the center and then repeat."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

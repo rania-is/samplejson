@@ -1,0 +1,69 @@
+{
+  "id": "EX-chest-opener-forward-fold-01KZ3V3DYQG2ZAZAGXM9YXKZ45",
+  "name": "Chest Opener Forward Fold",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle",
+    "improved_breath_control"
+  ],
+  "bodyParts": [
+    "hamstrings",
+    "lower_back",
+    "chest",
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand upright ina relaxed position with your feet hip-width apart and knees slightly bent."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Interlace your fingers behind your back and slowly start to roll forward, pushing your hands up towards the sky."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Fold as far as is comfortable and hold this position for some deep breaths, then slowly come back to the starting position."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the comfortable hold duration without forcing the range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

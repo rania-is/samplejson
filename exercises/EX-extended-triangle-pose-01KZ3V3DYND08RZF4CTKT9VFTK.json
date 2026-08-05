@@ -1,0 +1,72 @@
+{
+  "id": "EX-extended-triangle-pose-01KZ3V3DYND08RZF4CTKT9VFTK",
+  "name": "Extended Triangle Pose",
+  "categories": [
+    "flexibility_and_mobility",
+    "balance_and_coordination"
+  ],
+  "exerciseEffects": [
+    "improved_balance",
+    "improved_coordination",
+    "improved_joint_mobility",
+    "improved_flexibility",
+    "stretch_muscle"
+  ],
+  "bodyParts": [
+    "hips",
+    "hamstrings",
+    "inner_thighs",
+    "shoulders"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start in standing upright with feet shoulder-width apart and, as you exhale, step your feet wide apart."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Rotate your right foot out, to a 90-degree angle, and inhale as you raise your arms to the sides until they’re parallel with the floor."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Exhale as you bring your right hand to the floor, on the inside or outside of the right foot, reach the left arm toward the ceiling, and gaze at your left thumb."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Hold the pose for 30 seconds to 1 minute and then repeat on the left side."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the comfortable hold duration without forcing the range of motion."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

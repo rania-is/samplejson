@@ -1,0 +1,87 @@
+{
+  "id": "EX-cable-triceps-pressdown-5EECQM8KH6N6CFPYWYBVCMT3NZ",
+  "name": "Cable Triceps Pressdown",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_muscular_endurance"
+  ],
+  "bodyParts": [
+    "triceps"
+  ],
+  "equipment": [
+    "cable_machine"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand facing the cable with elbows bent and close to the sides."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Press the handle downward by straightening the elbows."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pause without forcefully locking the joints."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Allow the elbows to bend slowly back to the start."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Cable Triceps Pressdown — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Cable Triceps Pressdown — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Keep the shoulders relaxed."
+  ]
+}

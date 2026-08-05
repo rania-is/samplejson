@@ -1,0 +1,84 @@
+{
+  "id": "EX-tibialis-raise-against-wall-76FV9RX9M9F4Z30F7YEWW3NJVF",
+  "name": "Tibialis Raise Against Wall",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_muscular_endurance"
+  ],
+  "bodyParts": [
+    "ankles",
+    "feet",
+    "calves"
+  ],
+  "equipment": [
+    "wall"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand with the back against a wall and feet slightly forward."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keep the heels down and lift the toes toward the shins."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pause while maintaining balance."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Lower the toes slowly without rocking the body."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Tibialis Raise Against Wall — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Tibialis Raise Against Wall — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Stand closer to the wall to reduce difficulty."
+  ]
+}

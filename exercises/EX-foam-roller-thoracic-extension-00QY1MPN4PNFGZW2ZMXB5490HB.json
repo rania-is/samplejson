@@ -1,0 +1,84 @@
+{
+  "id": "EX-foam-roller-thoracic-extension-00QY1MPN4PNFGZW2ZMXB5490HB",
+  "name": "Foam-Roller Thoracic Extension",
+  "categories": [
+    "flexibility_and_mobility"
+  ],
+  "exerciseEffects": [
+    "improved_joint_mobility",
+    "improved_posture"
+  ],
+  "bodyParts": [
+    "upper_back",
+    "chest"
+  ],
+  "equipment": [
+    "foam_roller"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Place a foam roller across the upper back and support the head."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Keep the hips grounded and gently extend over the roller."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Return to neutral without forcing the ribs upward."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Reposition the roller slightly and repeat as comfortable."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "range_of_motion",
+      "unit": "degrees",
+      "notes": "Record range only when measured consistently; do not force end range."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Foam-Roller Thoracic Extension — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Support the head and avoid rolling onto the neck or lower back."
+  ]
+}

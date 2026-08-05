@@ -1,0 +1,66 @@
+{
+  "id": "EX-side-shift-squats-01KZ3V3DYT59YPX0KBDFY9QZXD",
+  "name": "Side Shift Squats",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "quadriceps",
+    "glutes",
+    "hips"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Stand straight with your feet shoulder-width apart."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Press your hips back and squat."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Stand up, take a small step to the side, and squat again."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Return to the initial position and repeat this side-to-side movement until the set is complete."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "EX-mountain-climber-01KZ3V3DYJQ0B83JNMDWZ8R58T",
+  "name": "Mountain Climber",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "core",
+    "shoulders",
+    "chest",
+    "triceps"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start in a high plank position."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Brace your abs in order to pull your ribs down, and keep your tailbone tucked under."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Keep your shoulders active."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Don't let them relax during the movement."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Keep a rigid torso and move only from your hips, bringing one knee up at a time."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

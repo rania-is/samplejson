@@ -1,0 +1,78 @@
+{
+  "id": "EX-diaphragmatic-breathing-7QS7T5B5YGYG5NAG74CQBQVT2M",
+  "name": "Diaphragmatic Breathing",
+  "categories": [
+    "relaxation_and_breathing"
+  ],
+  "exerciseEffects": [
+    "improved_breath_control",
+    "relaxation"
+  ],
+  "bodyParts": [
+    "diaphragm",
+    "core"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Lie or sit comfortably with one hand on the abdomen."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Inhale gently through the nose and allow the lower ribs and abdomen to expand."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Exhale slowly without pushing or straining."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Continue with a quiet comfortable rhythm."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "breathing_rate",
+      "unit": "breaths_per_minute",
+      "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Diaphragmatic Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Keep breathing comfortable and unforced."
+  ]
+}

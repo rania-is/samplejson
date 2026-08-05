@@ -1,0 +1,63 @@
+{
+  "id": "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
+  "name": "Plie Squat",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength"
+  ],
+  "bodyParts": [
+    "quadriceps",
+    "glutes",
+    "hips",
+    "inner_thighs"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Start in a wide legged stance, with your toes at 45 degrees."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Slowly push your hips back, keeping your back straight, until your butt drops below the level of your knees."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Drive back up through your hips and extend fully at the top of the squat."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count repetitions completed with controlled technique."
+    }
+  ],
+  "variations": [],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "professional",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "data-conversion",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}

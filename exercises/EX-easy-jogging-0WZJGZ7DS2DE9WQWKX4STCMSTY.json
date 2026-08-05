@@ -1,0 +1,88 @@
+{
+  "id": "EX-easy-jogging-0WZJGZ7DS2DE9WQWKX4STCMSTY",
+  "name": "Easy Jogging",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_cardiorespiratory_endurance"
+  ],
+  "bodyParts": [
+    "full_body",
+    "calves",
+    "quadriceps",
+    "glutes"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Begin with an easy walk, then transition to a light jog."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Use short relaxed steps and land quietly."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Keep the shoulders and hands relaxed while breathing steadily."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Return to walking before stopping."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "duration",
+      "unit": "seconds",
+      "notes": "Record the time performed with comfortable, controlled technique."
+    },
+    {
+      "type": "distance",
+      "unit": "meters",
+      "notes": "Record distance completed while maintaining the intended movement quality."
+    },
+    {
+      "type": "rate_of_perceived_exertion",
+      "unit": "rpe_1_to_10",
+      "notes": "Record the individual's perceived effort after the exercise."
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-walk-jog-intervals-245GCM5CMJVBXQNTF1XPE740WX",
+      "variationDescription": "Walk-Jog Intervals meaningfully changes the difficulty, loading, support, or movement demands compared with Easy Jogging."
+    },
+    {
+      "id": "",
+      "variationDescription": "Easy Jogging — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use a pace that allows controlled breathing and relaxed form."
+  ]
+}

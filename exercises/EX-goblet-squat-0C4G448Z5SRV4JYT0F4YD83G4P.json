@@ -1,0 +1,94 @@
+{
+  "id": "EX-goblet-squat-0C4G448Z5SRV4JYT0F4YD83G4P",
+  "name": "Goblet Squat",
+  "categories": [
+    "strength_and_resistance"
+  ],
+  "exerciseEffects": [
+    "increased_muscle_strength",
+    "improved_core_stability"
+  ],
+  "bodyParts": [
+    "quadriceps",
+    "glutes",
+    "hips",
+    "core"
+  ],
+  "equipment": [
+    "dumbbells"
+  ],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Hold one dumbbell close to the chest with both hands."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Stand with feet in a comfortable stance and brace the trunk gently."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Bend the hips and knees together, keeping the weight close to the body."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Pause at a comfortable depth, then stand smoothly while exhaling."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "load",
+      "unit": "kilograms",
+      "notes": "Record the external load used without treating it as a universal target."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "EX-bodyweight-squat-2FP4KQNHB49CQ16VXE3742VSZA",
+      "variationDescription": "Bodyweight Squat provides a meaningfully different loading, support, or stability option compared with Goblet Squat."
+    },
+    {
+      "id": "",
+      "variationDescription": "Goblet Squat — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+    },
+    {
+      "id": "",
+      "variationDescription": "Goblet Squat — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Choose a load that allows controlled movement."
+  ]
+}

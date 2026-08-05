@@ -1,0 +1,85 @@
+{
+  "id": "EX-seated-thoracic-rotation-5GREXXPBRA5R5BJG9GZ5WPGV5D",
+  "name": "Seated Thoracic Rotation",
+  "categories": [
+    "flexibility_and_mobility"
+  ],
+  "exerciseEffects": [
+    "improved_joint_mobility",
+    "movement_preparation"
+  ],
+  "bodyParts": [
+    "upper_back",
+    "core"
+  ],
+  "equipment": [
+    "chair"
+  ],
+  "location": [
+    "indoor",
+    "outdoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "Sit tall with feet supported and arms crossed over the chest."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Rotate the upper trunk gently to one side."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Pause within a comfortable range."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Return to center and repeat to the other side."
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "type": "repetitions",
+      "unit": "repetitions",
+      "notes": "Count technically controlled repetitions."
+    },
+    {
+      "type": "range_of_motion",
+      "unit": "degrees",
+      "notes": "Record range only when measured consistently; do not force end range."
+    },
+    {
+      "type": "technical_quality",
+      "unit": "quality_score",
+      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
+    }
+  ],
+  "variations": [
+    {
+      "id": "",
+      "variationDescription": "Seated Thoracic Rotation — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+    }
+  ],
+  "relationships": [],
+  "relationshipSuggestions": [],
+  "mediaContent": {
+    "imageURLs": [
+      "image_1.png"
+    ]
+  },
+  "metadata": {
+    "createdBy": "ai generated",
+    "reviewStatus": "not validated",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-08-03",
+    "lastUpdated": "2026-08-03",
+    "lastEditedBy": "ai-generator",
+    "dedupStatus": "not_duplicate",
+    "duplicateOf": null
+  },
+  "commentsNotes": [
+    "Use a stable chair and rotate without forcing."
+  ]
+}
