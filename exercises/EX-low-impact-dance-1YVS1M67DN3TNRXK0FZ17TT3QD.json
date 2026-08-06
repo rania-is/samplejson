@@ -47,11 +47,6 @@
       "type": "rate_of_perceived_exertion",
       "unit": "rpe_1_to_10",
       "notes": "Record the individual's perceived effort after the exercise."
-    },
-    {
-      "type": "technical_quality",
-      "unit": "quality_score",
-      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
     }
   ],
   "variations": [

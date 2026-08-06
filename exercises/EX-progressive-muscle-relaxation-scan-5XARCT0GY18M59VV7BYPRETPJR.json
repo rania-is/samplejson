@@ -38,11 +38,6 @@
       "type": "duration",
       "unit": "seconds",
       "notes": "Record the time performed with comfortable, controlled technique."
-    },
-    {
-      "type": "technical_quality",
-      "unit": "quality_score",
-      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
     }
   ],
   "variations": [

@@ -44,11 +44,6 @@
       "type": "distance",
       "unit": "meters",
       "notes": "Record distance completed while maintaining the intended movement quality."
-    },
-    {
-      "type": "technical_quality",
-      "unit": "quality_score",
-      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
     }
   ],
   "variations": [

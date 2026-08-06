@@ -43,11 +43,6 @@
       "type": "balance_time",
       "unit": "seconds",
       "notes": "Record time maintained before using support or changing foot position."
-    },
-    {
-      "type": "technical_quality",
-      "unit": "quality_score",
-      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
     }
   ],
   "variations": [

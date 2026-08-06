@@ -47,11 +47,6 @@
       "type": "cadence",
       "unit": "steps_per_minute",
       "notes": "Record average movement or step cadence."
-    },
-    {
-      "type": "technical_quality",
-      "unit": "quality_score",
-      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
     }
   ],
   "variations": [

@@ -47,11 +47,6 @@
       "type": "breathing_rate",
       "unit": "breaths_per_minute",
       "notes": "Record a comfortable breathing rate without prescribing a universal norm."
-    },
-    {
-      "type": "technical_quality",
-      "unit": "quality_score",
-      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
     }
   ],
   "variations": [

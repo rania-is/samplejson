@@ -46,11 +46,6 @@
       "type": "load",
       "unit": "kilograms",
       "notes": "Record the external load used without treating it as a universal target."
-    },
-    {
-      "type": "technical_quality",
-      "unit": "quality_score",
-      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
     }
   ],
   "variations": [

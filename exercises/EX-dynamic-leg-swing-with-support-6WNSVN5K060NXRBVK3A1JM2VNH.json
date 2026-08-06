@@ -49,11 +49,6 @@
       "type": "range_of_motion",
       "unit": "degrees",
       "notes": "Record range only when measured consistently; do not force end range."
-    },
-    {
-      "type": "technical_quality",
-      "unit": "quality_score",
-      "notes": "Use a consistent reviewer-defined quality scale for control and alignment."
     }
   ],
   "variations": [
