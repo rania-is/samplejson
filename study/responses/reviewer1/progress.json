@@ -1,9 +1,10 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 1,
+  "completed": 2,
   "completedExerciseIds": [
-    "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46"
+    "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
+    "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK"
   ],
-  "lastUpdated": "2026-08-06T09:10:27.356Z"
+  "lastUpdated": "2026-08-06T09:17:17.577Z"
 }
