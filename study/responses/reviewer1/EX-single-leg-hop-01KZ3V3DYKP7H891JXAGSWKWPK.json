@@ -1,0 +1,111 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "reviewer1",
+  "exerciseId": "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
+  "submittedAt": "2026-08-06T09:17:17.577Z",
+  "ratings": {
+    "q1_overallQuality": 3,
+    "q2_instructionClarity": 3,
+    "q3_biomechanics": 3,
+    "q4_safety": 3,
+    "q5_classification": 3,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 3
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 3
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
+    "name": "Single-Leg Hop",
+    "categories": [
+      "strength_and_resistance",
+      "balance_and_coordination",
+      "relaxation_and_breathing"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_balance",
+      "improved_coordination"
+    ],
+    "bodyParts": [
+      "ankles",
+      "feet",
+      "core",
+      "hip flexors"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Shift your weight to one leg and lift the unsupported leg off the floor."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Descend quickly to a quarter squat position and extend your arms behind your torso."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Drive upwards and land softly by absorbing the impact with the hips and knees."
+      },
+      {
+        "stepNumber": 4,
+        "description": "nanan"
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      },
+      {
+        "type": "distance",
+        "unit": "d",
+        "notes": null
+      }
+    ],
+    "variations": [
+      {
+        "id": "",
+        "variationDescription": ""
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "sdsa",
+        "variationDescription": "sadsa"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-06",
+      "lastUpdated": "2026-08-06",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
