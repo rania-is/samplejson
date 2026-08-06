@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "reviewer1",
+  "exerciseId": "EX-standing-quadriceps-stretch-0NMW4RJFR5VXQVF5E1T2Z4PMN7",
+  "submittedAt": "2026-08-06T09:29:39.786Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 4,
+    "q4_safety": 4,
+    "q5_classification": 4,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 4
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
