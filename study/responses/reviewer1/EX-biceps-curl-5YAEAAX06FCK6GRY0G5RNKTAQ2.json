@@ -1,0 +1,109 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "reviewer1",
+  "exerciseId": "EX-biceps-curl-5YAEAAX06FCK6GRY0G5RNKTAQ2",
+  "submittedAt": "2026-08-06T09:18:43.838Z",
+  "ratings": {
+    "q1_overallQuality": 3,
+    "q2_instructionClarity": 3,
+    "q3_biomechanics": 3,
+    "q4_safety": 3,
+    "q5_classification": 3,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 3
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 3
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-biceps-curl-5YAEAAX06FCK6GRY0G5RNKTAQ2",
+    "name": "Biceps Curl",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_grip_strength"
+    ],
+    "bodyParts": [
+      "biceps",
+      "forearms"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand with dumbbells at the sides and palms facing forward."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Keep the upper arms close to the torso."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Bend the elbows to raise the weights without swinging."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Lower the weights under control."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [
+      {
+        "id": "EX-romanian-deadlift-with-dumbbells-02YF72Q5VZ8YVWB7F7Z5GQ9D97",
+        "variationDescription": "Alternative variation"
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Biceps Curl — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Biceps Curl — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-06",
+      "lastUpdated": "2026-08-06",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep the upper arms relatively still."
+    ]
+  }
+}
