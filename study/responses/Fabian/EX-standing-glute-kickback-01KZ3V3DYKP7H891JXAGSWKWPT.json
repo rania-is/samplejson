@@ -1,0 +1,93 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-standing-glute-kickback-01KZ3V3DYKP7H891JXAGSWKWPT",
+  "submittedAt": "2026-08-18T16:44:14.580Z",
+  "ratings": {
+    "q1_overallQuality": 3,
+    "q2_instructionClarity": 3,
+    "q3_biomechanics": 5,
+    "q4_safety": 5,
+    "q5_classification": 6,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 4
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-standing-glute-kickback-01KZ3V3DYKP7H891JXAGSWKWPT",
+    "name": "Standing Glute Kickback",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "glutes",
+      "hamstrings",
+      "abductors"
+    ],
+    "equipment": [
+      "wall",
+      "table"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand in a relaxed position, facing a wall or table that you can hold on for support."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Keep your back straight, with one hand on the wall / table for support."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Slowly raise one leg behind you, using your glute muscle to drive the movement."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Raise as high as comfortably possible while keeping your back straight, then return to centre and repeat on the other leg."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-18",
+      "lastUpdated": "2026-08-18",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
