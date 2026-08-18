@@ -1,0 +1,111 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
+  "submittedAt": "2026-08-18T16:41:33.957Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
+    "name": "Wall Push-Up",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_muscular_endurance"
+    ],
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders",
+      "core"
+    ],
+    "equipment": [
+      "wall"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Place both hands on a wall at chest height."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Walk the feet back until the body forms a comfortable line."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Bend the elbows and bring the chest toward the wall as one unit."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Press the wall away and return without locking the elbows forcefully."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [
+      {
+        "id": "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+        "variationDescription": "Incline Push-Up meaningfully changes the difficulty, loading, support, or movement demands compared with Wall Push-Up."
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Wall Push-Up — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Wall Push-Up — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-18",
+      "lastUpdated": "2026-08-18",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "A practical low-load pushing option."
+    ]
+  }
+}
