@@ -1,11 +1,12 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 3,
+  "completed": 4,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
-    "EX-standing-glute-kickback-01KZ3V3DYKP7H891JXAGSWKWPT"
+    "EX-standing-glute-kickback-01KZ3V3DYKP7H891JXAGSWKWPT",
+    "EX-shadow-boxing-0621K2XH5QMSMNYRPPBHBAKD7N"
   ],
-  "lastUpdated": "2026-08-18T16:44:14.580Z"
+  "lastUpdated": "2026-08-18T16:45:20.166Z"
 }
