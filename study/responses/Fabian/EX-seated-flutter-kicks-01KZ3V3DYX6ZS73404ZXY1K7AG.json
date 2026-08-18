@@ -1,0 +1,83 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-seated-flutter-kicks-01KZ3V3DYX6ZS73404ZXY1K7AG",
+  "submittedAt": "2026-08-18T16:53:03.675Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 2,
+    "q3_biomechanics": 3,
+    "q4_safety": 3,
+    "q5_classification": 6,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 2
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-seated-flutter-kicks-01KZ3V3DYX6ZS73404ZXY1K7AG",
+    "name": "Seated Flutter Kicks",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "hip_flexors"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit in your chair with your legs extended out in front of you."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Lift both feet off the ground and alternate them in a fast movement for a given duration or as long as possible."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "time spend",
+        "notes": "Set a timer or take the time while performing the exercise"
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-18",
+      "lastUpdated": "2026-08-18",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
