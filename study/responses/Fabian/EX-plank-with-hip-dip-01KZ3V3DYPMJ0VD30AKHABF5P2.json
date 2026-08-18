@@ -1,0 +1,95 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-plank-with-hip-dip-01KZ3V3DYPMJ0VD30AKHABF5P2",
+  "submittedAt": "2026-08-18T16:47:26.714Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-plank-with-hip-dip-01KZ3V3DYPMJ0VD30AKHABF5P2",
+    "name": "Plank with Hip Dip",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_core_stability"
+    ],
+    "bodyParts": [
+      "core",
+      "shoulders",
+      "chest",
+      "triceps"
+    ],
+    "equipment": [
+      "yoga mat"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start in a plank position with your body in a straight line, feet hip-width apart, your elbows bent and under your shoulders."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Rotate your hips to the right and dip your body almost to the floor."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Return to the starting position and repeat on the left side."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Keep alternating sides."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-18",
+      "lastUpdated": "2026-08-18",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
