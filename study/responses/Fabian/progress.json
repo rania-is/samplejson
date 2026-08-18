@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 11,
+  "completed": 12,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -13,7 +13,8 @@
     "EX-foam-roller-thoracic-extension-00QY1MPN4PNFGZW2ZMXB5490HB",
     "EX-side-plank-from-knees-3GDN2VG76E5THARTAZHY0NSVJG",
     "EX-laugh-01KZ3V3DYVRGF8XTCP211A7W9G",
-    "EX-feet-together-balance-74QA5CTXP9NCPA7M3V9SG6GJB0"
+    "EX-feet-together-balance-74QA5CTXP9NCPA7M3V9SG6GJB0",
+    "EX-seated-paced-breathing-5HYQGP5640GWV3HWB0W7NJV9KS"
   ],
-  "lastUpdated": "2026-08-18T17:01:25.661Z"
+  "lastUpdated": "2026-08-18T17:01:36.580Z"
 }
