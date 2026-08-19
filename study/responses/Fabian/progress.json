@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 27,
+  "completed": 28,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -29,7 +29,8 @@
     "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX",
     "EX-triceps-stretch-01KZ3V3DYMQ0JFE1ZDQWY74XF5",
     "EX-open-book-thoracic-rotation-78V233QDEM551GFDTCK7G4YXQC",
-    "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW"
+    "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW",
+    "EX-standing-hip-circles-01KZ3V3DYKP7H891JXAGSWKWPP"
   ],
-  "lastUpdated": "2026-08-19T08:58:00.221Z"
+  "lastUpdated": "2026-08-19T08:58:56.523Z"
 }
