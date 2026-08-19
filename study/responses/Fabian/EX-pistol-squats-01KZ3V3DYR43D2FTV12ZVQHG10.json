@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10",
+  "submittedAt": "2026-08-19T08:27:09.547Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 5,
+    "q5_classification": 7,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
