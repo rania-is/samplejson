@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 24,
+  "completed": 25,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -26,7 +26,8 @@
     "EX-stationary-split-squat-7QZT4JZ13FV8CQ3WQF0TN91JZS",
     "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1",
     "EX-back-of-the-neck-stretch-01KZ3V3DYVRGF8XTCP211A7W97",
-    "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX"
+    "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX",
+    "EX-triceps-stretch-01KZ3V3DYMQ0JFE1ZDQWY74XF5"
   ],
-  "lastUpdated": "2026-08-19T08:53:48.010Z"
+  "lastUpdated": "2026-08-19T08:55:31.774Z"
 }
