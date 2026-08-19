@@ -1,0 +1,105 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1",
+  "submittedAt": "2026-08-19T08:48:52.285Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 5,
+    "q4_safety": 6,
+    "q5_classification": 5,
+    "q6_useInPractice": 2,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1",
+    "name": "Cone Weave Walk",
+    "categories": [
+      "balance_and_coordination",
+      "endurance"
+    ],
+    "exerciseEffects": [
+      "improved_coordination",
+      "improved_balance"
+    ],
+    "bodyParts": [
+      "full body"
+    ],
+    "equipment": [
+      "cones"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Arrange several cones in a wide line."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Walk between them using smooth gentle turns."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep the head up and shorten steps near each turn."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Finish in a clear area before stopping."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "distance",
+        "unit": "meters",
+        "notes": "Record distance completed while maintaining the intended movement quality."
+      },
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Cone Weave Walk — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-19",
+      "lastUpdated": "2026-08-19",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Space markers widely enough for controlled turns."
+    ]
+  }
+}
