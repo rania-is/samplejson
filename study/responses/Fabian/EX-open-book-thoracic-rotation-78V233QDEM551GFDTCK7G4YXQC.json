@@ -1,0 +1,105 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-open-book-thoracic-rotation-78V233QDEM551GFDTCK7G4YXQC",
+  "submittedAt": "2026-08-19T08:56:47.410Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-open-book-thoracic-rotation-78V233QDEM551GFDTCK7G4YXQC",
+    "name": "Open-Book Thoracic Rotation",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_joint_mobility",
+      "improved_flexibility"
+    ],
+    "bodyParts": [
+      "shoulders",
+      "chest",
+      "upper back"
+    ],
+    "equipment": [
+      "yoga mat"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on one side with hips and knees bent and arms extended forward."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Sweep the top arm across the body while following it with the eyes."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Allow the upper trunk to rotate without forcing the knees apart or lifting them off the floor."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Return slowly and repeat on the other side."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "range_of_motion",
+        "unit": "degrees",
+        "notes": "Record range only when measured consistently; do not force end range."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Open-Book Thoracic Rotation — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-19",
+      "lastUpdated": "2026-08-19",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep the movement within a comfortable range."
+    ]
+  }
+}
