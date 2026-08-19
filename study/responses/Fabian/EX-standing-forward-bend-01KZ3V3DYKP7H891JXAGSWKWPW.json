@@ -1,0 +1,93 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW",
+  "submittedAt": "2026-08-19T08:58:00.221Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW",
+    "name": "Standing Forward Bend",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand in a relaxed position with your feet hip-width apart and your hands by your sides."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Slowly, start to roll down towards your toes."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Try to keep your legs straight, but don't lock your knees."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Reach down as far as you can until you feel a stretch in your hamstrings, and then hold that position while you breathe."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-19",
+      "lastUpdated": "2026-08-19",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
