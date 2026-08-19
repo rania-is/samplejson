@@ -1,0 +1,90 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-triceps-stretch-01KZ3V3DYMQ0JFE1ZDQWY74XF5",
+  "submittedAt": "2026-08-19T08:55:31.774Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-triceps-stretch-01KZ3V3DYMQ0JFE1ZDQWY74XF5",
+    "name": "Triceps Stretch",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Extend one arm up in the air and then bend the elbow, with your hand coming to rest behind your head or back."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Take your other hand and gently pull on the elbow of your bent arm until you feel the stretch in your tricep."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Hold this for a bit, then shake out and switch arms."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-19",
+      "lastUpdated": "2026-08-19",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
