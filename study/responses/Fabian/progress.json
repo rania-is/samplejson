@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 21,
+  "completed": 22,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -23,7 +23,8 @@
     "EX-elbow-plank-with-reach-01KZ3V3DYS3422TGERTFBDCBST",
     "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN",
     "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
-    "EX-stationary-split-squat-7QZT4JZ13FV8CQ3WQF0TN91JZS"
+    "EX-stationary-split-squat-7QZT4JZ13FV8CQ3WQF0TN91JZS",
+    "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1"
   ],
-  "lastUpdated": "2026-08-19T08:46:53.940Z"
+  "lastUpdated": "2026-08-19T08:48:52.285Z"
 }
