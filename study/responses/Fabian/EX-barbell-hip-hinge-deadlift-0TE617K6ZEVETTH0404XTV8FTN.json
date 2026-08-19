@@ -1,0 +1,111 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-barbell-hip-hinge-deadlift-0TE617K6ZEVETTH0404XTV8FTN",
+  "submittedAt": "2026-08-19T08:38:24.882Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-barbell-hip-hinge-deadlift-0TE617K6ZEVETTH0404XTV8FTN",
+    "name": "Barbell Hip Hinge Deadlift",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_grip_strength"
+    ],
+    "bodyParts": [
+      "glutes",
+      "hamstrings",
+      "forearms",
+      "lower back"
+    ],
+    "equipment": [
+      "barbell",
+      "weight_plates"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand with the bar close to the shins and feet stable."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Hinge and bend the knees to grip the bar while keeping the trunk controlled."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Press the floor away and lift with the bar traveling close to the body."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Lower the bar by hinging first, then bending the knees as needed."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "load",
+        "unit": "kilograms",
+        "notes": "Record the external load used without treating it as a universal target."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Barbell Hip Hinge Deadlift — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Barbell Hip Hinge Deadlift — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-19",
+      "lastUpdated": "2026-08-19",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Technical coaching may be useful before adding substantial load."
+    ]
+  }
+}
