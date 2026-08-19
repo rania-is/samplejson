@@ -1,0 +1,112 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-back-of-the-neck-stretch-01KZ3V3DYVRGF8XTCP211A7W97",
+  "submittedAt": "2026-08-19T08:51:40.223Z",
+  "ratings": {
+    "q1_overallQuality": 2,
+    "q2_instructionClarity": 3,
+    "q3_biomechanics": 4,
+    "q4_safety": 2,
+    "q5_classification": 2,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 3
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-back-of-the-neck-stretch-01KZ3V3DYVRGF8XTCP211A7W97",
+    "name": "Back of the Neck Stretch",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "neck"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit down."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Your feet should be slightly more than shoulder-width apart on the floor."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Make yourself tall."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Grasp the back of your head and look down."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Lower both shoulders, tuck in your chin."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Now gently pull with your hands until you feel a slight stretch in your neck."
+      },
+      {
+        "stepNumber": 7,
+        "description": "Breathe evenly."
+      },
+      {
+        "stepNumber": 8,
+        "description": "Feel and hold the stretch for a given time."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-19",
+      "lastUpdated": "2026-08-19",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
