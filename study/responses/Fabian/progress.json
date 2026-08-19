@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 14,
+  "completed": 15,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -16,7 +16,8 @@
     "EX-feet-together-balance-74QA5CTXP9NCPA7M3V9SG6GJB0",
     "EX-seated-paced-breathing-5HYQGP5640GWV3HWB0W7NJV9KS",
     "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10",
-    "EX-standing-resistance-band-row-7P62141Y97NV3KSY6D6DC6WXW7"
+    "EX-standing-resistance-band-row-7P62141Y97NV3KSY6D6DC6WXW7",
+    "EX-knee-to-wall-ankle-mobility-6YK3JWWD50WDQB0D0RY7D64553"
   ],
-  "lastUpdated": "2026-08-19T08:29:08.674Z"
+  "lastUpdated": "2026-08-19T08:31:53.256Z"
 }
