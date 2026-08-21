@@ -1,0 +1,89 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
+  "submittedAt": "2026-08-21T08:18:16.738Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 5,
+    "q4_safety": 7,
+    "q5_classification": 3,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
+    "name": "Butterfly Pose",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "hips",
+      "adductors"
+    ],
+    "equipment": [
+      "yoga mat"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit down on the mat, bend your knees, press the soles of your feet together, and drop your knees out to the sides."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Lengthen your torso, grasp your big toes and stay in this pose for 1 minute to 2 minutes."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
