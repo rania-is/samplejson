@@ -1,0 +1,99 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-seated-forward-fold-01KZ3V3DYY2J67YNXR955N44JX",
+  "submittedAt": "2026-08-21T06:33:56.289Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 4,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-seated-forward-fold-01KZ3V3DYY2J67YNXR955N44JX",
+    "name": "Seated Forward Fold",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit on a chair with your feet on the floor and arms by your sides."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Extend your right leg out in front of you and place your heel on the floor."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keeping your leg straight, slowly bend forward."
+      },
+      {
+        "stepNumber": 4,
+        "description": "You should feel a stretch in the back of your right leg."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Hold this position for a few breaths and then switch sides."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
