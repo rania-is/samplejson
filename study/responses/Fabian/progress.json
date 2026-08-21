@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 45,
+  "completed": 46,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -47,7 +47,8 @@
     "EX-cactus-arms-01KZ3V3DYQG2ZAZAGXM9YXKZ49",
     "EX-bodyweight-squat-2FP4KQNHB49CQ16VXE3742VSZA",
     "EX-jump-squat-01KZ3V3DYPMJ0VD30AKHABF5P0",
-    "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ"
+    "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ",
+    "EX-clock-reach-balance-drill-27JK3VAQWFB2MSDDST7BKWXBJD"
   ],
-  "lastUpdated": "2026-08-21T07:29:49.827Z"
+  "lastUpdated": "2026-08-21T07:41:07.900Z"
 }
