@@ -1,0 +1,95 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-upper-back-stretch-01KZ3V3DYY2J67YNXR955N44K1",
+  "submittedAt": "2026-08-21T06:27:38.686Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 3,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-upper-back-stretch-01KZ3V3DYY2J67YNXR955N44K1",
+    "name": "Upper Back Stretch",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "shoulders",
+      "upper back"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Interlace your hands in front of your chest and tilt your chin downwards."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Arch your back and push your interlaced hands out in front of you."
+      },
+      {
+        "stepNumber": 3,
+        "description": "With your hands outstretched, pull your shoulder blades apart and push your arms outwards until you feel a stretch in your upper back."
+      },
+      {
+        "stepNumber": 4,
+        "description": "While breathing in, gently return to a normal position and then repeat."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
