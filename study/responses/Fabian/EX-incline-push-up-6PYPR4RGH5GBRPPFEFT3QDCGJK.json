@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+  "submittedAt": "2026-08-21T06:37:09.361Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 2
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
