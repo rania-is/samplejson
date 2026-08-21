@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 60,
+  "completed": 61,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -62,7 +62,8 @@
     "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
     "EX-wall-push-running-01KZ3V3DYKP7H891JXAGSWKWPR",
     "EX-wall-shoulder-slide-441N8NQ14SD4X0X0WXTMNR1F7H",
-    "EX-adductor-rock-back-148VRJ2BHJD0CJMF58WDWQ4B5C"
+    "EX-adductor-rock-back-148VRJ2BHJD0CJMF58WDWQ4B5C",
+    "EX-single-leg-stand-with-support-6C2T4BNG6KVMGAC6C1KHCHX9XE"
   ],
-  "lastUpdated": "2026-08-21T08:22:01.205Z"
+  "lastUpdated": "2026-08-21T08:25:46.319Z"
 }
