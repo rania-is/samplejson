@@ -1,0 +1,88 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
+  "submittedAt": "2026-08-21T06:26:09.608Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 3
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
+    "name": "Russian Twist",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "hip_flexors",
+      "lower back",
+      "abdominals"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie down on the floor with your knees bent."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Raise your upper body to create a 45 degree angle with your legs."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Holding this position, twist your upper body to the right and to the left, taking your arms with you and keeping your legs still."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
