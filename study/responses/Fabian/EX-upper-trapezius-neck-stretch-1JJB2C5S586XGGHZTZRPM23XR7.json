@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-upper-trapezius-neck-stretch-1JJB2C5S586XGGHZTZRPM23XR7",
+  "submittedAt": "2026-08-21T07:48:12.613Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
