@@ -1,0 +1,94 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-tricep-dips-01KZ3V3DYND08RZF4CTKT9VFTG",
+  "submittedAt": "2026-08-21T07:49:21.521Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 5,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-tricep-dips-01KZ3V3DYND08RZF4CTKT9VFTG",
+    "name": "Tricep Dips",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "triceps",
+      "shoulders",
+      "chest"
+    ],
+    "equipment": [
+      "chair",
+      "bench"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Place your hands behind you onto a chair, so that your fingers face forward."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Extend your legs on the floor in front of you and start bending your elbows."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Lower your body until your arms are at a 90-degree angle."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Lift your body back up until your arms are straight."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
