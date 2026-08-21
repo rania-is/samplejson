@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 36,
+  "completed": 37,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -38,7 +38,8 @@
     "EX-upper-back-stretch-01KZ3V3DYY2J67YNXR955N44K1",
     "EX-low-step-aerobics-54NWNGRZAJJCAWFY08AF323BE4",
     "EX-walk-jog-intervals-245GCM5CMJVBXQNTF1XPE740WX",
-    "EX-low-step-up-418FG27WCJQQT1WK21QW4JDBXS"
+    "EX-low-step-up-418FG27WCJQQT1WK21QW4JDBXS",
+    "EX-seated-forward-fold-01KZ3V3DYY2J67YNXR955N44JX"
   ],
-  "lastUpdated": "2026-08-21T06:31:13.907Z"
+  "lastUpdated": "2026-08-21T06:33:56.289Z"
 }
