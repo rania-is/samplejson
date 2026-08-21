@@ -1,0 +1,111 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-jump-rope-1P0S66WME2NR9F760HGMWB1WVH",
+  "submittedAt": "2026-08-21T06:36:15.188Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-jump-rope-1P0S66WME2NR9F760HGMWB1WVH",
+    "name": "Jump Rope",
+    "categories": [
+      "endurance",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance",
+      "improved_coordination"
+    ],
+    "bodyParts": [
+      "calves",
+      "full body"
+    ],
+    "equipment": [
+      "jump_rope"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand with the rope behind the heels and handles at the sides."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Turn the rope from the wrists and make small jumps as it passes."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Land softly with knees slightly bent."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Stop before rhythm or landing control is lost."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "cadence",
+        "unit": "steps_per_minute",
+        "notes": "Record average movement or step cadence."
+      },
+      {
+        "type": "rate_of_perceived_exertion",
+        "unit": "rpe_1_to_10",
+        "notes": "Record the individual's perceived effort after the exercise."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Jump Rope — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Select a clear surface and scale impact as needed."
+    ]
+  }
+}
