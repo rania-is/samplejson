@@ -1,0 +1,91 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-wall-push-running-01KZ3V3DYKP7H891JXAGSWKWPR",
+  "submittedAt": "2026-08-21T08:19:07.212Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-wall-push-running-01KZ3V3DYKP7H891JXAGSWKWPR",
+    "name": "Wall Push Running",
+    "categories": [
+      "endurance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance"
+    ],
+    "bodyParts": [
+      "full body"
+    ],
+    "equipment": [
+      "wall"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand roughly a meter away from a wall or flat surface that you can lean against."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Lean forward until your palms are flat against the wall, but leave your feet where they were."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Now start to walk and then jog in place, while you are propped up against the wall with your hands."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Focus on bringing your knees up higher and slowly start to increase your pace as you feel more comfortable."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "minutes",
+        "notes": "Record the duration completed at an individually appropriate intensity."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
