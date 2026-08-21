@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 52,
+  "completed": 53,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -54,7 +54,8 @@
     "EX-seated-leg-raises-01KZ3V3DYW2R5BX5WFZN2A3N5D",
     "EX-prayer-press-01KZ3V3DYX6ZS73404ZXY1K7AW",
     "EX-upper-trapezius-neck-stretch-1JJB2C5S586XGGHZTZRPM23XR7",
-    "EX-tricep-dips-01KZ3V3DYND08RZF4CTKT9VFTG"
+    "EX-tricep-dips-01KZ3V3DYND08RZF4CTKT9VFTG",
+    "EX-glute-squeezes-01KZ3V3DYW2R5BX5WFZN2A3N5E"
   ],
-  "lastUpdated": "2026-08-21T07:49:21.522Z"
+  "lastUpdated": "2026-08-21T07:50:31.788Z"
 }
