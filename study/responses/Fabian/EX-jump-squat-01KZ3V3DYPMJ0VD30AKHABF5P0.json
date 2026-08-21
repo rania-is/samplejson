@@ -1,0 +1,93 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-jump-squat-01KZ3V3DYPMJ0VD30AKHABF5P0",
+  "submittedAt": "2026-08-21T07:28:57.493Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 3,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-jump-squat-01KZ3V3DYPMJ0VD30AKHABF5P0",
+    "name": "Jump Squat",
+    "categories": [
+      "endurance",
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_cardiorespiratory_endurance",
+      "increased_bone_strength"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "calves"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand with your feet shoulder-width apart and the toes pointing slightly outward."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Bend your knees pressing your hips back as if you were going to sit back on a chair."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pushing through the heels, jump straight up."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Land with your knees slightly bent and go back into the squat position."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count the technically clean repetitions"
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
