@@ -1,0 +1,105 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-wall-shoulder-slide-441N8NQ14SD4X0X0WXTMNR1F7H",
+  "submittedAt": "2026-08-21T08:20:53.143Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 2,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-wall-shoulder-slide-441N8NQ14SD4X0X0WXTMNR1F7H",
+    "name": "Wall Shoulder Slide",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_joint_mobility",
+      "improved_posture"
+    ],
+    "bodyParts": [
+      "shoulders",
+      "chest",
+      "upper back"
+    ],
+    "equipment": [
+      "wall"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand with the back at a wall, elbows bent and your forearms and hands facing dorsal against the wall."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Keep the ribs relaxed and slide the arms upward."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stop before the shoulders shrug or discomfort appears."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Slide the arms back down under control."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "range_of_motion",
+        "unit": "degrees",
+        "notes": "Record range only when measured consistently; do not force end range."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Wall Shoulder Slide — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Only slide as high as comfortable."
+    ]
+  }
+}
