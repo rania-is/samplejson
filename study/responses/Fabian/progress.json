@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 34,
+  "completed": 35,
   "completedExerciseIds": [
     "EX-single-leg-glute-bridge-740GSXTBK7FSCZA7Z7J1VR4GNV",
     "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
@@ -36,7 +36,8 @@
     "EX-stability-ball-hamstring-curl-6Y6XH8AVPY7S3RJ5EZPGZ9KM72",
     "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
     "EX-upper-back-stretch-01KZ3V3DYY2J67YNXR955N44K1",
-    "EX-low-step-aerobics-54NWNGRZAJJCAWFY08AF323BE4"
+    "EX-low-step-aerobics-54NWNGRZAJJCAWFY08AF323BE4",
+    "EX-walk-jog-intervals-245GCM5CMJVBXQNTF1XPE740WX"
   ],
-  "lastUpdated": "2026-08-21T06:28:46.968Z"
+  "lastUpdated": "2026-08-21T06:30:00.626Z"
 }
