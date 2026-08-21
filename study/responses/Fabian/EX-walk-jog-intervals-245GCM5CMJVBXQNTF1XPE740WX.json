@@ -1,0 +1,113 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-walk-jog-intervals-245GCM5CMJVBXQNTF1XPE740WX",
+  "submittedAt": "2026-08-21T06:30:00.626Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 5,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-walk-jog-intervals-245GCM5CMJVBXQNTF1XPE740WX",
+    "name": "Walk-Jog Intervals",
+    "categories": [
+      "endurance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance"
+    ],
+    "bodyParts": [
+      "calves",
+      "quadriceps",
+      "glutes",
+      "full body"
+    ],
+    "equipment": [],
+    "location": [
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start with comfortable walking."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Jog for a short manageable interval using relaxed steps."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Return to walking until breathing settles."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Continue alternating without forcing pace."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "distance",
+        "unit": "meters",
+        "notes": "Record distance completed while maintaining the intended movement quality."
+      },
+      {
+        "type": "rate_of_perceived_exertion",
+        "unit": "rpe_1_to_10",
+        "notes": "Record the individual's perceived effort after the exercise."
+      }
+    ],
+    "variations": [
+      {
+        "id": "EX-easy-jogging-0WZJGZ7DS2DE9WQWKX4STCMSTY",
+        "variationDescription": "Easy Jogging provides a meaningfully different loading, support, or stability option compared with Walk-Jog Intervals."
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Walk-Jog Intervals — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-21",
+      "lastUpdated": "2026-08-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Adjust work and recovery periods to current capacity."
+    ]
+  }
+}
