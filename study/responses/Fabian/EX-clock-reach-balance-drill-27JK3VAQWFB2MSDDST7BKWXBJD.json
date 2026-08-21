@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Fabian",
+  "exerciseId": "EX-clock-reach-balance-drill-27JK3VAQWFB2MSDDST7BKWXBJD",
+  "submittedAt": "2026-08-21T07:41:07.900Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 5,
+    "q6_useInPractice": 2,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 2
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
