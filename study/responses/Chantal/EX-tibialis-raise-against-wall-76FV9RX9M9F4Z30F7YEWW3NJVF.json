@@ -1,0 +1,110 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-tibialis-raise-against-wall-76FV9RX9M9F4Z30F7YEWW3NJVF",
+  "submittedAt": "2026-08-24T13:43:22.598Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 3,
+    "q3_biomechanics": 6,
+    "q4_safety": 5,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-tibialis-raise-against-wall-76FV9RX9M9F4Z30F7YEWW3NJVF",
+    "name": "Standing Tibialis Raise (Against Wall)",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_muscular_endurance"
+    ],
+    "bodyParts": [
+      "ankles",
+      "feet",
+      "calves"
+    ],
+    "equipment": [
+      "wall"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "For safety, perform the exercise either barefoot or while wearing supportive, well-fitting shoes with a firm grip. Avoid loose slippers or socks without sufficient traction."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Stand with your back facing a wall, approximately 20–30 cm (8–12 inches) away from it. Lean your back comfortably against the wall and maintain slight tension in your core. Keep your legs straight and your heels firmly on the ground."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keeping your heels down, lift your toes and the front of your feet as high as possible toward your shins. Maintain your balance and avoid leaning or rocking your body."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Pause at the top of the movement for 2 seconds, then slowly lower your toes back toward the floor in a controlled manner. Pause for 2 seconds at the bottom before starting the next repetition."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Aim to complete 25 consecutive repetitions while maintaining a stable posture, controlled movement, and full range of motion throughout."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Tibialis Raise Against Wall — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Tibialis Raise Against Wall — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-24",
+      "lastUpdated": "2026-08-24",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Stand closer to the wall to reduce difficulty.",
+      "The further from the wall your feet are, the tougher these will be. Also the higher your heel is, the more difficult these become.",
+      "The Tibialis Raise is an exercise that strengthens the tibialis anterior muscle. It can help improve ankle stability, running strength, and reduce the risk of shin-related issues.  The tibialis anterior generally does not need to be trained separately, but if you experience shin problems, have unstable feet, or participate in sports that involve running or jumping, it can be a useful addition to your training."
+    ]
+  }
+}
