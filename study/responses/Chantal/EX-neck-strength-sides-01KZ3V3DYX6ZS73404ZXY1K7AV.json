@@ -1,0 +1,95 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-neck-strength-sides-01KZ3V3DYX6ZS73404ZXY1K7AV",
+  "submittedAt": "2026-08-24T13:29:32.823Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-neck-strength-sides-01KZ3V3DYX6ZS73404ZXY1K7AV",
+    "name": "Neck Strength Sides",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "neck"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit upright in a comfortable position with your shoulders relaxed and down. Place the palm of your left hand against the left side of your head."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Gently press your head into your hand while simultaneously pressing your hand against your head. Create enough tension to resist the movement without actually moving your head."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep your head and neck in a neutral position and maintain a steady, upright posture. Keep your shoulders relaxed and down throughout the exercise—do not shrug or lift them toward your ears."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hold the isometric tension for at least 5 seconds while breathing normally. Keep the pressure controlled and avoid straining your neck or shoulders."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Slowly release the tension and repeat the exercise on the opposite side, maintaining the same controlled position."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time the position or isometric effort is maintained with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-24",
+      "lastUpdated": "2026-08-24",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
