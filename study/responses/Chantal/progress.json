@@ -1,11 +1,12 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 3,
+  "completed": 4,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
-    "EX-dumbbell-bench-press-3J2GPJPQMF8JKD4DS1N2KYT2M9"
+    "EX-dumbbell-bench-press-3J2GPJPQMF8JKD4DS1N2KYT2M9",
+    "EX-neck-strength-sides-01KZ3V3DYX6ZS73404ZXY1K7AV"
   ],
-  "lastUpdated": "2026-08-24T13:13:05.121Z"
+  "lastUpdated": "2026-08-24T13:29:32.824Z"
 }
