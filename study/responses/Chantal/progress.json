@@ -1,12 +1,13 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 4,
+  "completed": 5,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
     "EX-dumbbell-bench-press-3J2GPJPQMF8JKD4DS1N2KYT2M9",
-    "EX-neck-strength-sides-01KZ3V3DYX6ZS73404ZXY1K7AV"
+    "EX-neck-strength-sides-01KZ3V3DYX6ZS73404ZXY1K7AV",
+    "EX-pool-walking-7NYSWV7VBNE7PKYT1SD2SBA1T0"
   ],
-  "lastUpdated": "2026-08-24T13:29:32.824Z"
+  "lastUpdated": "2026-08-24T13:30:55.807Z"
 }
