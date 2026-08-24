@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-pool-walking-7NYSWV7VBNE7PKYT1SD2SBA1T0",
+  "submittedAt": "2026-08-24T13:30:55.807Z",
+  "ratings": {
+    "q1_overallQuality": 3,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 4,
+    "q4_safety": 6,
+    "q5_classification": 5,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "reject",
+  "editedExercise": null
+}
