@@ -1,0 +1,125 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-dumbbell-bench-press-3J2GPJPQMF8JKD4DS1N2KYT2M9",
+  "submittedAt": "2026-08-24T13:13:05.121Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 6,
+    "q4_safety": 4,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 4
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-dumbbell-bench-press-3J2GPJPQMF8JKD4DS1N2KYT2M9",
+    "name": "Dumbbell Bench Press",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells",
+      "bench"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie comfortably on a bench with your feet firmly supported on the floor. Hold the dumbbells just outside and slightly above your chest, with your elbows bent at approximately 45° from your torso and your palms facing forward or slightly inward."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Set your shoulders by gently pulling your shoulder blades back and down against the bench. Engage your core and maintain a natural arch in your lower back. Keep your wrists neutral and aligned with your forearms."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Take a deep breath and brace your core. Press the dumbbells upward in a slight arc, bringing them closer together as they move toward the top. Keep your arms extended without fully locking your elbows."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Pause briefly at the top with the dumbbells positioned directly above your shoulders, focusing on contracting your chest muscles. Then slowly lower the dumbbells along the same arcing path while maintaining control."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Lower the weights until you feel a comfortable stretch in your chest, without allowing excessive shoulder extension. Exhale during the pressing phase and inhale as you lower the weights. Repeat for the desired number of repetitions while maintaining controlled movement throughout."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "load",
+        "unit": "kilograms",
+        "notes": "Record the external load used without treating it as a universal target."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Dumbbell Bench Press — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Dumbbell Bench Press — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      },
+      {
+        "exerciseName": "Muscle Growth/ Hypertrophy",
+        "variationDescription": "Perform 3 sets of 8–12 repetitions, resting for 60–90 seconds between sets."
+      },
+      {
+        "exerciseName": "Strength",
+        "variationDescription": "Perform 4 sets of 5–8 repetitions, resting for 2–3 minutes between sets."
+      },
+      {
+        "exerciseName": "Muscular Endurance / General Fitness",
+        "variationDescription": "Perform 3 sets of 12–15 repetitions, resting for 45–60 seconds between sets."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-24",
+      "lastUpdated": "2026-08-24",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use a spotter or lighter loads when appropriate."
+    ]
+  }
+}
