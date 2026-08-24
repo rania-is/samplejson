@@ -1,9 +1,10 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 1,
+  "completed": 2,
   "completedExerciseIds": [
-    "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS"
+    "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
+    "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK"
   ],
-  "lastUpdated": "2026-08-24T12:31:36.139Z"
+  "lastUpdated": "2026-08-24T12:52:56.772Z"
 }
