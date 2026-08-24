@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-backward-walking-with-support-7G8F8B3F4HM065TM0FYV4RMVYR",
+  "submittedAt": "2026-08-24T13:52:22.697Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
