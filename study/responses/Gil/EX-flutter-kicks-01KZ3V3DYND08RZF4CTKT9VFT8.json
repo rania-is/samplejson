@@ -1,0 +1,103 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-flutter-kicks-01KZ3V3DYND08RZF4CTKT9VFT8",
+  "submittedAt": "2026-08-25T20:49:17.256Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 5,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 3
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-flutter-kicks-01KZ3V3DYND08RZF4CTKT9VFT8",
+    "name": "Flutter Kicks",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "hip_flexors"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your back and extend your legs up to a 45-degree angle."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Keep your arms straight and in line with the floor, palms facing down."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Lift your head, neck, and shoulders slightly off the ground, keeping your chin away from your chest."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Keeping your legs stick straight and glued together with your toes pointed, start lowering one leg."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Raise your lowered leg and lower the other, focusing on keeping your core engaged."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Continue the movement, alternating between legs."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Flutter Kicks - Intensity Variations: Kick faster to increase intensity, or slow down to decrease it. Alternatively, add ankle weights to increase the load."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-25",
+      "lastUpdated": "2026-08-25",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
