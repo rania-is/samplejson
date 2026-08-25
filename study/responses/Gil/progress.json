@@ -1,10 +1,11 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 2,
+  "completed": 3,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
-    "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK"
+    "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
+    "EX-biceps-curl-5YAEAAX06FCK6GRY0G5RNKTAQ2"
   ],
-  "lastUpdated": "2026-08-25T20:40:43.999Z"
+  "lastUpdated": "2026-08-25T20:44:26.723Z"
 }
