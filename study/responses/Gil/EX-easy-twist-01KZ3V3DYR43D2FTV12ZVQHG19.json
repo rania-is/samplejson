@@ -1,0 +1,95 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-easy-twist-01KZ3V3DYR43D2FTV12ZVQHG19",
+  "submittedAt": "2026-08-25T21:02:05.219Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 4,
+    "q4_safety": 4,
+    "q5_classification": 6,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 3
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-easy-twist-01KZ3V3DYR43D2FTV12ZVQHG19",
+    "name": "Easy Twist",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility"
+    ],
+    "bodyParts": [
+      "core",
+      "upper_back",
+      "lower_back"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start in a lunge, rotate your torso to the left, and exhale as you place your left hand on the inside of your right foot."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Extend your right arm over the top of your head, pointing your fingertips in the same direction as the front toes, and gaze up toward the ceiling."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Hold the pose for 30 seconds to 1 minute and then repeat on the opposite side."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Easy Twist — Stability: Lower your back knee to the ground to increase stability."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-25",
+      "lastUpdated": "2026-08-25",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
