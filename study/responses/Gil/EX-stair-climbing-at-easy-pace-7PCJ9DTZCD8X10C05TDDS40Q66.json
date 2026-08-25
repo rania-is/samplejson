@@ -1,0 +1,124 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-stair-climbing-at-easy-pace-7PCJ9DTZCD8X10C05TDDS40Q66",
+  "submittedAt": "2026-08-25T21:31:06.686Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-stair-climbing-at-easy-pace-7PCJ9DTZCD8X10C05TDDS40Q66",
+    "name": "Stair Climbing at Easy Pace",
+    "categories": [
+      "endurance",
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance",
+      "improved_muscular_endurance"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "calves"
+    ],
+    "equipment": [
+      "stairs"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand near the handrail and face the stairs."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Climb at a steady pace, placing the whole foot when possible."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Use the rail lightly and keep breathing controlled."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Descend carefully or use an alternative route if descent is unsuitable."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "cadence",
+        "unit": "steps_per_minute",
+        "notes": "Record average stair-climbing cadence."
+      },
+      {
+        "type": "rate_of_perceived_exertion",
+        "unit": "rpe_1_to_10",
+        "notes": "Record the individual's perceived effort after the exercise."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Stair Climbing at Easy Pace — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Stair Climbing at Easy Pace — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Stair Climbing — Increased Intensity: Climb two steps at a time to elevate the intensity"
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Stair Climbing — Technique: Let go of the handrail and place your hands on your hips to challenge your balance."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-25",
+      "lastUpdated": "2026-08-25",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use the handrail and a steady pace."
+    ]
+  }
+}
