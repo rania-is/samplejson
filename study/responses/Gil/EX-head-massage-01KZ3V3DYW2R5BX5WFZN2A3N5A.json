@@ -1,0 +1,97 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-head-massage-01KZ3V3DYW2R5BX5WFZN2A3N5A",
+  "submittedAt": "2026-08-25T21:04:14.115Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 5,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 1,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-head-massage-01KZ3V3DYW2R5BX5WFZN2A3N5A",
+    "name": "Head Massage",
+    "categories": [
+      "relaxation_and_breathing"
+    ],
+    "exerciseEffects": [
+      "relaxation"
+    ],
+    "bodyParts": [
+      "head"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Get into a comfortable position."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Place your fingers on your forehead."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Start by massaging the skin at your hairline in a circular motion."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Use your fingertips and knead with light pressure."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Then slowly work your way down the top of your head to the nape of your neck."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Think about your temples and the area around your ears."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "minutes",
+        "notes": "Record the duration of the comfortable, controlled practice."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-25",
+      "lastUpdated": "2026-08-25",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
