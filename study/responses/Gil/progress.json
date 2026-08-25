@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 11,
+  "completed": 12,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -13,7 +13,8 @@
     "EX-head-massage-01KZ3V3DYW2R5BX5WFZN2A3N5A",
     "EX-reverse-crunch-01KZ3V3DYT59YPX0KBDFY9QZXA",
     "EX-downward-dog-01KZ3V3DYND08RZF4CTKT9VFTB",
-    "EX-box-breathing-without-breath-holds-3V2PZXZHJDDA6QSSMWQW4H9SZ3"
+    "EX-box-breathing-without-breath-holds-3V2PZXZHJDDA6QSSMWQW4H9SZ3",
+    "EX-shadow-boxing-0621K2XH5QMSMNYRPPBHBAKD7N"
   ],
-  "lastUpdated": "2026-08-25T21:15:46.440Z"
+  "lastUpdated": "2026-08-25T21:20:28.043Z"
 }
