@@ -1,0 +1,96 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
+  "submittedAt": "2026-08-25T20:40:43.992Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 7,
+    "q4_safety": 5,
+    "q5_classification": 5,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
+    "name": "Single-Leg Hop",
+    "categories": [
+      "strength_and_resistance",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_balance",
+      "improved_coordination"
+    ],
+    "bodyParts": [
+      "ankles",
+      "feet",
+      "core",
+      "hip flexors"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Shift your weight to one leg and lift the unsupported leg off the floor."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Descend quickly to a quarter squat position and extend your arms behind your torso."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Drive upwards and land softly by absorbing the impact with the hips and knees."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Single-Leg Hop - Reduce intensity by only lifting the heel, or jump higher to increase the challenge."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-25",
+      "lastUpdated": "2026-08-25",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
