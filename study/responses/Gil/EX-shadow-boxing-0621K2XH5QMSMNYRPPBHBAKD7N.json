@@ -1,0 +1,111 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-shadow-boxing-0621K2XH5QMSMNYRPPBHBAKD7N",
+  "submittedAt": "2026-08-25T21:20:28.042Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-shadow-boxing-0621K2XH5QMSMNYRPPBHBAKD7N",
+    "name": "Shadow Boxing",
+    "categories": [
+      "endurance",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance",
+      "improved_coordination",
+      "increased_heart_rate"
+    ],
+    "bodyParts": [
+      "shoulders",
+      "arms",
+      "core",
+      "full_body"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand in a stable staggered stance with hands near your chin."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Extend one arm forward in a controlled, horizontal punch and return it."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Alternate arms while lightly shifting weight."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Keep the pace smooth and avoid snapping the elbows."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "rate_of_perceived_exertion",
+        "unit": "rpe_1_to_10",
+        "notes": "Record the individual's perceived effort after the exercise."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Shadow Boxing — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Shadow Boxing — Resistance Progression: Hold light weights in your hands to increase the load."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-25",
+      "lastUpdated": "2026-08-25",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use controlled punches without locking the elbows."
+    ]
+  }
+}
