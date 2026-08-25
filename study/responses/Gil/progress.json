@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 7,
+  "completed": 8,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -9,7 +9,8 @@
     "EX-flutter-kicks-01KZ3V3DYND08RZF4CTKT9VFT8",
     "EX-standing-resistance-band-row-7P62141Y97NV3KSY6D6DC6WXW7",
     "EX-standing-quadriceps-stretch-0NMW4RJFR5VXQVF5E1T2Z4PMN7",
-    "EX-easy-twist-01KZ3V3DYR43D2FTV12ZVQHG19"
+    "EX-easy-twist-01KZ3V3DYR43D2FTV12ZVQHG19",
+    "EX-head-massage-01KZ3V3DYW2R5BX5WFZN2A3N5A"
   ],
-  "lastUpdated": "2026-08-25T21:02:05.219Z"
+  "lastUpdated": "2026-08-25T21:04:14.115Z"
 }
