@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 29,
+  "completed": 30,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -31,7 +31,8 @@
     "EX-fantasy-trip-01KZ3V3DYW2R5BX5WFZN2A3N54",
     "EX-easy-jogging-0WZJGZ7DS2DE9WQWKX4STCMSTY",
     "EX-upper-trapezius-neck-stretch-1JJB2C5S586XGGHZTZRPM23XR7",
-    "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN"
+    "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN",
+    "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW"
   ],
-  "lastUpdated": "2026-08-26T18:23:19.006Z"
+  "lastUpdated": "2026-08-26T18:25:06.049Z"
 }
