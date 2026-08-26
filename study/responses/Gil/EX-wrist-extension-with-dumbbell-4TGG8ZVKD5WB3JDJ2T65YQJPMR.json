@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-wrist-extension-with-dumbbell-4TGG8ZVKD5WB3JDJ2T65YQJPMR",
+  "submittedAt": "2026-08-26T18:41:12.033Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
