@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 43,
+  "completed": 44,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -45,7 +45,8 @@
     "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
     "EX-stretch-breathe-01KZ3V3DYND08RZF4CTKT9VFTE",
     "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1",
-    "EX-supine-twist-pose-01KZ3V3DYR43D2FTV12ZVQHG17"
+    "EX-supine-twist-pose-01KZ3V3DYR43D2FTV12ZVQHG17",
+    "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ"
   ],
-  "lastUpdated": "2026-08-26T20:09:27.182Z"
+  "lastUpdated": "2026-08-26T20:21:07.165Z"
 }
