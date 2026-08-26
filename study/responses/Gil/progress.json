@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 40,
+  "completed": 41,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -42,7 +42,8 @@
     "EX-chest-opener-forward-fold-01KZ3V3DYQG2ZAZAGXM9YXKZ45",
     "EX-plank-with-leg-lift-01KZ3V3DYT59YPX0KBDFY9QZXE",
     "EX-diaphragmatic-breathing-7QS7T5B5YGYG5NAG74CQBQVT2M",
-    "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A"
+    "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
+    "EX-stretch-breathe-01KZ3V3DYND08RZF4CTKT9VFTE"
   ],
-  "lastUpdated": "2026-08-26T19:56:31.502Z"
+  "lastUpdated": "2026-08-26T19:58:13.150Z"
 }
