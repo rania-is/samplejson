@@ -1,0 +1,98 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-burpee-01KZ3V3DYJQ0B83JNMDWZ8R58V",
+  "submittedAt": "2026-08-26T21:09:32.241Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 2
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 2
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-burpee-01KZ3V3DYJQ0B83JNMDWZ8R58V",
+    "name": "Burpee",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "full_body"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Squat down with your feet straight forward, your heels on the ground and your knees tracking over your toes."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Jump back to a plank position, and land with your abs braced and without arching your back."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Drop into the pushup while keeping your tailbone tucked under and squeezing your shoulder blades together and down to your back pockets."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Finish the pushup and jump back to the squat position with your heels on the ground, knees straight forward and feet straight."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Jump upward and drop down to repeat."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Burpee – Intensity Variation: To reduce intensity, omit the push-up, the final jump, or both while maintaining controlled movement and proper alignment."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
