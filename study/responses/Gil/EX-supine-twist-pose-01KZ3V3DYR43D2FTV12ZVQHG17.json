@@ -1,0 +1,102 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-supine-twist-pose-01KZ3V3DYR43D2FTV12ZVQHG17",
+  "submittedAt": "2026-08-26T20:09:27.182Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-supine-twist-pose-01KZ3V3DYR43D2FTV12ZVQHG17",
+    "name": "Supine Twist Pose",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "core",
+      "upper_back",
+      "lower_back",
+      "glutes"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your back, bend your knees, rotate your hips to the right, extend your right leg, and cross your left knee over to the right side."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Extend your left arm out to the side and rest your left hand on your left knee."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Turn your head to the left and hold the pose for 30 seconds to 1 minute."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Exhale as you release the pose, and repeat on the opposite side."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Supine Twist Pose – Intensity Variation: Instead of simply resting the hand on the crossed leg, apply gentle pressure to the knee to increase the stretch."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
