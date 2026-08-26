@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 53,
+  "completed": 54,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -55,7 +55,8 @@
     "EX-mindful-walking-with-paced-breathing-41H2RHZCA75HAS3DFNFX760JWD",
     "EX-reverse-lunge-0FF0HS93ZGDE03PATSSMMQW4ZP",
     "EX-prone-t-raise-01KZ3V3DYJQ0B83JNMDWZ8R58R",
-    "EX-burpee-01KZ3V3DYJQ0B83JNMDWZ8R58V"
+    "EX-burpee-01KZ3V3DYJQ0B83JNMDWZ8R58V",
+    "EX-plank-to-toe-touch-01KZ3V3DYR43D2FTV12ZVQHG0Z"
   ],
-  "lastUpdated": "2026-08-26T21:09:32.242Z"
+  "lastUpdated": "2026-08-26T21:13:28.854Z"
 }
