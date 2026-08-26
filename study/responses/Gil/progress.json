@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 20,
+  "completed": 21,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -22,7 +22,8 @@
     "EX-seated-cable-row-7W26NWHN2WWGXMYGAZ6CJGS5S8",
     "EX-core-engagement-01KZ3V3DYW2R5BX5WFZN2A3N58",
     "EX-alternate-heel-touches-01KZ3V3DYMQ0JFE1ZDQWY74XFD",
-    "EX-bird-dog-2J9HRH7GAZ0721D0GQSBMCGQBM"
+    "EX-bird-dog-2J9HRH7GAZ0721D0GQSBMCGQBM",
+    "EX-front-plank-2MCVVADVSQBQVAQMMRV3BH3HQA"
   ],
-  "lastUpdated": "2026-08-26T14:04:42.464Z"
+  "lastUpdated": "2026-08-26T14:18:26.958Z"
 }
