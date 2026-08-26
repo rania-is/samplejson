@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 56,
+  "completed": 57,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -58,7 +58,8 @@
     "EX-burpee-01KZ3V3DYJQ0B83JNMDWZ8R58V",
     "EX-plank-to-toe-touch-01KZ3V3DYR43D2FTV12ZVQHG0Z",
     "EX-lunge-01KZ3V3DYHXH4EXHPN509HZ77G",
-    "EX-neck-strength-back-01KZ3V3DYX6ZS73404ZXY1K7AT"
+    "EX-neck-strength-back-01KZ3V3DYX6ZS73404ZXY1K7AT",
+    "EX-dead-bug-403Z20MSBAQ73W292PMSXTDY3J"
   ],
-  "lastUpdated": "2026-08-26T21:23:16.876Z"
+  "lastUpdated": "2026-08-26T21:30:10.067Z"
 }
