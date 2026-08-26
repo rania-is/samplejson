@@ -1,0 +1,102 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-bird-dog-2J9HRH7GAZ0721D0GQSBMCGQBM",
+  "submittedAt": "2026-08-26T14:04:42.464Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-bird-dog-2J9HRH7GAZ0721D0GQSBMCGQBM",
+    "name": "Bird Dog",
+    "categories": [
+      "strength_and_resistance",
+      "balance_and_coordination",
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_core_stability",
+      "improved_coordination"
+    ],
+    "bodyParts": [
+      "core",
+      "glutes",
+      "shoulders",
+      "lower_back"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Begin on hands and knees with hands under shoulders."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Reach one arm forward and extend the opposite leg backward at the same time, keeping the pelvis level to maintain a continuous horizontal line from your extended hand to your extended foot."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Return slowly and alternate sides."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Bird Dog — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Bird Dog — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Move one limb at a time if opposite arm-leg reach is difficult."
+    ]
+  }
+}
