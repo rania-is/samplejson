@@ -1,0 +1,116 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-recumbent-cycling-72MG3ZZEJ161WQAFJ77HZ3M6A7",
+  "submittedAt": "2026-08-26T14:28:20.772Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 5,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-recumbent-cycling-72MG3ZZEJ161WQAFJ77HZ3M6A7",
+    "name": "Recumbent Cycling",
+    "categories": [
+      "endurance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance",
+      "increased_heart_rate"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": [
+      "recumbent_bike"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Adjust the seat so the knees remain slightly bent at full reach."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Sit back against the support and place feet in the pedals."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pedal smoothly at a manageable resistance."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Slow the pedals gradually before stopping."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "cadence",
+        "unit": "steps_per_minute",
+        "notes": "Record average movement or step cadence."
+      },
+      {
+        "type": "rate_of_perceived_exertion",
+        "unit": "rpe_1_to_10",
+        "notes": "Record the individual's perceived effort after the exercise."
+      }
+    ],
+    "variations": [
+      {
+        "id": "EX-stationary-cycling-3PW53NXNXBBED2HFFH7SA8PJ09",
+        "variationDescription": "Stationary Cycling provides a meaningfully different loading, support, or stability option compared with Recumbent Cycling."
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Recumbent Cycling — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use the back support and adjust the seat reach."
+    ]
+  }
+}
