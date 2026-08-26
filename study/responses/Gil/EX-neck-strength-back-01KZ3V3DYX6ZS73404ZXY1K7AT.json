@@ -1,0 +1,90 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-neck-strength-back-01KZ3V3DYX6ZS73404ZXY1K7AT",
+  "submittedAt": "2026-08-26T21:23:16.875Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 4,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 4
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-neck-strength-back-01KZ3V3DYX6ZS73404ZXY1K7AT",
+    "name": "Neck Extension",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "neck"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit upright and link your hands behind your head."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Push your hands against the back of your head."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep your head still by resisting the movement."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hold the tension for at least 5 seconds."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time the position or isometric effort is maintained with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
