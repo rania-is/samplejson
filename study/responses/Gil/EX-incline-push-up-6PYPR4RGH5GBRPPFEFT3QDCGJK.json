@@ -1,0 +1,116 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+  "submittedAt": "2026-08-26T18:45:11.608Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+    "name": "Incline Push-Up",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_core_stability"
+    ],
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders",
+      "core",
+      "upper back"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Place hands on a stable bench slightly wider than shoulder width."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Step back and align the trunk comfortably from head to heels."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Lower the chest toward the bench without touching it, bending the elbows while maintaining control and body alignment."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Press back to the start while keeping the trunk controlled."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [
+      {
+        "id": "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
+        "variationDescription": "Wall Push-Up provides a meaningfully different loading, support, or stability option compared with Incline Push-Up."
+      },
+      {
+        "id": "EX-standard-push-up-2JAXEZ5GHQJK37N03V66V5QVEA",
+        "variationDescription": "Standard Push-Up meaningfully changes the difficulty, loading, support, or movement demands compared with Incline Push-Up."
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Incline Push-Up — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Incline Push-Up — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use a stable surface that will not move."
+    ]
+  }
+}
