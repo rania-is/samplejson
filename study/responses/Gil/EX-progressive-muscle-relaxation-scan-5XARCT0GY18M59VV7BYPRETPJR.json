@@ -1,0 +1,97 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-progressive-muscle-relaxation-scan-5XARCT0GY18M59VV7BYPRETPJR",
+  "submittedAt": "2026-08-26T14:24:00.829Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-progressive-muscle-relaxation-scan-5XARCT0GY18M59VV7BYPRETPJR",
+    "name": "Progressive Muscle Relaxation Scan",
+    "categories": [
+      "relaxation_and_breathing"
+    ],
+    "exerciseEffects": [
+      "relaxation",
+      "improved_breath_control"
+    ],
+    "bodyParts": [
+      "full_body"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie or sit comfortably and notice the natural breath."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Gently tense one muscle group for a brief moment."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Release the tension and notice the contrast."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Continue through several muscle groups without maximal effort."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Progressive Muscle Relaxation Scan — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use gentle tension rather than maximal contraction."
+    ]
+  }
+}
