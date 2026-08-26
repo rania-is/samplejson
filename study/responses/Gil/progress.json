@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 49,
+  "completed": 50,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -51,7 +51,8 @@
     "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10",
     "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
     "EX-tandem-stance-4BXN5P5EWKDXAXX1V3XBPVAM9H",
-    "EX-leg-press-machine-7KHB19HHE2XFNZVXR6EPBD3PSA"
+    "EX-leg-press-machine-7KHB19HHE2XFNZVXR6EPBD3PSA",
+    "EX-mindful-walking-with-paced-breathing-41H2RHZCA75HAS3DFNFX760JWD"
   ],
-  "lastUpdated": "2026-08-26T20:50:24.234Z"
+  "lastUpdated": "2026-08-26T20:57:46.011Z"
 }
