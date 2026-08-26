@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 27,
+  "completed": 28,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -29,7 +29,8 @@
     "EX-recumbent-cycling-72MG3ZZEJ161WQAFJ77HZ3M6A7",
     "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX",
     "EX-fantasy-trip-01KZ3V3DYW2R5BX5WFZN2A3N54",
-    "EX-easy-jogging-0WZJGZ7DS2DE9WQWKX4STCMSTY"
+    "EX-easy-jogging-0WZJGZ7DS2DE9WQWKX4STCMSTY",
+    "EX-upper-trapezius-neck-stretch-1JJB2C5S586XGGHZTZRPM23XR7"
   ],
-  "lastUpdated": "2026-08-26T15:06:40.411Z"
+  "lastUpdated": "2026-08-26T15:09:08.482Z"
 }
