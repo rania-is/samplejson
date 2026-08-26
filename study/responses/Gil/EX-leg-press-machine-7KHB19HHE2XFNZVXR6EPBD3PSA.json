@@ -1,0 +1,108 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-leg-press-machine-7KHB19HHE2XFNZVXR6EPBD3PSA",
+  "submittedAt": "2026-08-26T20:50:24.233Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 4,
+    "q5_classification": 6,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-leg-press-machine-7KHB19HHE2XFNZVXR6EPBD3PSA",
+    "name": "Leg Press Machine",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "leg_press_machine"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit comfortably in the machine with your back and hips fully supported and the seat adjusted to a comfortable position."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Place both feet flat on the platform, approximately shoulder-width apart."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Press the platform away until the knees are comfortably extended, avoiding excessive or locked-knee extension."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Return slowly to a controlled depth."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "load",
+        "unit": "kilograms",
+        "notes": "Record the external load used without treating it as a universal target."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Leg Press Machine — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Leg Press Machine — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use a comfortable depth and keep feet fully supported."
+    ]
+  }
+}
