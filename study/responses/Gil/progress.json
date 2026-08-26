@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 60,
+  "completed": 61,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -62,7 +62,8 @@
     "EX-dead-bug-403Z20MSBAQ73W292PMSXTDY3J",
     "EX-bodyweight-squat-2FP4KQNHB49CQ16VXE3742VSZA",
     "EX-supine-hamstring-stretch-with-band-4H0R49CJ8KKJB37HJMF022G0QV",
-    "EX-seated-thoracic-rotation-5GREXXPBRA5R5BJG9GZ5WPGV5D"
+    "EX-seated-thoracic-rotation-5GREXXPBRA5R5BJG9GZ5WPGV5D",
+    "EX-v-up-01KZ3V3DYPMJ0VD30AKHABF5P6"
   ],
-  "lastUpdated": "2026-08-26T21:50:39.417Z"
+  "lastUpdated": "2026-08-26T21:55:07.492Z"
 }
