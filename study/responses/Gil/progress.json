@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 25,
+  "completed": 26,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -27,7 +27,8 @@
     "EX-stationary-cycling-3PW53NXNXBBED2HFFH7SA8PJ09",
     "EX-progressive-muscle-relaxation-scan-5XARCT0GY18M59VV7BYPRETPJR",
     "EX-recumbent-cycling-72MG3ZZEJ161WQAFJ77HZ3M6A7",
-    "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX"
+    "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX",
+    "EX-fantasy-trip-01KZ3V3DYW2R5BX5WFZN2A3N54"
   ],
-  "lastUpdated": "2026-08-26T14:31:53.057Z"
+  "lastUpdated": "2026-08-26T14:33:26.482Z"
 }
