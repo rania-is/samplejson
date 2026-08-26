@@ -1,0 +1,73 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-lunge-01KZ3V3DYHXH4EXHPN509HZ77G",
+  "submittedAt": "2026-08-26T21:19:57.261Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "",
+    "name": "",
+    "categories": [],
+    "exerciseEffects": [],
+    "bodyParts": [],
+    "equipment": [],
+    "location": [],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": ""
+      },
+      {
+        "stepNumber": 2,
+        "description": ""
+      }
+    ],
+    "performanceMetrics": [],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Lunge – Intensity Variation: To reduce intensity, shorten the step and lower the back knee only as far as comfortable while maintaining proper alignment and balance."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Lunge – Intensity Variation: Hold additional weight in the hands to increase the exercise load and overall intensity while maintaining proper posture and control."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": []
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
