@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 45,
+  "completed": 46,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -47,7 +47,8 @@
     "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1",
     "EX-supine-twist-pose-01KZ3V3DYR43D2FTV12ZVQHG17",
     "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ",
-    "EX-extended-triangle-pose-01KZ3V3DYND08RZF4CTKT9VFTK"
+    "EX-extended-triangle-pose-01KZ3V3DYND08RZF4CTKT9VFTK",
+    "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10"
   ],
-  "lastUpdated": "2026-08-26T20:22:54.028Z"
+  "lastUpdated": "2026-08-26T20:33:38.553Z"
 }
