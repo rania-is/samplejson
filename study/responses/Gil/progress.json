@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 23,
+  "completed": 24,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -25,7 +25,8 @@
     "EX-bird-dog-2J9HRH7GAZ0721D0GQSBMCGQBM",
     "EX-front-plank-2MCVVADVSQBQVAQMMRV3BH3HQA",
     "EX-stationary-cycling-3PW53NXNXBBED2HFFH7SA8PJ09",
-    "EX-progressive-muscle-relaxation-scan-5XARCT0GY18M59VV7BYPRETPJR"
+    "EX-progressive-muscle-relaxation-scan-5XARCT0GY18M59VV7BYPRETPJR",
+    "EX-recumbent-cycling-72MG3ZZEJ161WQAFJ77HZ3M6A7"
   ],
-  "lastUpdated": "2026-08-26T14:24:00.829Z"
+  "lastUpdated": "2026-08-26T14:28:20.772Z"
 }
