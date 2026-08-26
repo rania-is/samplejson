@@ -1,0 +1,84 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-stretch-breathe-01KZ3V3DYND08RZF4CTKT9VFTE",
+  "submittedAt": "2026-08-26T19:58:13.150Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-stretch-breathe-01KZ3V3DYND08RZF4CTKT9VFTE",
+    "name": "Stretch & Breathe",
+    "categories": [
+      "relaxation_and_breathing"
+    ],
+    "exerciseEffects": [
+      "relaxation",
+      "improved_breath_control"
+    ],
+    "bodyParts": [],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "While sitting or standing, raise your arms above your head and interlace your fingers."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Stretch your arms up as far as they will go, and take some deep breaths."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Return your arms to your sides, and repeat as many times as you like."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "minutes",
+        "notes": "Record the duration of the comfortable, controlled practice."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
