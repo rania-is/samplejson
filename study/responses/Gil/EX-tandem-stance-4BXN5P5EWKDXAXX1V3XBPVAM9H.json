@@ -1,0 +1,106 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-tandem-stance-4BXN5P5EWKDXAXX1V3XBPVAM9H",
+  "submittedAt": "2026-08-26T20:42:26.799Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-tandem-stance-4BXN5P5EWKDXAXX1V3XBPVAM9H",
+    "name": "Tandem Stance",
+    "categories": [
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_single_leg_control"
+    ],
+    "bodyParts": [
+      "ankles",
+      "feet",
+      "hips"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand beside a chair with one foot directly in front of the other, using the chair for support if needed."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Keep the trunk tall and gaze forward."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Maintain the position without gripping the floor with the toes."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Step out safely and switch feet."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "balance_time",
+        "unit": "seconds",
+        "notes": "Record time maintained before using support or changing foot position."
+      }
+    ],
+    "variations": [
+      {
+        "id": "EX-semi-tandem-balance-26YQC49A8BXJMP3JP4ZR91YK3Q",
+        "variationDescription": "Semi-Tandem Balance provides a meaningfully different loading, support, or stability option compared with Tandem Stance."
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Tandem Stance — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Position yourself beside stable support."
+    ]
+  }
+}
