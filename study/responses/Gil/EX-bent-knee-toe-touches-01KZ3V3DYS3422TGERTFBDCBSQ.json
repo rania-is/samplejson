@@ -1,0 +1,91 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ",
+  "submittedAt": "2026-08-26T20:21:07.165Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 5,
+    "q4_safety": 5,
+    "q5_classification": 6,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ",
+    "name": "Bent Knee Toe Touches",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "hip_flexors"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your back with your knees bent at 90 degrees, calves parallel to the floor, and arms positioned outside your knees."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Raise your shoulders off the floor and reach one hand at a time toward the toes on the same side."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Alternate between sides in a controlled movement."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Bent Knee Toe Touches – Intensity Variation: Increase the speed of the exercise while alternating sides and maintaining proper posture and control."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
