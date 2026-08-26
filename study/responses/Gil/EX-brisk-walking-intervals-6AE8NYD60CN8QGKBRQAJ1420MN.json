@@ -1,0 +1,114 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN",
+  "submittedAt": "2026-08-26T18:23:19.006Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN",
+    "name": "Brisk Walking Intervals",
+    "categories": [
+      "endurance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance"
+    ],
+    "bodyParts": [
+      "full_body",
+      "calves",
+      "quadriceps",
+      "glutes"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Walk easily to establish a comfortable rhythm."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Increase the pace for a planned interval while maintaining relaxed technique and an active coordinated arm action."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Return to an easier pace for recovery."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Repeat the faster and easier phases as tolerated."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "distance",
+        "unit": "meters",
+        "notes": "Record distance completed while maintaining the intended movement quality."
+      },
+      {
+        "type": "rate_of_perceived_exertion",
+        "unit": "rpe_1_to_10",
+        "notes": "Record the individual's perceived effort after the exercise."
+      }
+    ],
+    "variations": [
+      {
+        "id": "EX-comfortable-pace-walking-5KMWKKZ8K30N2CA01M3Q2M9MZJ",
+        "variationDescription": "Comfortable-Pace Walking provides a meaningfully different loading, support, or stability option compared with Brisk Walking Intervals."
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Brisk Walking Intervals — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Alternate faster and easier walking at individually manageable intensities."
+    ]
+  }
+}
