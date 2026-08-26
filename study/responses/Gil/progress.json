@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 64,
+  "completed": 65,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -66,7 +66,8 @@
     "EX-v-up-01KZ3V3DYPMJ0VD30AKHABF5P6",
     "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH",
     "EX-side-lunge-01KZ3V3DYHXH4EXHPN509HZ77E",
-    "EX-figure-four-glute-stretch-0VSEE6MYDYFQMXDVPKKCVJ6C4R"
+    "EX-figure-four-glute-stretch-0VSEE6MYDYFQMXDVPKKCVJ6C4R",
+    "EX-foam-roller-thoracic-extension-00QY1MPN4PNFGZW2ZMXB5490HB"
   ],
-  "lastUpdated": "2026-08-26T22:11:06.412Z"
+  "lastUpdated": "2026-08-26T22:17:09.743Z"
 }
