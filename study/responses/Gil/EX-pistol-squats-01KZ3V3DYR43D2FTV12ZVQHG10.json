@@ -1,0 +1,98 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10",
+  "submittedAt": "2026-08-26T20:33:38.553Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 4,
+    "q4_safety": 4,
+    "q5_classification": 6,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10",
+    "name": "Pistol Squats",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_posture"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "hips",
+      "lower back"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand up straight with your feet hip-width apart and lift your right leg in front of you."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Bend your supporting knee and slowly lower your hips back while maintaining proper posture and keeping the extended leg parallel to the floor."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Push through the left heel to return to the starting position."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Switch to the right side and repeat."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Pistol Squat – Intensity Variation: To reduce intensity, perform the movement by lowering onto a bench for support while maintaining proper alignment and control."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
