@@ -1,0 +1,108 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-dead-bug-403Z20MSBAQ73W292PMSXTDY3J",
+  "submittedAt": "2026-08-26T21:30:10.066Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-dead-bug-403Z20MSBAQ73W292PMSXTDY3J",
+    "name": "Dead Bug",
+    "categories": [
+      "strength_and_resistance",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_core_stability",
+      "improved_coordination",
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "hips",
+      "hip flexors"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your back with your hips and knees bent, lower legs parallel to the floor, and arms reaching upward."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Gently brace the abdomen while breathing."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Lower the opposite arm and leg only as far as trunk position can be maintained, keeping a straight line from the hand to the foot."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Return to the start and alternate sides."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Dead Bug — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Dead Bug — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Dead Bug – Intensity Variation: Add ankle weights to increase the exercise load while maintaining controlled movement and trunk stability."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Reduce limb reach if the lower back lifts excessively."
+    ]
+  }
+}
