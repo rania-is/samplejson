@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 35,
+  "completed": 36,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -37,7 +37,8 @@
     "EX-plank-to-down-dog-01KZ3V3DYT59YPX0KBDFY9QZX9",
     "EX-toe-yoga-4SMMB9HR7T58YBY962MG54SRF3",
     "EX-wrist-extension-with-dumbbell-4TGG8ZVKD5WB3JDJ2T65YQJPMR",
-    "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK"
+    "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+    "EX-front-kicks-01KZ3V3DYS3422TGERTFBDCBSN"
   ],
-  "lastUpdated": "2026-08-26T18:45:11.608Z"
+  "lastUpdated": "2026-08-26T18:50:15.449Z"
 }
