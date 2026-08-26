@@ -1,0 +1,98 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-extended-triangle-pose-01KZ3V3DYND08RZF4CTKT9VFTK",
+  "submittedAt": "2026-08-26T20:22:54.027Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-extended-triangle-pose-01KZ3V3DYND08RZF4CTKT9VFTK",
+    "name": "Extended Triangle Pose",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "hips",
+      "hamstrings",
+      "inner_thighs",
+      "shoulders",
+      "adductors"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start in standing upright with feet shoulder-width apart and, as you exhale, step your feet wide apart."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Rotate your right foot out, to a 90-degree angle, and inhale as you raise your arms to the sides until they’re parallel with the floor."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Exhale as you bring your right hand to the floor, on the inside or outside of the right foot, reach the left arm toward the ceiling, and gaze at your left thumb."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hold the pose for 30 seconds to 1 minute and then repeat on the left side."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
