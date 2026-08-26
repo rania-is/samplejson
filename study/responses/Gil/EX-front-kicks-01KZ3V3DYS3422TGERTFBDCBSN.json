@@ -1,0 +1,99 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Gil",
+  "exerciseId": "EX-front-kicks-01KZ3V3DYS3422TGERTFBDCBSN",
+  "submittedAt": "2026-08-26T18:50:15.449Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 5,
+    "q5_classification": 5,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-front-kicks-01KZ3V3DYS3422TGERTFBDCBSN",
+    "name": "Front Kicks",
+    "categories": [
+      "endurance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance"
+    ],
+    "bodyParts": [
+      "full_body",
+      "hip flexors"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand tall with your feet shoulder-width apart."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Lift one leg as high as you can in a fast, controlled movement, keeping the foot pointed upward and avoiding excessive extension of both the kicking and supporting leg."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Use the arms actively to maintain balance and stability."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Return to the starting position and repeat with the other leg."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Continue alternating legs until the set is complete."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "minutes",
+        "notes": "Record the duration completed at an individually appropriate intensity."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Front Kick – Intensity Variation: If flexibility is limited, reduce and control the height of the kicking leg while maintaining proper technique and balance."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-08-26",
+      "lastUpdated": "2026-08-26",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
