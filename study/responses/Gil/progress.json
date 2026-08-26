@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 16,
+  "completed": 17,
   "completedExerciseIds": [
     "EX-pallof-press-1Q1QK615SWWMD19AGNT9C9SJ46",
     "EX-single-leg-hop-01KZ3V3DYKP7H891JXAGSWKWPK",
@@ -18,7 +18,8 @@
     "EX-standard-push-up-2JAXEZ5GHQJK37N03V66V5QVEA",
     "EX-semi-tandem-balance-26YQC49A8BXJMP3JP4ZR91YK3Q",
     "EX-stair-climbing-at-easy-pace-7PCJ9DTZCD8X10C05TDDS40Q66",
-    "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV"
+    "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
+    "EX-seated-cable-row-7W26NWHN2WWGXMYGAZ6CJGS5S8"
   ],
-  "lastUpdated": "2026-08-26T13:47:06.257Z"
+  "lastUpdated": "2026-08-26T13:50:02.939Z"
 }
