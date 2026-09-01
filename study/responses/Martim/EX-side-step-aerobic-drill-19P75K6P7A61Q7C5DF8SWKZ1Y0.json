@@ -1,0 +1,107 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-side-step-aerobic-drill-19P75K6P7A61Q7C5DF8SWKZ1Y0",
+  "submittedAt": "2026-09-01T09:27:37.688Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-side-step-aerobic-drill-19P75K6P7A61Q7C5DF8SWKZ1Y0",
+    "name": "Side-Step Aerobic Drill",
+    "categories": [
+      "endurance",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance",
+      "improved_coordination"
+    ],
+    "bodyParts": [
+      "outer_hips",
+      "glutes",
+      "calves",
+      "core",
+      "quadriceps"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand with knees soft and feet parallel."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Step to one side and bring the other foot toward it."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Continue laterally for several steps, then reverse direction."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Keep the torso facing forward and avoid crossing the feet."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "cadence",
+        "unit": "steps_per_minute",
+        "notes": "Record average movement or step cadence."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Side-Step Aerobic Drill — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep steps controlled and the path clear."
+    ]
+  }
+}
