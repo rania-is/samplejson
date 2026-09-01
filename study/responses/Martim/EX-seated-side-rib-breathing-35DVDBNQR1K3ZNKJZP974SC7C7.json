@@ -1,0 +1,107 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-seated-side-rib-breathing-35DVDBNQR1K3ZNKJZP974SC7C7",
+  "submittedAt": "2026-09-01T09:22:55.849Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 1
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-seated-side-rib-breathing-35DVDBNQR1K3ZNKJZP974SC7C7",
+    "name": "Seated Side-Rib Breathing",
+    "categories": [
+      "relaxation_and_breathing"
+    ],
+    "exerciseEffects": [
+      "improved_breath_control",
+      "relaxation"
+    ],
+    "bodyParts": [
+      "diaphragm",
+      "upper_back",
+      "core",
+      "chest"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit tall and place hands lightly on the lower side ribs."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Inhale and feel the ribs expand into the hands."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Exhale slowly and let the ribs settle."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Keep the shoulders relaxed throughout."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "breathing_rate",
+        "unit": "breaths_per_minute",
+        "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Seated Side-Rib Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Place hands lightly on the lower ribs without pressing."
+    ]
+  }
+}
