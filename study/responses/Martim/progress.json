@@ -1,10 +1,11 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 2,
+  "completed": 3,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
-    "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ"
+    "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
+    "EX-wall-calf-stretch-40EFV2R0PYRM6D86GZDDP9R4FJ"
   ],
-  "lastUpdated": "2026-09-01T07:54:42.682Z"
+  "lastUpdated": "2026-09-01T07:58:59.605Z"
 }
