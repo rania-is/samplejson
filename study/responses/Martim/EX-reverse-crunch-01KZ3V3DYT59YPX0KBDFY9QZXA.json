@@ -1,0 +1,94 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-reverse-crunch-01KZ3V3DYT59YPX0KBDFY9QZXA",
+  "submittedAt": "2026-09-01T08:51:47.709Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-reverse-crunch-01KZ3V3DYT59YPX0KBDFY9QZXA",
+    "name": "Reverse Crunch",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_core_stability"
+    ],
+    "bodyParts": [
+      "core",
+      "hip_flexors"
+    ],
+    "equipment": [
+      "yoga mat"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your back with your arms at your sides and your knees bent."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Raise your bent legs until your plevis curls of the floor and your knees can't go further back. "
+      },
+      {
+        "stepNumber": 3,
+        "description": "Lower your legs in a controlled manner back to the starting position and repeat."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Lying Leg Raise",
+        "variationDescription": "Lying-leg-raise"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
