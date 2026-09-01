@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 10,
+  "completed": 11,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -12,7 +12,8 @@
     "EX-dumbbell-lateral-raise-4GDQTWWKGHDSK0WB60WGCRCYAX",
     "EX-front-plank-2MCVVADVSQBQVAQMMRV3BH3HQA",
     "EX-reverse-crunch-01KZ3V3DYT59YPX0KBDFY9QZXA",
-    "EX-wrist-flexor-stretch-0V8NJG2C45AX4YCM5Z1Z4YGVFA"
+    "EX-wrist-flexor-stretch-0V8NJG2C45AX4YCM5Z1Z4YGVFA",
+    "EX-lying-side-leg-raises-01KZ3V3DYQG2ZAZAGXM9YXKZ4B"
   ],
-  "lastUpdated": "2026-09-01T08:54:07.812Z"
+  "lastUpdated": "2026-09-01T09:16:52.166Z"
 }
