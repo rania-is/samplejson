@@ -1,0 +1,104 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
+  "submittedAt": "2026-09-01T07:54:42.682Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 1,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 3
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
+    "name": "Heel-to-Toe Walk",
+    "categories": [
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination"
+    ],
+    "bodyParts": [
+      "ankles",
+      "feet",
+      "hips",
+      "core"
+    ],
+    "equipment": [
+      "wall",
+      "railing"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand near a wall or railing."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Place one foot directly in front of the other, heel to toe."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Continue with slow deliberate steps."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Step apart to regain balance when needed."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "distance",
+        "unit": "meters",
+        "notes": "Record distance completed while maintaining the intended movement quality."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Heel-to-Toe Walk — Wider-Base Balance Version: Increase the base of support to reduce balance demand."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png",
+        "image_2.jpg"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Walk beside a wall or railing if needed."
+    ]
+  }
+}
