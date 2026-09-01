@@ -1,0 +1,99 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
+  "submittedAt": "2026-09-01T09:40:56.980Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
+    "name": "Plié Squat",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_range_of_motion"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "hips",
+      "inner_thighs",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start in a wide legged stance, with your toes at 45 degrees."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Slowly push your hips back and bent your knees keeping your back straight."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Go as low as you can while maintaining a good posture and your knees aligned with your toes."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Drive back up through your hips and extend fully at the top of the squat."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Goblet Plié Squat",
+        "variationDescription": "Goblet-plié-squat"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
