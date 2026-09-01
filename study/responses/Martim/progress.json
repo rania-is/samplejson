@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 13,
+  "completed": 14,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -15,7 +15,8 @@
     "EX-wrist-flexor-stretch-0V8NJG2C45AX4YCM5Z1Z4YGVFA",
     "EX-lying-side-leg-raises-01KZ3V3DYQG2ZAZAGXM9YXKZ4B",
     "EX-oblique-twists-01KZ3V3DYW2R5BX5WFZN2A3N5C",
-    "EX-seated-side-rib-breathing-35DVDBNQR1K3ZNKJZP974SC7C7"
+    "EX-seated-side-rib-breathing-35DVDBNQR1K3ZNKJZP974SC7C7",
+    "EX-walking-knee-to-chest-01KZ3V3DYJQ0B83JNMDWZ8R58Q"
   ],
-  "lastUpdated": "2026-09-01T09:22:55.850Z"
+  "lastUpdated": "2026-09-01T09:25:54.609Z"
 }
