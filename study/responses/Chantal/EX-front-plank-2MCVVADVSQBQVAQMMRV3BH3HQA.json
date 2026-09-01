@@ -1,0 +1,103 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-front-plank-2MCVVADVSQBQVAQMMRV3BH3HQA",
+  "submittedAt": "2026-09-01T13:49:25.730Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-front-plank-2MCVVADVSQBQVAQMMRV3BH3HQA",
+    "name": "Front Plank",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "improved_core_stability",
+      "improved_muscular_endurance"
+    ],
+    "bodyParts": [
+      "core",
+      "shoulders"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start lying on your stomach. Place your forearms on the floor with your elbows directly under your shoulders. Extend your legs and support yourself on your toes. For an easier variation, keep your knees on the floor."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Brace your core firmly, as if preparing to take a punch to the stomach. Keep your body in a straight line from your shoulders through your hips to your ankles (or knees)."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Maintain the position while breathing steadily. Keep your hips level—do not let your torso sag toward the floor or push your hips high into the air."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hold for the designated amount of time while maintaining good form. End the hold if you can no longer keep your core engaged or your body aligned."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Front Plank — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Front Plank — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use an elevated surface or knees-down position to reduce difficulty.",
+      "Keep your core actively engaged throughout the entire hold.",
+      "Avoid letting your hips sag, as this can place unnecessary strain on your lower back. Avoid raising your hips too high into a position similar to Downward Dog. Think about keeping your body as one straight, strong line."
+    ]
+  }
+}
