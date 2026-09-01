@@ -1,0 +1,97 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-butt-kicks-01KZ3V3DYKP7H891JXAGSWKWPV",
+  "submittedAt": "2026-09-01T13:39:50.849Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-butt-kicks-01KZ3V3DYKP7H891JXAGSWKWPV",
+    "name": "Butt Kicks",
+    "categories": [
+      "endurance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "hamstrings",
+      "glutes",
+      "calves",
+      "core"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand tall with your feet about hip-width apart and your arms relaxed at your sides. Keep your chest lifted and brace your core lightly."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Start jogging softly in place on the balls of your feet. Bend one knee to bring your heel toward the same-side glute."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Lower your foot softly as the opposite heel lifts toward your glute. Continue alternating sides in a quick, even rhythm. Swing your arms naturally like you would during an easy run and gradually increase the speed to a comfortable pace."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Maintain an upright posture and a controlled rhythm for the target duration. Focus on soft, quiet landings and consistent movement."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "minutes",
+        "notes": "Record the duration completed at an individually appropriate intensity."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep your knees pointing mostly downward rather than driving them forward.",
+      "Do not force your heels to touch your glutes if this causes you to arch your back.",
+      "Use shorter intervals if your foot contacts become sloppy or your technique deteriorates."
+    ]
+  }
+}
