@@ -1,0 +1,107 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-dumbbell-lateral-raise-4GDQTWWKGHDSK0WB60WGCRCYAX",
+  "submittedAt": "2026-09-01T08:38:22.719Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-dumbbell-lateral-raise-4GDQTWWKGHDSK0WB60WGCRCYAX",
+    "name": "Dumbbell Lateral Raise",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_muscular_endurance"
+    ],
+    "bodyParts": [
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbells"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand or sit tall, holding light dumbbells beside the thighs."
+      },
+      {
+        "stepNumber": 2,
+        "description": "With soft elbows, lift the arms out to the sides."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stop around shoulder height or earlier if needed."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Lower the dumbbells slowly without swinging."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "load",
+        "unit": "kilograms",
+        "notes": "Record the external load used without treating it as a universal target."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Lu Raises",
+        "variationDescription": "Lu-raises"
+      },
+      {
+        "exerciseName": "Y-Raise",
+        "variationDescription": "Y-Raise"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use light loads and avoid shrugging."
+    ]
+  }
+}
