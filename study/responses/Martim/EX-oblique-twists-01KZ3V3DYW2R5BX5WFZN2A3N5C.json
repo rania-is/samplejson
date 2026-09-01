@@ -1,0 +1,88 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-oblique-twists-01KZ3V3DYW2R5BX5WFZN2A3N5C",
+  "submittedAt": "2026-09-01T09:20:33.466Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-oblique-twists-01KZ3V3DYW2R5BX5WFZN2A3N5C",
+    "name": "Oblique Twists",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "lower_back"
+    ],
+    "equipment": [
+      "chair",
+      "desk"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sitting upright and with the feet hovering over the floor, hold onto the edge of your desk."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Use your core to swivel the chair from side to side."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep your back straight and your abs engaged the whole time."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
