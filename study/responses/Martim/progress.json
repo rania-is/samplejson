@@ -1,12 +1,13 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 4,
+  "completed": 5,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
     "EX-wall-calf-stretch-40EFV2R0PYRM6D86GZDDP9R4FJ",
-    "EX-shoulder-circles-01KZ3V3DYW2R5BX5WFZN2A3N55"
+    "EX-shoulder-circles-01KZ3V3DYW2R5BX5WFZN2A3N55",
+    "EX-bodyweight-squat-2FP4KQNHB49CQ16VXE3742VSZA"
   ],
-  "lastUpdated": "2026-09-01T08:06:20.848Z"
+  "lastUpdated": "2026-09-01T08:10:46.754Z"
 }
