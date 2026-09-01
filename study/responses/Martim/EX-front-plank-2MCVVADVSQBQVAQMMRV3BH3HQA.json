@@ -1,0 +1,96 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-front-plank-2MCVVADVSQBQVAQMMRV3BH3HQA",
+  "submittedAt": "2026-09-01T08:46:40.786Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "",
+    "name": "Front Plank",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "improved_posture",
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "shoulders"
+    ],
+    "equipment": [
+      "yoga mat"
+    ],
+    "location": [
+      "outdoor",
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Place forearms on the floor with elbows under the shoulders."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Extend the legs or keep the knees down for support."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Maintain a comfortable straight line through the trunk while breathing."
+      },
+      {
+        "stepNumber": 4,
+        "description": "End the hold before the hips sag, pike or iff the lower back starts to arch."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "Seconds",
+        "notes": "seconds"
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Straight-Arm Plank",
+        "variationDescription": "Straight-arm-plank"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": []
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
