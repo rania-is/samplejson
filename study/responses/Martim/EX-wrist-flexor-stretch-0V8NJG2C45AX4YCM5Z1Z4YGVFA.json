@@ -1,0 +1,98 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-wrist-flexor-stretch-0V8NJG2C45AX4YCM5Z1Z4YGVFA",
+  "submittedAt": "2026-09-01T08:54:07.812Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 4,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-wrist-flexor-stretch-0V8NJG2C45AX4YCM5Z1Z4YGVFA",
+    "name": "Wrist Flexor Stretch",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "forearms",
+      "wrists"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Extend one arm forward with palm facing up."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Use the other hand to guide the fingers gently backwards."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep the elbow soft and shoulder relaxed."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Release and repeat on the other side."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Wrist Flexor Stretch — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep the elbow comfortable and avoid forcing the wrist."
+    ]
+  }
+}
