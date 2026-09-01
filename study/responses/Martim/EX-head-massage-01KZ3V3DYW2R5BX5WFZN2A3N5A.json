@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-head-massage-01KZ3V3DYW2R5BX5WFZN2A3N5A",
+  "submittedAt": "2026-09-01T08:32:51.973Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 2,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
