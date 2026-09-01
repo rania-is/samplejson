@@ -1,0 +1,102 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-standing-hip-flexor-stretch-0M5RMVAXAFDWC886X74XZP6NQJ",
+  "submittedAt": "2026-09-01T09:35:31.209Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-standing-hip-flexor-stretch-0M5RMVAXAFDWC886X74XZP6NQJ",
+    "name": "Standing Hip Flexor Stretch",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "hip_flexors",
+      "hips",
+      "quadriceps"
+    ],
+    "equipment": [
+      "chair",
+      "wall"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand holding a chair or a wall for support, then take a full step back with one foot."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Gently tuck the pelvis and shift weight forward."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep the rear heel lifted and trunk upright."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Return and repeat with the other leg behind."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Standing Hip Flexor Stretch — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-01",
+      "lastUpdated": "2026-09-01",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use support and a small pelvic tuck."
+    ]
+  }
+}
