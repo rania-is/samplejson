@@ -1,0 +1,107 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-arm-circles-0DXGRHFKJ8183YP0FET4194KH8",
+  "submittedAt": "2026-09-02T07:28:00.134Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-arm-circles-0DXGRHFKJ8183YP0FET4194KH8",
+    "name": "Arm Circles",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "movement_preparation",
+      "improved_joint_mobility"
+    ],
+    "bodyParts": [
+      "shoulders",
+      "chest",
+      "upper_back"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand tall with your feet about shoulder-width apart. Extend your arms straight out to the sides at shoulder height, keeping your elbows fully extended."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Slowly rotate both arms forward, making small, controlled circles of approximately 1 foot (30 cm) in diameter. Keep the movement smooth and controlled."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Gradually increase the size of the circles if comfortable, while keeping your arms extended and your posture upright."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Complete the designated number of repetitions or duration in one direction, then switch and rotate your arms backward. Keep the movement controlled throughout."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "range_of_motion",
+        "unit": "degrees",
+        "notes": "Record range only when measured consistently; do not force end range."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Arm Circles — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-02",
+      "lastUpdated": "2026-09-02",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Start with small circles and gradually enlarge them.",
+      "While doing arm circles engage your core muscles, keep your back and your arms straight and maintain a smooth and deep breathing pattern. Keep your head up and your body in a T formation during the entire exercise.",
+      "Keep your shoulders relaxed and avoid shrugging them toward your ears.",
+      "Keep the movement smooth rather than using fast or jerky motions."
+    ]
+  }
+}
