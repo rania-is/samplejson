@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 23,
+  "completed": 24,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -25,7 +25,8 @@
     "EX-side-shift-squats-01KZ3V3DYT59YPX0KBDFY9QZXD",
     "EX-kettlebell-deadlift-4HP7EKDAN24FZJ46MM76E5Q53K",
     "EX-breathing-exercise-01KZ3V3DYVRGF8XTCP211A7W98",
-    "EX-pelvic-mobility-01KZ3V3DYY2J67YNXR955N44JZ"
+    "EX-pelvic-mobility-01KZ3V3DYY2J67YNXR955N44JZ",
+    "EX-diaphragmatic-breathing-7QS7T5B5YGYG5NAG74CQBQVT2M"
   ],
-  "lastUpdated": "2026-09-02T08:15:28.604Z"
+  "lastUpdated": "2026-09-02T08:49:31.093Z"
 }
