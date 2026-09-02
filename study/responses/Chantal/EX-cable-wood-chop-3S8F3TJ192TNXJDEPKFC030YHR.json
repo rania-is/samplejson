@@ -1,0 +1,113 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-cable-wood-chop-3S8F3TJ192TNXJDEPKFC030YHR",
+  "submittedAt": "2026-09-02T11:48:34.786Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 6,
+    "q4_safety": 4,
+    "q5_classification": 7,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 3
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-cable-wood-chop-3S8F3TJ192TNXJDEPKFC030YHR",
+    "name": "Cable Wood Chop",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_coordination"
+    ],
+    "bodyParts": [
+      "core",
+      "shoulders",
+      "hips"
+    ],
+    "equipment": [
+      "cable_machine"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand side-on to a cable machine with the pulley set above shoulder height. Position your feet about shoulder-width apart and keep your knees slightly bent. Hold the handle with both hands and extend your arms toward the cable."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Brace your core and maintain a stable stance. Keep your chest lifted and your shoulders relaxed while facing the cable."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pull the handle diagonally across your body toward the opposite hip. Rotate your torso and hips together as you move, allowing your feet to pivot naturally if needed. Keep your arms relatively straight and let the rotation of your trunk drive the movement."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Slowly reverse the movement and return the handle to the starting position while maintaining tension in the cable. Complete the designated repetitions, then turn around and repeat on the opposite side."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "load",
+        "unit": "kilograms",
+        "notes": "Record the external load used without treating it as a universal target."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Cable Wood Chop — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Cable Wood Chop — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-02",
+      "lastUpdated": "2026-09-02",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Rotate through a comfortable range with controlled hips and trunk.",
+      "Maintain a neutral, upright posture and avoid excessive rounding or arching of the lower back.",
+      "Keep your shoulders relaxed and avoid shrugging them toward your ears.",
+      "Control the return phase instead of allowing the cable to pull you back to the starting position.",
+      "Use a manageable weight that allows you to maintain control and consistent technique on both sides."
+    ]
+  }
+}
