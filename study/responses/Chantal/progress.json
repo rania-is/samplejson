@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 10,
+  "completed": 11,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -12,7 +12,8 @@
     "EX-backward-walking-with-support-7G8F8B3F4HM065TM0FYV4RMVYR",
     "EX-butt-kicks-01KZ3V3DYKP7H891JXAGSWKWPV",
     "EX-head-massage-01KZ3V3DYW2R5BX5WFZN2A3N5A",
-    "EX-front-plank-2MCVVADVSQBQVAQMMRV3BH3HQA"
+    "EX-front-plank-2MCVVADVSQBQVAQMMRV3BH3HQA",
+    "EX-arm-circles-0DXGRHFKJ8183YP0FET4194KH8"
   ],
-  "lastUpdated": "2026-09-01T13:49:25.731Z"
+  "lastUpdated": "2026-09-02T07:28:00.135Z"
 }
