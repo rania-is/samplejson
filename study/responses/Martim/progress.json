@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 26,
+  "completed": 27,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -28,7 +28,8 @@
     "EX-pelvic-mobility-01KZ3V3DYY2J67YNXR955N44JZ",
     "EX-diaphragmatic-breathing-7QS7T5B5YGYG5NAG74CQBQVT2M",
     "EX-marching-in-place-5HESMBWR20JA4WTN5ZABGKM916",
-    "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A"
+    "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
+    "EX-shadow-boxing-0621K2XH5QMSMNYRPPBHBAKD7N"
   ],
-  "lastUpdated": "2026-09-02T13:02:50.505Z"
+  "lastUpdated": "2026-09-02T13:07:18.558Z"
 }
