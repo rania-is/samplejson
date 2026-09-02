@@ -1,0 +1,99 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-side-shift-squats-01KZ3V3DYT59YPX0KBDFY9QZXD",
+  "submittedAt": "2026-09-02T08:00:46.328Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 3,
+    "q3_biomechanics": 2,
+    "q4_safety": 5,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-side-shift-squats-01KZ3V3DYT59YPX0KBDFY9QZXD",
+    "name": "Cossack Squat",
+    "categories": [
+      "strength_and_resistance",
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_range_of_motion"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "hips",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand straight with your feet slightly wider than hip-width-apart,"
+      },
+      {
+        "stepNumber": 2,
+        "description": "Press your hips back and squat to one side while keeping your chest up."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Press with the bent leg throught the floor and get back to the initial position."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Repeat for the other side while keeping the same stance."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Goblet Cossack Squat",
+        "variationDescription": "Goblet-cossack-squat"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-02",
+      "lastUpdated": "2026-09-02",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
