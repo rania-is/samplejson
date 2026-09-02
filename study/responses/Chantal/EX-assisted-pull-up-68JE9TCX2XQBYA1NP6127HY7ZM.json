@@ -1,0 +1,110 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-assisted-pull-up-68JE9TCX2XQBYA1NP6127HY7ZM",
+  "submittedAt": "2026-09-02T11:05:26.270Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 5,
+    "q4_safety": 3,
+    "q5_classification": 6,
+    "q6_useInPractice": 4,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-assisted-pull-up-68JE9TCX2XQBYA1NP6127HY7ZM",
+    "name": "Band-Assisted Pull-Up",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_grip_strength"
+    ],
+    "bodyParts": [
+      "upper_back",
+      "biceps",
+      "forearms",
+      "core"
+    ],
+    "equipment": [
+      "pull_up_bar",
+      "resistance_band"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Secure a loop resistance band over the pull-up bar and place one foot or knee securely into the bottom of the band. Grip the bar with an overhand grip, slightly wider than shoulder-width."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Hang with your arms fully extended and your body in a stable, straight position. Brace your core, keep your ribs tucked and engage your shoulders by gently pulling the shoulder blades down and back."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Drive your elbows down and back toward your hips while pulling your chest toward the bar. Keep your body controlled and avoid swinging or using momentum. Continue until your chin clears the bar."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Slowly lower yourself back to the starting position until your arms are comfortably extended. Maintain tension throughout the descent and briefly settle into a controlled hang before starting the next repetition."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Assisted Pull-Up — Tempo-Controlled Version: Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Assisted Pull-Up — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-02",
+      "lastUpdated": "2026-09-02",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Ensure the band and bar are securely set up.",
+      "Control the lowering phase rather than dropping quickly.",
+      "Choose enough assistance to maintain strict, controlled repetitions without compromising your form.",
+      "If you can perform many clean repetitions with the same band, consider progressing to a lighter band to gradually reduce assistance."
+    ]
+  }
+}
