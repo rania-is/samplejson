@@ -1,0 +1,110 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-marching-in-place-5HESMBWR20JA4WTN5ZABGKM916",
+  "submittedAt": "2026-09-02T08:53:26.803Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-marching-in-place-5HESMBWR20JA4WTN5ZABGKM916",
+    "name": "Marching in Place",
+    "categories": [
+      "endurance",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance",
+      "improved_coordination"
+    ],
+    "bodyParts": [
+      "hips",
+      "calves",
+      "core"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand tall with support nearby if needed."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Lift one knee, lower it, then alternate sides."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Coordinate a comfortable arm swing, raising up the opposite arm forward as each knee lifts."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Maintain a pace that allows steady breathing."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "cadence",
+        "unit": "steps_per_minute",
+        "notes": "Record average movement or step cadence."
+      },
+      {
+        "type": "rate_of_perceived_exertion",
+        "unit": "rpe_1_to_10",
+        "notes": "Record the individual's perceived effort after the exercise."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Marching in Place — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-02",
+      "lastUpdated": "2026-09-02",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use chair support if needed."
+    ]
+  }
+}
