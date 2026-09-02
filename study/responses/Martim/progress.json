@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 20,
+  "completed": 21,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -22,7 +22,8 @@
     "EX-standing-hip-flexor-stretch-0M5RMVAXAFDWC886X74XZP6NQJ",
     "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
     "EX-standing-resistance-band-row-7P62141Y97NV3KSY6D6DC6WXW7",
-    "EX-side-shift-squats-01KZ3V3DYT59YPX0KBDFY9QZXD"
+    "EX-side-shift-squats-01KZ3V3DYT59YPX0KBDFY9QZXD",
+    "EX-kettlebell-deadlift-4HP7EKDAN24FZJ46MM76E5Q53K"
   ],
-  "lastUpdated": "2026-09-02T08:00:46.329Z"
+  "lastUpdated": "2026-09-02T08:03:42.479Z"
 }
