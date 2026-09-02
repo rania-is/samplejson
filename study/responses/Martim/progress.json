@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 18,
+  "completed": 19,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -20,7 +20,8 @@
     "EX-side-step-aerobic-drill-19P75K6P7A61Q7C5DF8SWKZ1Y0",
     "EX-upper-trapezius-neck-stretch-1JJB2C5S586XGGHZTZRPM23XR7",
     "EX-standing-hip-flexor-stretch-0M5RMVAXAFDWC886X74XZP6NQJ",
-    "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV"
+    "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
+    "EX-standing-resistance-band-row-7P62141Y97NV3KSY6D6DC6WXW7"
   ],
-  "lastUpdated": "2026-09-01T09:40:56.980Z"
+  "lastUpdated": "2026-09-02T07:51:05.323Z"
 }
