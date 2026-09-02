@@ -1,0 +1,96 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-pelvic-mobility-01KZ3V3DYY2J67YNXR955N44JZ",
+  "submittedAt": "2026-09-02T08:15:28.604Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-pelvic-mobility-01KZ3V3DYY2J67YNXR955N44JZ",
+    "name": "Standing Pelvic Drops",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility"
+    ],
+    "bodyParts": [
+      "hips"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand upright, with your feet hip-width apart and your hands on your hips."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Lift one heel from the floor an let the same side of your hip elevate slightly."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep the balls of your feet on the floor at all times."
+      },
+      {
+        "stepNumber": 4,
+        "description": "When performing the exercise, make sure that your upper body is as still as possible."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Perform the movement slowly and smoothly."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count controlled movement repetitions through a comfortable range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-02",
+      "lastUpdated": "2026-09-02",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
