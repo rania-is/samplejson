@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 35,
+  "completed": 36,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -37,7 +37,8 @@
     "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW",
     "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX",
     "EX-opposite-arm-and-leg-lift-01KZ3V3DYPMJ0VD30AKHABF5P1",
-    "EX-jumping-jacks-01KZ3V3DYVRGF8XTCP211A7W96"
+    "EX-jumping-jacks-01KZ3V3DYVRGF8XTCP211A7W96",
+    "EX-shoulder-pendulum-40CR9QCETH2PZERVWQ83A8FEGZ"
   ],
-  "lastUpdated": "2026-09-03T11:10:55.796Z"
+  "lastUpdated": "2026-09-03T11:14:26.341Z"
 }
