@@ -1,0 +1,85 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX",
+  "submittedAt": "2026-09-03T10:40:31.100Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX",
+    "name": "Arm Pulses",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "shoulders"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand tall with your feet hip-width apart."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Raise your arms out by your sides forming a T shape."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Begin to move them up and down, keeping the restof your body still."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-03",
+      "lastUpdated": "2026-09-03",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
