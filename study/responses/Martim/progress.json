@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 30,
+  "completed": 31,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -32,7 +32,8 @@
     "EX-shadow-boxing-0621K2XH5QMSMNYRPPBHBAKD7N",
     "EX-chair-sit-to-stand-7QWZ974F6EBC5XQGNGQXACFFNW",
     "EX-seated-chest-press-machine-269KM1A5E15DCPF3YP0P54B8HH",
-    "EX-calf-raise-5WK6XGTFDNEHCQFR8D51TDVB20"
+    "EX-calf-raise-5WK6XGTFDNEHCQFR8D51TDVB20",
+    "EX-plank-jacks-01KZ3V3DYR43D2FTV12ZVQHG0Y"
   ],
-  "lastUpdated": "2026-09-03T10:29:11.817Z"
+  "lastUpdated": "2026-09-03T10:34:12.110Z"
 }
