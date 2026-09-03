@@ -1,0 +1,94 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-opposite-arm-and-leg-lift-01KZ3V3DYPMJ0VD30AKHABF5P1",
+  "submittedAt": "2026-09-03T11:07:26.146Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 3
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-opposite-arm-and-leg-lift-01KZ3V3DYPMJ0VD30AKHABF5P1",
+    "name": "Opposite Arm and Leg Lift",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_core_stability"
+    ],
+    "bodyParts": [
+      "core",
+      "lower_back",
+      "glutes",
+      "shoulders"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your stomach on the floor with your arms stretched out in front of you."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Tuck your chin into your chest and raise your chest off the floor by engaging your back muscles."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Raise your left arm and right leg a few centimetres off the floor and hold for a few seconds, before returning both to the floor and switching sides."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Back Extensions",
+        "variationDescription": "Back-extensions"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-03",
+      "lastUpdated": "2026-09-03",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
