@@ -1,0 +1,95 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-jumping-jacks-01KZ3V3DYVRGF8XTCP211A7W96",
+  "submittedAt": "2026-09-03T11:10:55.796Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-jumping-jacks-01KZ3V3DYVRGF8XTCP211A7W96",
+    "name": "Jumping Jacks",
+    "categories": [
+      "endurance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance"
+    ],
+    "bodyParts": [
+      "full_body",
+      "calves"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand straight with your feet together and hands by your sides."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Jump up, spread your feet and bring both hands together above your head."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Jump again and return to the starting position."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Repeat the movement."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "minutes",
+        "notes": "Record the duration completed at an individually appropriate intensity."
+      },
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": null
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-03",
+      "lastUpdated": "2026-09-03",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
