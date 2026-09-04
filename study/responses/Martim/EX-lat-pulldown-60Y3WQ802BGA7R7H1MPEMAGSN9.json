@@ -1,0 +1,110 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-lat-pulldown-60Y3WQ802BGA7R7H1MPEMAGSN9",
+  "submittedAt": "2026-09-04T11:49:09.450Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 5,
+    "q4_safety": 4,
+    "q5_classification": 3,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 2
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-lat-pulldown-60Y3WQ802BGA7R7H1MPEMAGSN9",
+    "name": "Lat Pulldown",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_grip_strength"
+    ],
+    "bodyParts": [
+      "upper_back",
+      "biceps",
+      "forearms",
+      "latissimus dorsi"
+    ],
+    "equipment": [
+      "cable_machine"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit with thighs anchored to the machine and grasp the bar comfortably using a pronated grip."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Begin with arms overhead and trunk upright."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pull the bar toward the upper chest while bringing elbows down an keeping your chest up."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Control the return until the arms are extended."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "load",
+        "unit": "kilograms",
+        "notes": "Record the external load used without treating it as a universal target."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Lat Pulldown Underhand Grip",
+        "variationDescription": "Lat_pulldown_underhand_grip"
+      },
+      {
+        "exerciseName": "",
+        "variationDescription": "Lat Pulldown — Reduced-Range Version: Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-04",
+      "lastUpdated": "2026-09-04",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Pull toward the upper chest without forcing the shoulders."
+    ]
+  }
+}
