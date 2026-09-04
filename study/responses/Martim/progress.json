@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 57,
+  "completed": 58,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -59,7 +59,8 @@
     "EX-ab-rock-01KZ3V3DYS3422TGERTFBDCBSS",
     "EX-hip-90-90-rotation-0WJDZXRY3VAKZVHK39JNTGCC1F",
     "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ",
-    "EX-curtsy-lunge-01KZ3V3DYT59YPX0KBDFY9QZX7"
+    "EX-curtsy-lunge-01KZ3V3DYT59YPX0KBDFY9QZX7",
+    "EX-fingertip-touches-01KZ3V3DYQG2ZAZAGXM9YXKZ43"
   ],
-  "lastUpdated": "2026-09-04T14:42:22.711Z"
+  "lastUpdated": "2026-09-04T14:46:52.041Z"
 }
