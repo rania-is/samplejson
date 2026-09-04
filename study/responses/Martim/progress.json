@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 44,
+  "completed": 45,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -46,7 +46,8 @@
     "EX-lateral-weight-shift-35Q564NRGNTC3SCC8VDM32NK5S",
     "EX-cradle-walk-01KZ3V3DYKP7H891JXAGSWKWPN",
     "EX-resistance-band-external-rotation-16NTFZD99TYV6RGFPJQ2FBVS1C",
-    "EX-donkey-leg-pulses-01KZ3V3DYT59YPX0KBDFY9QZX6"
+    "EX-donkey-leg-pulses-01KZ3V3DYT59YPX0KBDFY9QZX6",
+    "EX-goblet-squat-0C4G448Z5SRV4JYT0F4YD83G4P"
   ],
-  "lastUpdated": "2026-09-04T09:26:57.325Z"
+  "lastUpdated": "2026-09-04T09:30:39.479Z"
 }
