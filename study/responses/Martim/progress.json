@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 52,
+  "completed": 53,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -54,7 +54,8 @@
     "EX-lap-swimming-6FMFHX9WCDVJMKFRD9B2JBKFDF",
     "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH",
     "EX-high-knees-01KZ3V3DYQG2ZAZAGXM9YXKZ47",
-    "EX-foam-roller-thoracic-extension-00QY1MPN4PNFGZW2ZMXB5490HB"
+    "EX-foam-roller-thoracic-extension-00QY1MPN4PNFGZW2ZMXB5490HB",
+    "EX-supine-360-degree-breathing-2EMA45DDDCCKCWCQEMS21DMBN3"
   ],
-  "lastUpdated": "2026-09-04T14:22:31.343Z"
+  "lastUpdated": "2026-09-04T14:27:41.742Z"
 }
