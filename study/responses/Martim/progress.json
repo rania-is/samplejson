@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 63,
+  "completed": 64,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -65,7 +65,8 @@
     "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10",
     "EX-towel-push-01KZ3V3DYT59YPX0KBDFY9QZXC",
     "EX-half-jackknife-01KZ3V3DYT59YPX0KBDFY9QZX8",
-    "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1"
+    "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1",
+    "EX-outdoor-leisure-cycling-36GPMTSAGEH3RAPDJSKQ2JA0GD"
   ],
-  "lastUpdated": "2026-09-04T15:11:12.071Z"
+  "lastUpdated": "2026-09-04T15:16:19.179Z"
 }
