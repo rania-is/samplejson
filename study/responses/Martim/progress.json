@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 46,
+  "completed": 47,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -48,7 +48,8 @@
     "EX-resistance-band-external-rotation-16NTFZD99TYV6RGFPJQ2FBVS1C",
     "EX-donkey-leg-pulses-01KZ3V3DYT59YPX0KBDFY9QZX6",
     "EX-goblet-squat-0C4G448Z5SRV4JYT0F4YD83G4P",
-    "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK"
+    "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+    "EX-lat-pulldown-60Y3WQ802BGA7R7H1MPEMAGSN9"
   ],
-  "lastUpdated": "2026-09-04T09:37:13.868Z"
+  "lastUpdated": "2026-09-04T11:49:09.451Z"
 }
