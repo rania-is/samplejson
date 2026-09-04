@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 61,
+  "completed": 62,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -63,7 +63,8 @@
     "EX-fingertip-touches-01KZ3V3DYQG2ZAZAGXM9YXKZ43",
     "EX-body-scan-01KZ3V3DYVRGF8XTCP211A7W9B",
     "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10",
-    "EX-towel-push-01KZ3V3DYT59YPX0KBDFY9QZXC"
+    "EX-towel-push-01KZ3V3DYT59YPX0KBDFY9QZXC",
+    "EX-half-jackknife-01KZ3V3DYT59YPX0KBDFY9QZX8"
   ],
-  "lastUpdated": "2026-09-04T15:06:41.961Z"
+  "lastUpdated": "2026-09-04T15:08:58.773Z"
 }
