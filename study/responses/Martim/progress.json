@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 49,
+  "completed": 50,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -51,7 +51,8 @@
     "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
     "EX-lat-pulldown-60Y3WQ802BGA7R7H1MPEMAGSN9",
     "EX-ab-hold-01KZ3V3DYS3422TGERTFBDCBSP",
-    "EX-lap-swimming-6FMFHX9WCDVJMKFRD9B2JBKFDF"
+    "EX-lap-swimming-6FMFHX9WCDVJMKFRD9B2JBKFDF",
+    "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH"
   ],
-  "lastUpdated": "2026-09-04T11:55:15.499Z"
+  "lastUpdated": "2026-09-04T12:01:33.610Z"
 }
