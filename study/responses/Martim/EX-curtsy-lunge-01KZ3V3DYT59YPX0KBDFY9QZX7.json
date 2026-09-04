@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-curtsy-lunge-01KZ3V3DYT59YPX0KBDFY9QZX7",
+  "submittedAt": "2026-09-04T14:42:22.711Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 7,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 6
+  },
+  "decision": "accept",
+  "editedExercise": null
+}
