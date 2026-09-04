@@ -1,0 +1,95 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-ankle-alphabets-01KZ3V3DYX6ZS73404ZXY1K7AM",
+  "submittedAt": "2026-09-04T06:52:10.286Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 3
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 4
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-ankle-alphabets-01KZ3V3DYX6ZS73404ZXY1K7AM",
+    "name": "Ankle Alphabets",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "ankles",
+      "feet"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit or stand in a relaxed position."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Raise one leg slightly off the floor, and begin to move your ankle around."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Try to draw each letter of the alphabet in the air with your foot, keeping the rest of your leg still."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Switch sides and repeat with the other foot."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": null
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Resistance Band Ankle Alphabets",
+        "variationDescription": ""
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-04",
+      "lastUpdated": "2026-09-04",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
