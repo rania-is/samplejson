@@ -1,0 +1,106 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH",
+  "submittedAt": "2026-09-04T12:01:33.610Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 5,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 3
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH",
+    "name": "Crescent Lunge",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility"
+    ],
+    "bodyParts": [
+      "hips",
+      "quadriceps",
+      "glutes",
+      "hamstrings",
+      "hip_flexors",
+      "upper back"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start in a standing forward bend and, as you inhale, step your right leg straight back, keeping the right foot pointing forward."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Bend your left leg to 90 degrees and lift your torso and sweep your arms out to the sides and overhead."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stay in crescent lunge pose for 30 seconds to 1 minute."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Exhale, place your hands on the floor, step your left leg back, beside the right, and walk your hands back to standing forward bend."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Repeat with the opposite leg."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Crescent Lunge with Hands on Hips",
+        "variationDescription": "Crescent_lunge_with_hands_on_hips"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-04",
+      "lastUpdated": "2026-09-04",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
