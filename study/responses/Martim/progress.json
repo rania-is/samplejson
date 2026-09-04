@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 39,
+  "completed": 40,
   "completedExerciseIds": [
     "EX-wall-hip-flexor-mobilisation-01KZ3V3DYJQ0B83JNMDWZ8R58P",
     "EX-heel-to-toe-walk-4FM99RZ8DTRDT1GQQM7BPJXXKQ",
@@ -41,7 +41,8 @@
     "EX-shoulder-pendulum-40CR9QCETH2PZERVWQ83A8FEGZ",
     "EX-ankle-alphabets-01KZ3V3DYX6ZS73404ZXY1K7AM",
     "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
-    "EX-single-leg-deadlift-01KZ3V3DYJQ0B83JNMDWZ8R58W"
+    "EX-single-leg-deadlift-01KZ3V3DYJQ0B83JNMDWZ8R58W",
+    "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN"
   ],
-  "lastUpdated": "2026-09-04T07:02:05.260Z"
+  "lastUpdated": "2026-09-04T07:05:55.156Z"
 }
