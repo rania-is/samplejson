@@ -1,0 +1,119 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-outdoor-leisure-cycling-36GPMTSAGEH3RAPDJSKQ2JA0GD",
+  "submittedAt": "2026-09-04T15:16:19.178Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 4,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-outdoor-leisure-cycling-36GPMTSAGEH3RAPDJSKQ2JA0GD",
+    "name": "Outdoor Leisure Cycling",
+    "categories": [
+      "endurance",
+      "balance_and_coordination",
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "improved_cardiorespiratory_endurance",
+      "improved_coordination",
+      "increased_heart_rate"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": [
+      "bicycle",
+      "helmet"
+    ],
+    "location": [
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Check the bicycle fit, brakes, helmet, and route."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Begin in an easy gear and accelerate gradually."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Maintain a predictable line and steady cadence."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Brake smoothly with both hands ahead of time, bringing one foot to the ground as you stop."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "distance",
+        "unit": "meters",
+        "notes": "Record distance completed while maintaining the intended movement quality."
+      },
+      {
+        "type": "rate_of_perceived_exertion",
+        "unit": "rpe_1_to_10",
+        "notes": "Record the individual's perceived effort after the exercise."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Outdoor Leisure Cycling — Interval Progression: Alternate manageable work and recovery periods while keeping the same activity."
+      },
+      {
+        "exerciseName": "Stationary Upright Bike",
+        "variationDescription": "Stationary_upright_bike"
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-04",
+      "lastUpdated": "2026-09-04",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use appropriate safety equipment and a route suited to skill level."
+    ]
+  }
+}
