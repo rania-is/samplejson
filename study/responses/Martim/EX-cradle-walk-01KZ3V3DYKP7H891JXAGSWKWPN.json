@@ -1,0 +1,101 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-cradle-walk-01KZ3V3DYKP7H891JXAGSWKWPN",
+  "submittedAt": "2026-09-04T07:47:37.638Z",
+  "ratings": {
+    "q1_overallQuality": 4,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 4,
+    "q4_safety": 5,
+    "q5_classification": 5,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-cradle-walk-01KZ3V3DYKP7H891JXAGSWKWPN",
+    "name": "Cradle Walk",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_range_of_motion"
+    ],
+    "bodyParts": [
+      "lower_back",
+      "ankles",
+      "glutes",
+      "hamstrings",
+      "hips"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "In a standing position, get on one leg and position other in a figure four position."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Reach down and grab the ankle and knee of the non plant leg using a pronated grip."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pull the leg upwards while keeping the chest tall and extending the planted leg."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Release the leg and slowly lower back to the starting position."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Step forward and repeat the process on the opposite leg for the desired number of repetitions."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count controlled movement repetitions through a comfortable range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-04",
+      "lastUpdated": "2026-09-04",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
