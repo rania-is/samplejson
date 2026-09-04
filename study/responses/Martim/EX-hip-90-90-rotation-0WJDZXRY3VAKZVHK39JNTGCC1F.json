@@ -1,0 +1,107 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Martim",
+  "exerciseId": "EX-hip-90-90-rotation-0WJDZXRY3VAKZVHK39JNTGCC1F",
+  "submittedAt": "2026-09-04T14:35:25.850Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-hip-90-90-rotation-0WJDZXRY3VAKZVHK39JNTGCC1F",
+    "name": "Hip 90-90 Rotation",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_joint_mobility",
+      "movement_preparation",
+      "stretch_muscle",
+      "improved_range_of_motion"
+    ],
+    "bodyParts": [
+      "hips",
+      "glutes",
+      "inner_thighs"
+    ],
+    "equipment": [
+      "yoga mat"
+    ],
+    "location": [
+      "indoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit with both knees bent and feet wider than the hips."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Lower both knees toward one side while keeping your hands back as support."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Return through the center without forcing the hips."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Alternate sides smoothly."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "range_of_motion",
+        "unit": "degrees",
+        "notes": "Record range only when measured consistently; do not force end range."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Hip 90-90 Rotation — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-04",
+      "lastUpdated": "2026-09-04",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use hands for support and reduce range as needed."
+    ]
+  }
+}
