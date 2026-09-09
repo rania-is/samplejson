@@ -1,0 +1,47 @@
+{
+  "id": "EX-x-01M23BAGXVFBWB6GE1DV01FG9D",
+  "name": "x",
+  "categories": [
+    "endurance"
+  ],
+  "exerciseEffects": [
+    "improved_body_balance"
+  ],
+  "bodyParts": [
+    "glutes"
+  ],
+  "equipment": [],
+  "location": [
+    "indoor"
+  ],
+  "instructions": [
+    {
+      "stepNumber": 1,
+      "description": "x"
+    },
+    {
+      "stepNumber": 2,
+      "description": "x"
+    }
+  ],
+  "performanceMetrics": [],
+  "variations": [],
+  "variationSuggestions": [],
+  "relationships": [],
+  "mediaContent": {
+    "imageURLs": []
+  },
+  "metadata": {
+    "createdBy": "community",
+    "reviewStatus": "community",
+    "reviewedBy": [],
+    "dateReviewed": null,
+    "reviewNotes": null,
+    "dateCreated": "2026-09-09",
+    "lastUpdated": "2026-09-09",
+    "lastEditedBy": "community",
+    "dedupStatus": "unknown",
+    "duplicateOf": null
+  },
+  "commentsNotes": []
+}
