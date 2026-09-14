@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 18,
+  "completed": 19,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -20,7 +20,8 @@
     "EX-upper-trapezius-neck-stretch-1JJB2C5S586XGGHZTZRPM23XR7",
     "EX-knee-push-ups-01KZ3V3DYR43D2FTV12ZVQHG11",
     "EX-child-s-pose-side-reach-3E8CBY5TXMV6SN44ZTTGD8XWVE",
-    "EX-knees-to-chest-01KZ3V3DYR43D2FTV12ZVQHG12"
+    "EX-knees-to-chest-01KZ3V3DYR43D2FTV12ZVQHG12",
+    "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A"
   ],
-  "lastUpdated": "2026-09-14T09:53:21.700Z"
+  "lastUpdated": "2026-09-14T10:23:45.597Z"
 }
