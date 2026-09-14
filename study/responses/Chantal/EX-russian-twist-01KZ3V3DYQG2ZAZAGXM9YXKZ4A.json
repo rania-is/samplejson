@@ -1,0 +1,94 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
+  "submittedAt": "2026-09-14T10:23:45.597Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
+    "name": "Russian Twist",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "lower back",
+      "hip flexors",
+      "abdominals"
+    ],
+    "equipment": [
+      "yoga mat"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit on the floor with your knees bent and your feet flat on the ground. Lean your upper body back slightly while keeping your back straight and your core engaged, creating a V-shape with your torso and thighs."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Keep your feet on the floor for an easier variation. If you can maintain good balance and form, lift your feet off the ground and balance on your sit bones for a more challenging variation. Clasp your hands together in front of your chest, or hold a weight for added resistance."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Slowly twist your torso to the right, bringing your hands or the weight toward the right side of your body. Pause briefly, then twist to the left and bring your hands or the weight toward the left side."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Continue alternating sides with controlled movements. Keep your legs as still as possible and focus on rotating through your torso while engaging your obliques."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-14",
+      "lastUpdated": "2026-09-14",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
