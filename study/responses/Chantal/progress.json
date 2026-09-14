@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 15,
+  "completed": 16,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -17,7 +17,8 @@
     "EX-assisted-pull-up-68JE9TCX2XQBYA1NP6127HY7ZM",
     "EX-cross-body-march-4AN4SPZE44XWDH31EBEDCBAPGD",
     "EX-cable-wood-chop-3S8F3TJ192TNXJDEPKFC030YHR",
-    "EX-upper-trapezius-neck-stretch-1JJB2C5S586XGGHZTZRPM23XR7"
+    "EX-upper-trapezius-neck-stretch-1JJB2C5S586XGGHZTZRPM23XR7",
+    "EX-knee-push-ups-01KZ3V3DYR43D2FTV12ZVQHG11"
   ],
-  "lastUpdated": "2026-09-02T11:52:10.861Z"
+  "lastUpdated": "2026-09-14T09:29:07.438Z"
 }
