@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 20,
+  "completed": 21,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -22,7 +22,8 @@
     "EX-child-s-pose-side-reach-3E8CBY5TXMV6SN44ZTTGD8XWVE",
     "EX-knees-to-chest-01KZ3V3DYR43D2FTV12ZVQHG12",
     "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
-    "EX-toe-stand-01KZ3V3DYVRGF8XTCP211A7W9E"
+    "EX-toe-stand-01KZ3V3DYVRGF8XTCP211A7W9E",
+    "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1"
   ],
-  "lastUpdated": "2026-09-14T10:36:51.420Z"
+  "lastUpdated": "2026-09-14T10:38:06.023Z"
 }
