@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 22,
+  "completed": 23,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -24,7 +24,8 @@
     "EX-russian-twist-01KZ3V3DYQG2ZAZAGXM9YXKZ4A",
     "EX-toe-stand-01KZ3V3DYVRGF8XTCP211A7W9E",
     "EX-cone-weave-walk-25A4PGF1PK5CM0DXM46BJ89NW1",
-    "EX-romanian-deadlift-with-dumbbells-02YF72Q5VZ8YVWB7F7Z5GQ9D97"
+    "EX-romanian-deadlift-with-dumbbells-02YF72Q5VZ8YVWB7F7Z5GQ9D97",
+    "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF"
   ],
-  "lastUpdated": "2026-09-14T10:49:26.843Z"
+  "lastUpdated": "2026-09-14T12:57:27.450Z"
 }
