@@ -1,0 +1,92 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-knee-push-ups-01KZ3V3DYR43D2FTV12ZVQHG11",
+  "submittedAt": "2026-09-14T09:29:07.438Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 5,
+    "q4_safety": 5,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-knee-push-ups-01KZ3V3DYR43D2FTV12ZVQHG11",
+    "name": "Knee Push-Ups",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "shoulders",
+      "chest",
+      "triceps"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Kneel on the floor and place your hands slightly wider than shoulder-width apart, directly under or slightly in front of your shoulders. Keep your knees on the floor and form a straight line from your head to your knees."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Cross your ankles if comfortable. Engage your core and lightly squeeze your glutes to maintain a stable body position. Keep your head and neck neutral."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Bend your elbows at approximately a 45-degree angle to your body and slowly lower your chest toward the floor. Keep your body in a straight line and avoid letting your hips sag or lift."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Push evenly through your palms to return to the starting position, extending your arms almost fully. Keep your core engaged and repeat the movement in a controlled manner through a full range of motion."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-14",
+      "lastUpdated": "2026-09-14",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": []
+  }
+}
