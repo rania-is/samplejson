@@ -1,0 +1,107 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-foam-roller-thoracic-extension-00QY1MPN4PNFGZW2ZMXB5490HB",
+  "submittedAt": "2026-09-15T13:28:04.561Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 6,
+    "q4_safety": 4,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-foam-roller-thoracic-extension-00QY1MPN4PNFGZW2ZMXB5490HB",
+    "name": "Foam-Roller Thoracic Extension",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_joint_mobility",
+      "improved_posture"
+    ],
+    "bodyParts": [
+      "upper_back",
+      "chest"
+    ],
+    "equipment": [
+      "foam roller"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit on the floor with your knees bent and place the foam roller horizontally across your upper back, around the middle of your thoracic spine. Support your head gently with your hands and keep your feet firmly planted on the floor."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Engage your core and gently lean your upper back over the roller, extending through your thoracic spine. Keep your hips and lower back relaxed and supported, and avoid forcing the movement."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Pause briefly in a comfortable range, then return to a neutral position with control. Keep your ribs from flaring upward and avoid compensating by arching your lower back."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Move the roller slightly up or down along your upper back and repeat the extension at the next comfortable position."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      },
+      {
+        "type": "range_of_motion",
+        "unit": "degrees",
+        "notes": "Record range only when measured consistently; do not force end range."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Foam-Roller Thoracic Extension — Supported Mobility Version: Add stable support or cushions to reduce balance or floor-access demands."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-15",
+      "lastUpdated": "2026-09-15",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep your head supported and avoid dropping it backward.",
+      "Focus the movement on your upper and mid-back, not your lower back or neck.",
+      "Move slowly and stay within a comfortable range of motion."
+    ]
+  }
+}
