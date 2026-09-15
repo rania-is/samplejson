@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 26,
+  "completed": 27,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -28,7 +28,8 @@
     "EX-tree-pose-01KZ3V3DYND08RZF4CTKT9VFTF",
     "EX-bodyweight-squat-2FP4KQNHB49CQ16VXE3742VSZA",
     "EX-glute-bridge-7NKPSGPPB6R29146E405BGRGG1",
-    "EX-diaphragmatic-breathing-7QS7T5B5YGYG5NAG74CQBQVT2M"
+    "EX-diaphragmatic-breathing-7QS7T5B5YGYG5NAG74CQBQVT2M",
+    "EX-dolphin-push-up-01KZ3V3DYPMJ0VD30AKHABF5NZ"
   ],
-  "lastUpdated": "2026-09-15T12:51:25.209Z"
+  "lastUpdated": "2026-09-15T13:08:43.469Z"
 }
