@@ -1,0 +1,110 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-diaphragmatic-breathing-7QS7T5B5YGYG5NAG74CQBQVT2M",
+  "submittedAt": "2026-09-15T12:51:25.209Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 4,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-diaphragmatic-breathing-7QS7T5B5YGYG5NAG74CQBQVT2M",
+    "name": "Diaphragmatic Breathing",
+    "categories": [
+      "relaxation_and_breathing"
+    ],
+    "exerciseEffects": [
+      "improved_breath_control",
+      "relaxation"
+    ],
+    "bodyParts": [
+      "diaphragm",
+      "core",
+      "shoulders",
+      "neck"
+    ],
+    "equipment": [
+      "yoga mat",
+      "chair"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your back or sit in a comfortable, supported position. Place one hand on your abdomen and, if desired, the other hand on your lower ribs. Relax your shoulders, neck, and jaw."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Inhale slowly and gently through your nose. Allow your abdomen and lower ribs to expand naturally as your diaphragm moves downward. Try to feel the lower ribs expanding outward and slightly to the sides rather than lifting your shoulders."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Exhale slowly and comfortably, allowing your abdomen and ribs to gently return to their resting position. Avoid pushing, straining, or forcing the breath out."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Continue breathing with a slow, quiet, and comfortable rhythm. Keep your upper chest, shoulders, and neck relaxed and focus on smooth, relaxed breaths."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      },
+      {
+        "type": "breathing_rate",
+        "unit": "breaths_per_minute",
+        "notes": "Record a comfortable breathing rate without prescribing a universal norm."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "",
+        "variationDescription": "Diaphragmatic Breathing — Shorter Practice Version: Use a shorter comfortable practice period while preserving relaxed breathing."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-15",
+      "lastUpdated": "2026-09-15",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Think of expanding your lower ribs in all directions, rather than simply pushing your belly outward.",
+      "Keep your shoulders relaxed and avoid shrugging them as you inhale.",
+      "Don't force the breath or try to take excessively deep breaths — comfortable and relaxed is the goal."
+    ]
+  }
+}
