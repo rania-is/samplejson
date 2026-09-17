@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 30,
+  "completed": 31,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -32,7 +32,8 @@
     "EX-dolphin-push-up-01KZ3V3DYPMJ0VD30AKHABF5NZ",
     "EX-foam-roller-thoracic-extension-00QY1MPN4PNFGZW2ZMXB5490HB",
     "EX-boat-pose-01KZ3V3DYR43D2FTV12ZVQHG18",
-    "EX-seated-marching-2364WRN2Q3TTBFTF3BCRXS0VHC"
+    "EX-seated-marching-2364WRN2Q3TTBFTF3BCRXS0VHC",
+    "EX-nordic-walking-3HRTYYH6FR4SRDREVMB4PGE4EX"
   ],
-  "lastUpdated": "2026-09-16T11:54:06.871Z"
+  "lastUpdated": "2026-09-17T14:02:07.002Z"
 }
