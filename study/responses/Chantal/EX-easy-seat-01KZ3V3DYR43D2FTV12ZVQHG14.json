@@ -1,0 +1,91 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-easy-seat-01KZ3V3DYR43D2FTV12ZVQHG14",
+  "submittedAt": "2026-09-17T15:17:39.200Z",
+  "ratings": {
+    "q1_overallQuality": 5,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 5,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 5,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-easy-seat-01KZ3V3DYR43D2FTV12ZVQHG14",
+    "name": "Easy Seat",
+    "categories": [
+      "relaxation_and_breathing"
+    ],
+    "exerciseEffects": [
+      "relaxation"
+    ],
+    "bodyParts": [],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit on the floor with your legs extended in front of you. Bend your knees and bring your feet toward you."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Cross your legs comfortably and place each foot underneath or slightly in front of the opposite knee. Sit evenly on both sit bones and lengthen your spine, keeping your shoulders relaxed."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Rest your hands comfortably on your thighs or knees. Keep your head and neck in a neutral position and breathe slowly, deeply, and comfortably."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Hold the position for as long as it feels comfortable. Stay relaxed, maintain an upright posture, and continue breathing naturally without forcing the position."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "minutes",
+        "notes": "Record the duration of the comfortable, controlled practice."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-17",
+      "lastUpdated": "2026-09-17",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Find a comfortable position rather than forcing a deep cross-legged position.",
+      "If your hips feel tight or your lower back rounds, sit on a folded blanket or cushion to help elevate your hips.",
+      "Let your shoulders, jaw, and face relax and maintain a slow, comfortable breathing rhythm."
+    ]
+  }
+}
