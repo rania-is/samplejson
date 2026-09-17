@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 33,
+  "completed": 34,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -35,7 +35,8 @@
     "EX-seated-marching-2364WRN2Q3TTBFTF3BCRXS0VHC",
     "EX-nordic-walking-3HRTYYH6FR4SRDREVMB4PGE4EX",
     "EX-neck-strength-front-01KZ3V3DYX6ZS73404ZXY1K7AS",
-    "EX-dumbbell-overhead-press-5539C7HG9NPKT7W1XH00XDETDS"
+    "EX-dumbbell-overhead-press-5539C7HG9NPKT7W1XH00XDETDS",
+    "EX-easy-seat-01KZ3V3DYR43D2FTV12ZVQHG14"
   ],
-  "lastUpdated": "2026-09-17T14:57:47.276Z"
+  "lastUpdated": "2026-09-17T15:17:39.201Z"
 }
