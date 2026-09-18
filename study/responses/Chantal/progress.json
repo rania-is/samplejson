@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 36,
+  "completed": 37,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -38,7 +38,8 @@
     "EX-dumbbell-overhead-press-5539C7HG9NPKT7W1XH00XDETDS",
     "EX-easy-seat-01KZ3V3DYR43D2FTV12ZVQHG14",
     "EX-swimmers-01KZ3V3DYPMJ0VD30AKHABF5P5",
-    "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX"
+    "EX-arm-pulses-01KZ3V3DYS3422TGERTFBDCBSX",
+    "EX-standing-resistance-band-row-7P62141Y97NV3KSY6D6DC6WXW7"
   ],
-  "lastUpdated": "2026-09-18T10:07:29.251Z"
+  "lastUpdated": "2026-09-18T11:34:40.959Z"
 }
