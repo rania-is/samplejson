@@ -1,0 +1,26 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-seated-low-lunge-01KZ3V3DYY2J67YNXR955N44JW",
+  "submittedAt": "2026-09-18T11:44:29.989Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 3,
+    "q4_safety": 6,
+    "q5_classification": 4,
+    "q6_useInPractice": 3,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "reject",
+  "editedExercise": null
+}
