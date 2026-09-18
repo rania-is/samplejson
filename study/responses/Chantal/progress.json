@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 41,
+  "completed": 42,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -43,7 +43,8 @@
     "EX-seated-low-lunge-01KZ3V3DYY2J67YNXR955N44JW",
     "EX-brisk-walking-intervals-6AE8NYD60CN8QGKBRQAJ1420MN",
     "EX-mindfulness-01KZ3V3DYVRGF8XTCP211A7W9A",
-    "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16"
+    "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
+    "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ"
   ],
-  "lastUpdated": "2026-09-18T12:47:52.617Z"
+  "lastUpdated": "2026-09-18T13:02:50.586Z"
 }
