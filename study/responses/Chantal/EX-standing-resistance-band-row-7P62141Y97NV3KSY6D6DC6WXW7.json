@@ -1,0 +1,109 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-standing-resistance-band-row-7P62141Y97NV3KSY6D6DC6WXW7",
+  "submittedAt": "2026-09-18T11:34:40.958Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 7,
+    "q4_safety": 5,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-standing-resistance-band-row-7P62141Y97NV3KSY6D6DC6WXW7",
+    "name": "Standing Resistance-Band Row",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_posture"
+    ],
+    "bodyParts": [
+      "biceps",
+      "shoulders",
+      "upper back"
+    ],
+    "equipment": [
+      "resistance band"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Securely anchor the resistance band at approximately rib-cage height, around the lower part of your chest. Make sure the anchor point can safely withstand the resistance. Stand facing the anchor with your feet about hip-width apart and hold the band handles or ends with both hands."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Step back until there is light tension in the band. Stand tall with your knees slightly bent, your chest open, and your core gently engaged. Keep your arms extended without locking your elbows."
+      },
+      {
+        "stepNumber": 3,
+        "description": "ull your elbows backward and slightly toward your sides, bringing your hands toward your ribs. Keep your shoulders down and gently squeeze your shoulder blades together as you complete the movement. Keep your torso stable and avoid leaning backward."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Slowly extend your arms back to the starting position while maintaining control and tension in the band. Allow your shoulder blades to move naturally without letting your shoulders round forward abruptly."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Tempo-Controlled Version",
+        "variationDescription": "Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "Reduced-Range Version",
+        "variationDescription": "Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-18",
+      "lastUpdated": "2026-09-18",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Anchor the band securely.",
+      "Keep your core engaged and your torso stable throughout the exercise.",
+      "Think about driving your elbows backward rather than simply pulling with your hands.",
+      "Keep your shoulders relaxed and away from your ears.",
+      "Return to the starting position slowly and under control rather than letting the band pull your arms forward."
+    ]
+  }
+}
