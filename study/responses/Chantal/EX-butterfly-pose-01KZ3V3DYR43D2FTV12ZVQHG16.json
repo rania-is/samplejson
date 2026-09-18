@@ -1,0 +1,101 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
+  "submittedAt": "2026-09-18T12:47:52.617Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 7,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
+    "name": "Butterfly Pose",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "hips",
+      "inner_thighs"
+    ],
+    "equipment": [
+      "yoga mat"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit upright on the mat with your legs extended in front of you. Bend your knees, bring the soles of your feet together, and allow your knees to gently fall out to the sides."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Lengthen your spine and relax your shoulders. Hold your feet or toes comfortably, keeping your chest open and your head and neck in a neutral position."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Stay in the position for 1–2 minutes and breathe slowly and comfortably. Allow your hips and inner thighs to gradually relax without pushing the knees down."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Seated Butterfly Forward Fold",
+        "variationDescription": "From Butterfly Pose, gently lean your torso forward while keeping your spine long. This increases the stretch through the inner thighs and hips."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-18",
+      "lastUpdated": "2026-09-18",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep your feet close enough to feel a gentle stretch, but move them farther away if the stretch is too intense.",
+      "Relax your shoulders, jaw, and face while breathing steadily."
+    ]
+  }
+}
