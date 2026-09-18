@@ -1,0 +1,103 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ",
+  "submittedAt": "2026-09-18T13:02:50.586Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 2,
+    "q3_biomechanics": 6,
+    "q4_safety": 6,
+    "q5_classification": 5,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 3
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ",
+    "name": "Bent Knee Toe Touches",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "core",
+      "lower back",
+      "hip flexors",
+      "abdominals"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your back with your arms by your sides. Lift your legs so your knees are bent at approximately 90°, with your calves parallel to the floor."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Gently engage your core and lift your head and shoulders slightly off the floor. Keep your lower back in a comfortable, stable position."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Reach your right hand toward your right foot, then return to center and reach your left hand toward your left foot. Alternate sides in a controlled movement."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Continue for the desired number of repetitions, keeping your core engaged and avoiding momentum or excessive pulling with your neck."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Bent Knee Toe Taps",
+        "variationDescription": "Instead of lifting your shoulders, keep your upper body relaxed on the floor and slowly lower one foot toward the floor at a time. This provides a gentler core exercise while still challenging abdominal control."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-18",
+      "lastUpdated": "2026-09-18",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep your knees bent at approximately 90° throughout the exercise.",
+      "Lift through your upper abdominals rather than pulling your head or neck forward.",
+      "Keep the movement controlled and focus on reaching toward the foot rather than simply moving the arm.",
+      "Avoid excessive arching of the lower back; gently engage your core to keep your pelvis stable.",
+      "Exhale as you reach toward the foot and inhale as you return to center."
+    ]
+  }
+}
