@@ -1,0 +1,104 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-mindfulness-01KZ3V3DYVRGF8XTCP211A7W9A",
+  "submittedAt": "2026-09-18T12:16:30.449Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 5,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-mindfulness-01KZ3V3DYVRGF8XTCP211A7W9A",
+    "name": "Mindfulness",
+    "categories": [
+      "relaxation_and_breathing"
+    ],
+    "exerciseEffects": [
+      "relaxation"
+    ],
+    "bodyParts": [],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Sit or stand in a comfortable position where you can remain relaxed and attentive."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Sit or stand in a comfortable position where you can remain relaxed and attentive."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Gently direct your attention to your immediate surroundings and become aware of what is happening around you."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Notice what you can see, hear, smell, and feel. Take in each sensation without needing to focus on or change it."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Allow yourself to notice even small or subtle details, giving each experience your attention as it naturally arises."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Observe everything without judging, analyzing, or trying to respond. Let each experience come and go without needing to do anything about it."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "minutes",
+        "notes": "Record the duration of the comfortable, controlled practice."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Mindful Body Scan",
+        "variationDescription": "Slowly bring your attention through different parts of your body, noticing sensations such as tension, warmth, pressure, or relaxation without trying to change or judge them."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-18",
+      "lastUpdated": "2026-09-18",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "There is nothing you need to achieve or change.",
+      "If your attention wanders, gently bring it back to the present moment.",
+      "Notice both pleasant and unpleasant sensations without labeling them as good or bad."
+    ]
+  }
+}
