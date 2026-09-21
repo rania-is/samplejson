@@ -1,0 +1,92 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-shadow-boxing-0621K2XH5QMSMNYRPPBHBAKD7N",
+  "submittedAt": "2026-09-21T10:07:34.770Z",
+  "ratings": {
+    "q1_overallQuality": 6,
+    "q2_instructionClarity": 4,
+    "q3_biomechanics": 6,
+    "q4_safety": 7,
+    "q5_classification": 6,
+    "q6_useInPractice": 6,
+    "q7_imageQuality": 7
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "",
+    "name": "Shadwo Boxing",
+    "categories": [
+      "endurance",
+      "balance_and_coordination"
+    ],
+    "exerciseEffects": [
+      "increased_heart_rate",
+      "increased_breathing",
+      "improved_body_balance"
+    ],
+    "bodyParts": [
+      "full body",
+      "core",
+      "shoulders",
+      "arms"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand in a stable staggered stance with one foot slightly in front of the other. Keep your knees slightly bent, core gently engaged, and hands near your chin."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Extend one arm forward in a controlled punch. Rotate the fist naturally as you extend, keeping the wrist straight and the shoulder relaxed."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Return the arm to your guard position and punch with the opposite arm. Lightly shift your weight between your feet while keeping your stance stable."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Continue alternating punches at a comfortable pace. Keep your movements smooth and controlled, without locking or snapping the elbows."
+      }
+    ],
+    "performanceMetrics": [],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": []
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-21",
+      "lastUpdated": "2026-09-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep your core engaged and torso controlled.",
+      "Punch forward without fully locking the elbow.",
+      "Keep your shoulders relaxed and avoid excessive tension.",
+      "Focus on coordination and technique rather than punching with maximum force."
+    ]
+  }
+}
