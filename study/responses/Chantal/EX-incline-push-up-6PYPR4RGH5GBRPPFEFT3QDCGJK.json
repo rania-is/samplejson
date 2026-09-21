@@ -1,0 +1,121 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+  "submittedAt": "2026-09-21T13:52:56.646Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 5,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK",
+    "name": "Incline Push-Up",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_core_stability"
+    ],
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders",
+      "core",
+      "upper back",
+      "biceps"
+    ],
+    "equipment": [
+      "bench"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Place your hands on a stable bench or other elevated surface, slightly wider than shoulder-width apart. Keep your fingers pointing forward or slightly outward."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Step your feet back until your body forms a straight line from head to heels. Engage your core and glutes, keep your neck neutral, and maintain a stable torso."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Bend your elbows and slowly lower your chest toward the surface. Keep your elbows at a comfortable angle rather than letting them flare widely, while maintaining your body alignment."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Press firmly through your hands to return to the starting position. Keep your core engaged and your body moving as one unit."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count technically controlled repetitions."
+      }
+    ],
+    "variations": [
+      {
+        "id": "EX-wall-push-up-4142F3V3M07GQC9F8SH26B4VKX",
+        "variationDescription": "Wall Push-Up provides a meaningfully different loading, support, or stability option compared with Incline Push-Up."
+      },
+      {
+        "id": "EX-standard-push-up-2JAXEZ5GHQJK37N03V66V5QVEA",
+        "variationDescription": "Standard Push-Up meaningfully changes the difficulty, loading, support, or movement demands compared with Incline Push-Up."
+      }
+    ],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Incline Push-Up — Tempo-Controlled Version",
+        "variationDescription": "Use a deliberately slower lowering phase without creating a separate database record."
+      },
+      {
+        "exerciseName": "Incline Push-Up — Reduced-Range Version",
+        "variationDescription": "Use a smaller comfortable range while preserving the same movement pattern."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-21",
+      "lastUpdated": "2026-09-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use a stable surface that cannot slide or tip.",
+      "Keep your body in a straight line and avoid letting your hips sag or rise.",
+      "Keep your core gently engaged throughout the movement.",
+      "Keep your shoulders away from your ears.",
+      "Use a higher surface for an easier variation and a lower surface for more challenge."
+    ]
+  }
+}
