@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 47,
+  "completed": 48,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -49,7 +49,8 @@
     "EX-dynamic-leg-swing-with-support-6WNSVN5K060NXRBVK3A1JM2VNH",
     "EX-reverse-crunch-01KZ3V3DYT59YPX0KBDFY9QZXA",
     "EX-doorway-chest-stretch-37FNBGMB8FB8ZC7WMP3SA0TBXE",
-    "EX-bear-with-shoulder-touches-01KZ3V3DYVRGF8XTCP211A7W94"
+    "EX-bear-with-shoulder-touches-01KZ3V3DYVRGF8XTCP211A7W94",
+    "EX-cat-cow-spinal-mobility-43SMTHQT8TZHH3AY1ACDWDP3H4"
   ],
-  "lastUpdated": "2026-09-21T11:32:30.036Z"
+  "lastUpdated": "2026-09-21T11:49:24.284Z"
 }
