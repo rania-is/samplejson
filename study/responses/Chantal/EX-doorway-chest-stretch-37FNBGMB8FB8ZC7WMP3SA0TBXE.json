@@ -1,0 +1,104 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-doorway-chest-stretch-37FNBGMB8FB8ZC7WMP3SA0TBXE",
+  "submittedAt": "2026-09-21T11:15:26.713Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 7,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 5
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 6
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-doorway-chest-stretch-37FNBGMB8FB8ZC7WMP3SA0TBXE",
+    "name": "Doorway Chest Stretch",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_flexibility",
+      "stretch_muscle"
+    ],
+    "bodyParts": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "doorway"
+    ],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand sideways next to the doorway and place one forearm against the door frame, with your elbow slightly below shoulder height and bent at approximately 90°."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Step forward slowly with the foot closest to the doorway until you feel a gentle stretch across your chest and the front of your shoulder."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep your torso upright, shoulders relaxed, and hips facing forward. Breathe slowly and comfortably while holding the stretch."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Step back to release the stretch, lower your arm, and repeat on the other side."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the time performed with comfortable, controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [
+      {
+        "exerciseName": "Doorway Chest Stretch — Supported Mobility Version",
+        "variationDescription": "Add stable support or cushions to reduce balance or floor-access demands."
+      }
+    ],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-21",
+      "lastUpdated": "2026-09-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Use a gentle stretch and avoid forcing the shoulder.",
+      "Keep your shoulder relaxed and away from your ear.",
+      "Maintain an upright posture without arching your lower back.",
+      "Adjust your step and arm position to control the intensity of the stretch.",
+      "Breathe slowly and naturally throughout."
+    ]
+  }
+}
