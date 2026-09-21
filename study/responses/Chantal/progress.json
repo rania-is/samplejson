@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 44,
+  "completed": 45,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -46,7 +46,8 @@
     "EX-butterfly-pose-01KZ3V3DYR43D2FTV12ZVQHG16",
     "EX-bent-knee-toe-touches-01KZ3V3DYS3422TGERTFBDCBSQ",
     "EX-shadow-boxing-0621K2XH5QMSMNYRPPBHBAKD7N",
-    "EX-dynamic-leg-swing-with-support-6WNSVN5K060NXRBVK3A1JM2VNH"
+    "EX-dynamic-leg-swing-with-support-6WNSVN5K060NXRBVK3A1JM2VNH",
+    "EX-reverse-crunch-01KZ3V3DYT59YPX0KBDFY9QZXA"
   ],
-  "lastUpdated": "2026-09-21T10:30:29.240Z"
+  "lastUpdated": "2026-09-21T10:38:10.831Z"
 }
