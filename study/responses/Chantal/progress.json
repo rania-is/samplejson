@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 50,
+  "completed": 51,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -52,7 +52,8 @@
     "EX-bear-with-shoulder-touches-01KZ3V3DYVRGF8XTCP211A7W94",
     "EX-cat-cow-spinal-mobility-43SMTHQT8TZHH3AY1ACDWDP3H4",
     "EX-leg-raises-01KZ3V3DYND08RZF4CTKT9VFT9",
-    "EX-sit-up-01KZ3V3DYMQ0JFE1ZDQWY74XFC"
+    "EX-sit-up-01KZ3V3DYMQ0JFE1ZDQWY74XFC",
+    "EX-incline-push-up-6PYPR4RGH5GBRPPFEFT3QDCGJK"
   ],
-  "lastUpdated": "2026-09-21T12:54:23.444Z"
+  "lastUpdated": "2026-09-21T13:52:56.646Z"
 }
