@@ -1,0 +1,97 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-sit-up-01KZ3V3DYMQ0JFE1ZDQWY74XFC",
+  "submittedAt": "2026-09-21T12:54:23.443Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 7
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-sit-up-01KZ3V3DYMQ0JFE1ZDQWY74XFC",
+    "name": "Sit-Up",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength",
+      "improved_core_stability"
+    ],
+    "bodyParts": [
+      "core",
+      "abdominals",
+      "hip flexors"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Lie on your back on a mat with your knees bent and your feet flat on the floor, about hip-width apart."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Place your hands lightly behind your head with your elbows open, or cross your arms over your chest. Gently engage your abdominal muscles by drawing your belly button slightly toward your spine, without holding your breath."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Exhale and slowly lift your upper body using your abdominal muscles. Maintain the gentle inward tension through your abdomen as you bring your chest toward your knees."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Slowly lower your upper body back to the mat while keeping your abdominal muscles engaged and maintaining control throughout the movement."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-21",
+      "lastUpdated": "2026-09-21",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Avoid holding your breath; breathe smoothly throughout.",
+      "Keep the abdominal wall gently drawn inward rather than allowing it to push outward during the movement. Think of drawing the belly button slightly toward the spine, without forcefully sucking in the stomach.",
+      "Do not pull on your head or neck with your hands.",
+      "If a full sit-up is too difficult, use a smaller range of motion or perform a crunch instead."
+    ]
+  }
+}
