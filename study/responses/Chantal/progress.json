@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 58,
+  "completed": 59,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -60,7 +60,8 @@
     "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH",
     "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ",
     "EX-rowing-machine-29N80H8900F2BJY8VMJMZ393A2",
-    "EX-extended-exhale-breathing-2W5V0CY8ARMJS84ZGN81A3W9WJ"
+    "EX-extended-exhale-breathing-2W5V0CY8ARMJS84ZGN81A3W9WJ",
+    "EX-farmer-carry-733B47QMQ0P9DZC56Z4XXCMF81"
   ],
-  "lastUpdated": "2026-09-22T10:47:38.190Z"
+  "lastUpdated": "2026-09-22T10:52:05.448Z"
 }
