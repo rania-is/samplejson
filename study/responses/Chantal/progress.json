@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 62,
+  "completed": 63,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -64,7 +64,8 @@
     "EX-farmer-carry-733B47QMQ0P9DZC56Z4XXCMF81",
     "EX-shoulder-shrugs-01KZ3V3DYX6ZS73404ZXY1K7AJ",
     "EX-lying-raised-leg-toe-taps-01KZ3V3DYT59YPX0KBDFY9QZXF",
-    "EX-bicycle-crunches-01KZ3V3DYMQ0JFE1ZDQWY74XFE"
+    "EX-bicycle-crunches-01KZ3V3DYMQ0JFE1ZDQWY74XFE",
+    "EX-cross-body-arm-swings-01KZ3V3DYKP7H891JXAGSWKWPM"
   ],
-  "lastUpdated": "2026-09-22T11:29:43.008Z"
+  "lastUpdated": "2026-09-22T11:34:58.227Z"
 }
