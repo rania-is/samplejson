@@ -1,0 +1,95 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
+  "submittedAt": "2026-09-22T09:50:28.089Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 7,
+    "q4_safety": 6,
+    "q5_classification": 7,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
+    "name": "Plie Squat",
+    "categories": [
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "increased_muscle_strength"
+    ],
+    "bodyParts": [
+      "quadriceps",
+      "glutes",
+      "inner_thighs",
+      "core"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand with your feet clearly wider than shoulder-width apart, with enough distance between them to create a wide Plie stance. Turn your toes outward at approximately 45°, keep your chest lifted, core gently engaged, and spine neutral."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Bend your knees and lower your hips toward the floor in a controlled manner. Keep your knees tracking in the same direction as your toes and maintain an upright, stable torso."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Lower as far as you can while maintaining good form, ideally until your thighs are at or below parallel if your mobility allows. Keep your heels grounded and avoid forcing the depth."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Press evenly through your feet and extend your hips and knees to return to the starting position. Stand tall without locking your knees or excessively arching your lower back."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "repetitions",
+        "unit": "repetitions",
+        "notes": "Count repetitions completed with controlled technique."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-22",
+      "lastUpdated": "2026-09-22",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep your knees aligned with your toes throughout the movement.",
+      "Keep your core gently engaged to stabilize your torso."
+    ]
+  }
+}
