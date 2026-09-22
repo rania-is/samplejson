@@ -1,0 +1,98 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW",
+  "submittedAt": "2026-09-22T11:39:51.517Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 5,
+    "q3_biomechanics": 7,
+    "q4_safety": 6,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": true,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW",
+    "name": "Standing Forward Bend",
+    "categories": [
+      "flexibility_and_mobility"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "stretch_muscle",
+      "improved_range_of_motion"
+    ],
+    "bodyParts": [
+      "hamstrings",
+      "lower back"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Stand upright with your feet hip-width apart, arms relaxed by your sides, and your knees slightly soft."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Begin by gently lowering your chin toward your chest. From there, slowly roll your upper body downward vertebra by vertebra, allowing the neck, upper back, and then lower back to follow in sequence."
+      },
+      {
+        "stepNumber": 3,
+        "description": "Keep your legs mostly straight but avoid locking your knees. Let your arms hang naturally as you continue to roll downward in a slow, controlled movement."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Reach toward the floor or your shins as far as comfortable until you feel a gentle stretch along the backs of your legs. Hold the position and breathe slowly and comfortably."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-22",
+      "lastUpdated": "2026-09-22",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Think of “rolling down one vertebra at a time” rather than dropping your whole upper body forward.",
+      "Let your head and neck relax once you are in the forward bend.",
+      "Breathe slowly and comfortably throughout the hold."
+    ]
+  }
+}
