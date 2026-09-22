@@ -1,0 +1,114 @@
+{
+  "studyId": "OED-LLM-QUALITY-001",
+  "reviewer": "Chantal",
+  "exerciseId": "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH",
+  "submittedAt": "2026-09-22T09:58:03.279Z",
+  "ratings": {
+    "q1_overallQuality": 7,
+    "q2_instructionClarity": 6,
+    "q3_biomechanics": 7,
+    "q4_safety": 5,
+    "q5_classification": 6,
+    "q6_useInPractice": 7,
+    "q7_imageQuality": 6
+  },
+  "safety": {
+    "q8_issueTypes": [],
+    "q8_otherText": null,
+    "q9_comment": ""
+  },
+  "detectability": {
+    "q11_guessAi": false,
+    "q12_confidence": 5
+  },
+  "decision": "edit_accept",
+  "editedExercise": {
+    "id": "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH",
+    "name": "Crescent Lunge",
+    "categories": [
+      "flexibility_and_mobility",
+      "balance_and_coordination",
+      "strength_and_resistance"
+    ],
+    "exerciseEffects": [
+      "improved_balance",
+      "improved_coordination",
+      "improved_joint_mobility",
+      "improved_posture",
+      "stretch_muscle",
+      "upper_back",
+      "increased_muscle_strength",
+      "improved_body_balance"
+    ],
+    "bodyParts": [
+      "hips",
+      "quadriceps",
+      "glutes",
+      "hamstrings",
+      "hip flexors",
+      "core",
+      "shoulders"
+    ],
+    "equipment": [],
+    "location": [
+      "indoor",
+      "outdoor"
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "description": "Start in a standing forward bend with your feet together or hip-width apart and your hands reaching toward the floor."
+      },
+      {
+        "stepNumber": 2,
+        "description": "Inhale as you step your right leg far back, keeping the right foot pointing forward. Bend your left knee so it stays roughly over your ankle, while keeping the back leg extended and the heel lifted."
+      },
+      {
+        "stepNumber": 3,
+        "description": "As you continue to inhale, lift your torso upright and sweep your arms out to the sides and overhead. Keep your hips facing forward, core gently engaged, and shoulders relaxed."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Stay in Crescent Lunge for 30 seconds to 1 minute, breathing slowly and comfortably. Maintain an upright posture and keep your body relaxed as you hold the position."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Exhale as you lower your arms and place your hands on the floor. Step your left foot back beside the right and return to a forward bend. Repeat with the opposite leg."
+      }
+    ],
+    "performanceMetrics": [
+      {
+        "type": "duration",
+        "unit": "seconds",
+        "notes": "Record the comfortable hold duration without forcing the range of motion."
+      }
+    ],
+    "variations": [],
+    "variationSuggestions": [],
+    "relationships": [],
+    "mediaContent": {
+      "imageURLs": [
+        "image_1.png"
+      ]
+    },
+    "metadata": {
+      "createdBy": "community",
+      "reviewStatus": "community",
+      "reviewedBy": [],
+      "dateReviewed": null,
+      "reviewNotes": null,
+      "dateCreated": "2026-09-22",
+      "lastUpdated": "2026-09-22",
+      "lastEditedBy": "community",
+      "dedupStatus": "unknown",
+      "duplicateOf": null
+    },
+    "commentsNotes": [
+      "Keep the front knee tracking in the same direction as the toes.",
+      "Keep the back leg active with the heel lifted.",
+      "Keep your hips facing forward and avoid letting the front knee collapse inward.",
+      "Engage your core to maintain a stable, upright torso.",
+      "Keep your shoulders relaxed and avoid forcing the arms overhead."
+    ]
+  }
+}
