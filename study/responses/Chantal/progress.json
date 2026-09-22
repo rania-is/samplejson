@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 55,
+  "completed": 56,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -57,7 +57,8 @@
     "EX-pistol-squats-01KZ3V3DYR43D2FTV12ZVQHG10",
     "EX-boat-pose-arm-pulses-01KZ3V3DYVRGF8XTCP211A7W95",
     "EX-plie-squat-01KZ3V3DYPMJ0VD30AKHABF5NV",
-    "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH"
+    "EX-crescent-lunge-01KZ3V3DYND08RZF4CTKT9VFTH",
+    "EX-ball-toss-in-stable-stance-5A49VT076D2BD0XQ98Z4NK8SFJ"
   ],
-  "lastUpdated": "2026-09-22T09:58:03.280Z"
+  "lastUpdated": "2026-09-22T10:11:39.465Z"
 }
