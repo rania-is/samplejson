@@ -1,7 +1,7 @@
 {
   "studyId": "OED-LLM-QUALITY-001",
   "totalAssigned": 65,
-  "completed": 64,
+  "completed": 65,
   "completedExerciseIds": [
     "EX-front-leg-raises-01KZ3V3DYKP7H891JXAGSWKWPS",
     "EX-pursed-lip-breathing-6WW2B2081KNX7AJTQX6DBM2VEK",
@@ -66,7 +66,8 @@
     "EX-lying-raised-leg-toe-taps-01KZ3V3DYT59YPX0KBDFY9QZXF",
     "EX-bicycle-crunches-01KZ3V3DYMQ0JFE1ZDQWY74XFE",
     "EX-cross-body-arm-swings-01KZ3V3DYKP7H891JXAGSWKWPM",
-    "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW"
+    "EX-standing-forward-bend-01KZ3V3DYKP7H891JXAGSWKWPW",
+    "EX-thumb-stretch-01KZ3V3DYQG2ZAZAGXM9YXKZ42"
   ],
-  "lastUpdated": "2026-09-22T11:39:51.517Z"
+  "lastUpdated": "2026-09-22T11:43:21.103Z"
 }
